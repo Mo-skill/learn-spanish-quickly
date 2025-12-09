@@ -173,11 +173,7 @@ const Home = () => {
 
             {/* Right: Hero Image - Show on all screens */}
             <div className="flex justify-center order-first lg:order-last">
-              <img
-                src="/images/hero.png"
-                alt="Learn Spanish"
-                className="w-48 h-48 sm:w-64 sm:h-64 lg:w-full lg:max-w-md rounded-2xl shadow-xl object-cover"
-              />
+             <img src="public/images/hero.png" alt="Learn Spanish" class="w-48 h-48 sm:w-64 sm:h-64 lg:w-full lg:max-w-md rounded-2xl shadow-xl object-cover">
             </div>
           </div>
         </div>
