@@ -2,7 +2,7 @@
 
 A beautiful, mobile-first Progressive Web App for learning Spanish vocabulary using science-backed learning techniques. Features spaced repetition, interactive games, audio pronunciation, and speech recognition.
 
-**[Live Demo](https://yourusername.github.io/learn-spanish-quickly/)** _(coming soon)_
+**[Live Demo](https://mo-skill.github.io/learn-spanish-quickly/)** _(coming soon)_
 
 ---
 
