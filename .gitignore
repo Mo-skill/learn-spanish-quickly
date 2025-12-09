@@ -1,0 +1,39 @@
+# dependencies
+node_modules/
+
+# production build
+dist/
+
+# development
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+
+# Misc
+*.log

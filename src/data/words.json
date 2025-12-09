@@ -1,0 +1,7961 @@
+[
+  {
+    "id": "de",
+    "spanish": "de",
+    "english": "of/from",
+    "category": "Connectors",
+    "pronunciation": "deh"
+  },
+  {
+    "id": "que",
+    "spanish": "que",
+    "english": "that/which",
+    "category": "Connectors",
+    "pronunciation": "keh"
+  },
+  {
+    "id": "y",
+    "spanish": "y",
+    "english": "and",
+    "category": "Connectors",
+    "pronunciation": "ee"
+  },
+  {
+    "id": "a",
+    "spanish": "a",
+    "english": "to/at",
+    "category": "Connectors",
+    "pronunciation": "ah"
+  },
+  {
+    "id": "en",
+    "spanish": "en",
+    "english": "in/on",
+    "category": "Connectors",
+    "pronunciation": "ehn"
+  },
+  {
+    "id": "no",
+    "spanish": "no",
+    "english": "no/not",
+    "category": "Connectors",
+    "pronunciation": "noh"
+  },
+  {
+    "id": "si",
+    "spanish": "sí",
+    "english": "yes",
+    "category": "Connectors",
+    "pronunciation": "see"
+  },
+  {
+    "id": "pero",
+    "spanish": "pero",
+    "english": "but",
+    "category": "Connectors",
+    "pronunciation": "peh-roh"
+  },
+  {
+    "id": "por",
+    "spanish": "por",
+    "english": "for/by",
+    "category": "Connectors",
+    "pronunciation": "por"
+  },
+  {
+    "id": "con",
+    "spanish": "con",
+    "english": "with",
+    "category": "Connectors",
+    "pronunciation": "kohn"
+  },
+  {
+    "id": "porque",
+    "spanish": "porque",
+    "english": "because",
+    "category": "Connectors",
+    "pronunciation": "por-keh"
+  },
+  {
+    "id": "si-2",
+    "spanish": "si",
+    "english": "if",
+    "category": "Connectors",
+    "pronunciation": "see"
+  },
+  {
+    "id": "o",
+    "spanish": "o",
+    "english": "or",
+    "category": "Connectors",
+    "pronunciation": "oh"
+  },
+  {
+    "id": "cuando",
+    "spanish": "cuando",
+    "english": "when",
+    "category": "Connectors",
+    "pronunciation": "kwan-doh"
+  },
+  {
+    "id": "muy",
+    "spanish": "muy",
+    "english": "very",
+    "category": "Connectors",
+    "pronunciation": "mwee"
+  },
+  {
+    "id": "ser",
+    "spanish": "ser",
+    "english": "to be (permanent)",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "sehr"
+  },
+  {
+    "id": "estar",
+    "spanish": "estar",
+    "english": "to be (temporary)",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "eh-star"
+  },
+  {
+    "id": "tener",
+    "spanish": "tener",
+    "english": "to have",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "teh-nehr"
+  },
+  {
+    "id": "hacer",
+    "spanish": "hacer",
+    "english": "to do/make",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "ah-sehr"
+  },
+  {
+    "id": "poder",
+    "spanish": "poder",
+    "english": "can/be able to",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "poh-dehr"
+  },
+  {
+    "id": "decir",
+    "spanish": "decir",
+    "english": "to say/tell",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "deh-seer"
+  },
+  {
+    "id": "ir",
+    "spanish": "ir",
+    "english": "to go",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "eer"
+  },
+  {
+    "id": "ver",
+    "spanish": "ver",
+    "english": "to see",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "vehr"
+  },
+  {
+    "id": "querer",
+    "spanish": "querer",
+    "english": "to want",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "keh-rehr"
+  },
+  {
+    "id": "saber",
+    "spanish": "saber",
+    "english": "to know (facts)",
+    "category": "Verbs (Top 10)",
+    "pronunciation": "sah-behr"
+  },
+  {
+    "id": "yo",
+    "spanish": "yo",
+    "english": "I",
+    "category": "Pronouns",
+    "pronunciation": "yoh"
+  },
+  {
+    "id": "tu",
+    "spanish": "tú",
+    "english": "you (informal)",
+    "category": "Pronouns",
+    "pronunciation": "too"
+  },
+  {
+    "id": "el",
+    "spanish": "él",
+    "english": "he",
+    "category": "Pronouns",
+    "pronunciation": "ehl"
+  },
+  {
+    "id": "ella",
+    "spanish": "ella",
+    "english": "she",
+    "category": "Pronouns",
+    "pronunciation": "eh-yah"
+  },
+  {
+    "id": "nosotros",
+    "spanish": "nosotros",
+    "english": "we",
+    "category": "Pronouns",
+    "pronunciation": "noh-soh-trohs"
+  },
+  {
+    "id": "ellos",
+    "spanish": "ellos",
+    "english": "they",
+    "category": "Pronouns",
+    "pronunciation": "eh-yohs"
+  },
+  {
+    "id": "usted",
+    "spanish": "usted",
+    "english": "you (formal)",
+    "category": "Pronouns",
+    "pronunciation": "oos-ted"
+  },
+  {
+    "id": "todo",
+    "spanish": "todo",
+    "english": "everything/all",
+    "category": "Pronouns",
+    "pronunciation": "toh-doh"
+  },
+  {
+    "id": "nada",
+    "spanish": "nada",
+    "english": "nothing",
+    "category": "Pronouns",
+    "pronunciation": "nah-dah"
+  },
+  {
+    "id": "algo",
+    "spanish": "algo",
+    "english": "something",
+    "category": "Pronouns",
+    "pronunciation": "al-goh"
+  },
+  {
+    "id": "hombre",
+    "spanish": "hombre",
+    "english": "man",
+    "category": "People",
+    "pronunciation": "ohm-breh"
+  },
+  {
+    "id": "mujer",
+    "spanish": "mujer",
+    "english": "woman",
+    "category": "People",
+    "pronunciation": "moo-hehr"
+  },
+  {
+    "id": "amigo",
+    "spanish": "amigo",
+    "english": "friend",
+    "category": "People",
+    "pronunciation": "ah-mee-goh"
+  },
+  {
+    "id": "familia",
+    "spanish": "familia",
+    "english": "family",
+    "category": "People",
+    "pronunciation": "fah-mee-lyah"
+  },
+  {
+    "id": "que-2",
+    "spanish": "qué",
+    "english": "what",
+    "category": "Questions",
+    "pronunciation": "keh"
+  },
+  {
+    "id": "como",
+    "spanish": "cómo",
+    "english": "how",
+    "category": "Questions",
+    "pronunciation": "koh-moh"
+  },
+  {
+    "id": "quien",
+    "spanish": "quién",
+    "english": "who",
+    "category": "Questions",
+    "pronunciation": "kyehn"
+  },
+  {
+    "id": "donde",
+    "spanish": "dónde",
+    "english": "where",
+    "category": "Questions",
+    "pronunciation": "dohn-deh"
+  },
+  {
+    "id": "por-que",
+    "spanish": "por qué",
+    "english": "why",
+    "category": "Questions",
+    "pronunciation": "por keh"
+  },
+  {
+    "id": "cuanto",
+    "spanish": "cuánto",
+    "english": "how much",
+    "category": "Questions",
+    "pronunciation": "kwan-toh"
+  },
+  {
+    "id": "cuando-2",
+    "spanish": "cuándo",
+    "english": "when",
+    "category": "Questions",
+    "pronunciation": "kwan-doh"
+  },
+  {
+    "id": "ahora",
+    "spanish": "ahora",
+    "english": "now",
+    "category": "Time",
+    "pronunciation": "ah-oh-rah"
+  },
+  {
+    "id": "hoy",
+    "spanish": "hoy",
+    "english": "today",
+    "category": "Time",
+    "pronunciation": "oy"
+  },
+  {
+    "id": "manana",
+    "spanish": "mañana",
+    "english": "tomorrow/morning",
+    "category": "Time",
+    "pronunciation": "mah-nyah-nah"
+  },
+  {
+    "id": "ayer",
+    "spanish": "ayer",
+    "english": "yesterday",
+    "category": "Time",
+    "pronunciation": "ah-yehr"
+  },
+  {
+    "id": "dia",
+    "spanish": "día",
+    "english": "day",
+    "category": "Time",
+    "pronunciation": "dee-ah"
+  },
+  {
+    "id": "noche",
+    "spanish": "noche",
+    "english": "night",
+    "category": "Time",
+    "pronunciation": "noh-cheh"
+  },
+  {
+    "id": "semana",
+    "spanish": "semana",
+    "english": "week",
+    "category": "Time",
+    "pronunciation": "seh-mah-nah"
+  },
+  {
+    "id": "ano",
+    "spanish": "año",
+    "english": "year",
+    "category": "Time",
+    "pronunciation": "ah-nyoh"
+  },
+  {
+    "id": "vez",
+    "spanish": "vez",
+    "english": "time (occurrence)",
+    "category": "Time",
+    "pronunciation": "vehs"
+  },
+  {
+    "id": "aqui",
+    "spanish": "aquí",
+    "english": "here",
+    "category": "Location",
+    "pronunciation": "ah-kee"
+  },
+  {
+    "id": "alli",
+    "spanish": "allí",
+    "english": "there",
+    "category": "Location",
+    "pronunciation": "ah-yee"
+  },
+  {
+    "id": "lugar",
+    "spanish": "lugar",
+    "english": "place",
+    "category": "Location",
+    "pronunciation": "loo-gahr"
+  },
+  {
+    "id": "bueno",
+    "spanish": "bueno",
+    "english": "good",
+    "category": "Adjectives",
+    "pronunciation": "bweh-noh"
+  },
+  {
+    "id": "malo",
+    "spanish": "malo",
+    "english": "bad",
+    "category": "Adjectives",
+    "pronunciation": "mah-loh"
+  },
+  {
+    "id": "grande",
+    "spanish": "grande",
+    "english": "big",
+    "category": "Adjectives",
+    "pronunciation": "grahn-deh"
+  },
+  {
+    "id": "pequeno",
+    "spanish": "pequeño",
+    "english": "small",
+    "category": "Adjectives",
+    "pronunciation": "peh-keh-nyoh"
+  },
+  {
+    "id": "mucho",
+    "spanish": "mucho",
+    "english": "a lot/much",
+    "category": "Adjectives",
+    "pronunciation": "moo-choh"
+  },
+  {
+    "id": "poco",
+    "spanish": "poco",
+    "english": "a little/few",
+    "category": "Adjectives",
+    "pronunciation": "poh-koh"
+  },
+  {
+    "id": "nuevo",
+    "spanish": "nuevo",
+    "english": "new",
+    "category": "Adjectives",
+    "pronunciation": "nweh-voh"
+  },
+  {
+    "id": "mismo",
+    "spanish": "mismo",
+    "english": "same",
+    "category": "Adjectives",
+    "pronunciation": "mees-moh"
+  },
+  {
+    "id": "importante",
+    "spanish": "importante",
+    "english": "important",
+    "category": "Adjectives",
+    "pronunciation": "eem-por-tahn-teh"
+  },
+  {
+    "id": "verdad",
+    "spanish": "verdad",
+    "english": "truth",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "vehr-dahd"
+  },
+  {
+    "id": "dar",
+    "spanish": "dar",
+    "english": "to give",
+    "category": "Verbs (Action)",
+    "pronunciation": "dahr"
+  },
+  {
+    "id": "hablar",
+    "spanish": "hablar",
+    "english": "to speak",
+    "category": "Verbs (Action)",
+    "pronunciation": "ah-blahr"
+  },
+  {
+    "id": "encontrar",
+    "spanish": "encontrar",
+    "english": "to find",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehn-kohn-trahr"
+  },
+  {
+    "id": "llevar",
+    "spanish": "llevar",
+    "english": "to wear/carry",
+    "category": "Verbs (Action)",
+    "pronunciation": "yeh-vahr"
+  },
+  {
+    "id": "mirar",
+    "spanish": "mirar",
+    "english": "to look/watch",
+    "category": "Verbs (Action)",
+    "pronunciation": "mee-rahr"
+  },
+  {
+    "id": "creer",
+    "spanish": "creer",
+    "english": "to believe",
+    "category": "Verbs (Action)",
+    "pronunciation": "kreh-ehr"
+  },
+  {
+    "id": "empezar",
+    "spanish": "empezar",
+    "english": "to start",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehm-peh-sahr"
+  },
+  {
+    "id": "esperar",
+    "spanish": "esperar",
+    "english": "to wait/hope",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehs-peh-rahr"
+  },
+  {
+    "id": "buscar",
+    "spanish": "buscar",
+    "english": "to look for",
+    "category": "Verbs (Action)",
+    "pronunciation": "boos-kahr"
+  },
+  {
+    "id": "existir",
+    "spanish": "existir",
+    "english": "to exist",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehk-sees-teer"
+  },
+  {
+    "id": "entrar",
+    "spanish": "entrar",
+    "english": "to enter",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehn-trahr"
+  },
+  {
+    "id": "trabajar",
+    "spanish": "trabajar",
+    "english": "to work",
+    "category": "Verbs (Action)",
+    "pronunciation": "trah-bah-hahr"
+  },
+  {
+    "id": "escribir",
+    "spanish": "escribir",
+    "english": "to write",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehs-kree-beer"
+  },
+  {
+    "id": "perder",
+    "spanish": "perder",
+    "english": "to lose",
+    "category": "Verbs (Action)",
+    "pronunciation": "pehr-dehr"
+  },
+  {
+    "id": "entender",
+    "spanish": "entender",
+    "english": "to understand",
+    "category": "Verbs (Action)",
+    "pronunciation": "ehn-ten-dehr"
+  },
+  {
+    "id": "pedir",
+    "spanish": "pedir",
+    "english": "to ask for",
+    "category": "Verbs (Action)",
+    "pronunciation": "peh-deer"
+  },
+  {
+    "id": "recibir",
+    "spanish": "recibir",
+    "english": "to receive",
+    "category": "Verbs (Action)",
+    "pronunciation": "reh-see-beer"
+  },
+  {
+    "id": "recordar",
+    "spanish": "recordar",
+    "english": "to remember",
+    "category": "Verbs (Action)",
+    "pronunciation": "reh-kor-dahr"
+  },
+  {
+    "id": "terminar",
+    "spanish": "terminar",
+    "english": "to finish",
+    "category": "Verbs (Action)",
+    "pronunciation": "tehr-mee-nahr"
+  },
+  {
+    "id": "permitir",
+    "spanish": "permitir",
+    "english": "to allow",
+    "category": "Verbs (Action)",
+    "pronunciation": "pehr-mee-teer"
+  },
+  {
+    "id": "aparecer",
+    "spanish": "aparecer",
+    "english": "to appear",
+    "category": "Verbs (Action)",
+    "pronunciation": "ah-pah-reh-sehr"
+  },
+  {
+    "id": "conseguir",
+    "spanish": "conseguir",
+    "english": "to get/obtain",
+    "category": "Verbs (Action)",
+    "pronunciation": "kohn-seh-geer"
+  },
+  {
+    "id": "comenzar",
+    "spanish": "comenzar",
+    "english": "to begin",
+    "category": "Verbs (Action)",
+    "pronunciation": "koh-men-sahr"
+  },
+  {
+    "id": "servir",
+    "spanish": "servir",
+    "english": "to serve",
+    "category": "Verbs (Action)",
+    "pronunciation": "sehr-veer"
+  },
+  {
+    "id": "sacar",
+    "spanish": "sacar",
+    "english": "to take out",
+    "category": "Verbs (Action)",
+    "pronunciation": "sah-kahr"
+  },
+  {
+    "id": "necesitar",
+    "spanish": "necesitar",
+    "english": "to need",
+    "category": "Verbs (Action)",
+    "pronunciation": "neh-seh-see-tahr"
+  },
+  {
+    "id": "mantener",
+    "spanish": "mantener",
+    "english": "to maintain",
+    "category": "Verbs (Action)",
+    "pronunciation": "mahn-teh-nehr"
+  },
+  {
+    "id": "leer",
+    "spanish": "leer",
+    "english": "to read",
+    "category": "Verbs (Action)",
+    "pronunciation": "leh-ehr"
+  },
+  {
+    "id": "caer",
+    "spanish": "caer",
+    "english": "to fall",
+    "category": "Verbs (Action)",
+    "pronunciation": "kah-ehr"
+  },
+  {
+    "id": "cambiar",
+    "spanish": "cambiar",
+    "english": "to change",
+    "category": "Verbs (Action)",
+    "pronunciation": "kahm-byahr"
+  },
+  {
+    "id": "gente",
+    "spanish": "gente",
+    "english": "people",
+    "category": "People",
+    "pronunciation": "hen-teh"
+  },
+  {
+    "id": "persona",
+    "spanish": "persona",
+    "english": "person",
+    "category": "People",
+    "pronunciation": "pehr-soh-nah"
+  },
+  {
+    "id": "nino",
+    "spanish": "niño",
+    "english": "boy",
+    "category": "People",
+    "pronunciation": "nee-nyoh"
+  },
+  {
+    "id": "nina",
+    "spanish": "niña",
+    "english": "girl",
+    "category": "People",
+    "pronunciation": "nee-nyah"
+  },
+  {
+    "id": "hijo",
+    "spanish": "hijo",
+    "english": "son",
+    "category": "People",
+    "pronunciation": "ee-hoh"
+  },
+  {
+    "id": "hija",
+    "spanish": "hija",
+    "english": "daughter",
+    "category": "People",
+    "pronunciation": "ee-hah"
+  },
+  {
+    "id": "padre",
+    "spanish": "padre",
+    "english": "father",
+    "category": "People",
+    "pronunciation": "pah-dreh"
+  },
+  {
+    "id": "madre",
+    "spanish": "madre",
+    "english": "mother",
+    "category": "People",
+    "pronunciation": "mah-dreh"
+  },
+  {
+    "id": "hermano",
+    "spanish": "hermano",
+    "english": "brother",
+    "category": "People",
+    "pronunciation": "ehr-mah-noh"
+  },
+  {
+    "id": "hermana",
+    "spanish": "hermana",
+    "english": "sister",
+    "category": "People",
+    "pronunciation": "ehr-mah-nah"
+  },
+  {
+    "id": "senor",
+    "spanish": "señor",
+    "english": "Mr./sir",
+    "category": "People",
+    "pronunciation": "seh-nyohr"
+  },
+  {
+    "id": "senora",
+    "spanish": "señora",
+    "english": "Mrs./madam",
+    "category": "People",
+    "pronunciation": "seh-nyoh-rah"
+  },
+  {
+    "id": "nombre",
+    "spanish": "nombre",
+    "english": "name",
+    "category": "People",
+    "pronunciation": "nohm-breh"
+  },
+  {
+    "id": "grupo",
+    "spanish": "grupo",
+    "english": "group",
+    "category": "People",
+    "pronunciation": "groo-poh"
+  },
+  {
+    "id": "trabajo",
+    "spanish": "trabajo",
+    "english": "job/work",
+    "category": "Nouns (General)",
+    "pronunciation": "trah-bah-hoh"
+  },
+  {
+    "id": "pais",
+    "spanish": "país",
+    "english": "country",
+    "category": "Nouns (General)",
+    "pronunciation": "pah-ees"
+  },
+  {
+    "id": "mundo",
+    "spanish": "mundo",
+    "english": "world",
+    "category": "Nouns (General)",
+    "pronunciation": "moon-doh"
+  },
+  {
+    "id": "mano",
+    "spanish": "mano",
+    "english": "hand",
+    "category": "Body",
+    "pronunciation": "mah-noh"
+  },
+  {
+    "id": "ojos",
+    "spanish": "ojos",
+    "english": "eyes",
+    "category": "Body",
+    "pronunciation": "oh-hos"
+  },
+  {
+    "id": "cuerpo",
+    "spanish": "cuerpo",
+    "english": "body",
+    "category": "Body",
+    "pronunciation": "kwehr-poh"
+  },
+  {
+    "id": "mente",
+    "spanish": "mente",
+    "english": "mind",
+    "category": "Body",
+    "pronunciation": "men-teh"
+  },
+  {
+    "id": "vida",
+    "spanish": "vida",
+    "english": "life",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "vee-dah"
+  },
+  {
+    "id": "casa",
+    "spanish": "casa",
+    "english": "house",
+    "category": "House/City",
+    "pronunciation": "kah-sah"
+  },
+  {
+    "id": "agua",
+    "spanish": "agua",
+    "english": "water",
+    "category": "Food/Drink",
+    "pronunciation": "ah-gwah"
+  },
+  {
+    "id": "puerta",
+    "spanish": "puerta",
+    "english": "door",
+    "category": "House/City",
+    "pronunciation": "pwehr-tah"
+  },
+  {
+    "id": "calle",
+    "spanish": "calle",
+    "english": "street",
+    "category": "House/City",
+    "pronunciation": "kah-yeh"
+  },
+  {
+    "id": "ciudad",
+    "spanish": "ciudad",
+    "english": "city",
+    "category": "House/City",
+    "pronunciation": "syoo-dahd"
+  },
+  {
+    "id": "coche",
+    "spanish": "coche",
+    "english": "car",
+    "category": "House/City",
+    "pronunciation": "koh-cheh"
+  },
+  {
+    "id": "camino",
+    "spanish": "camino",
+    "english": "road/path",
+    "category": "House/City",
+    "pronunciation": "kah-mee-noh"
+  },
+  {
+    "id": "dinero",
+    "spanish": "dinero",
+    "english": "money",
+    "category": "House/City",
+    "pronunciation": "dee-neh-roh"
+  },
+  {
+    "id": "mesa",
+    "spanish": "mesa",
+    "english": "table",
+    "category": "House/City",
+    "pronunciation": "meh-sah"
+  },
+  {
+    "id": "libro",
+    "spanish": "libro",
+    "english": "book",
+    "category": "Objects",
+    "pronunciation": "lee-broh"
+  },
+  {
+    "id": "escuela",
+    "spanish": "escuela",
+    "english": "school",
+    "category": "House/City",
+    "pronunciation": "ehs-kweh-lah"
+  },
+  {
+    "id": "problema",
+    "spanish": "problema",
+    "english": "problem",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "proh-bleh-mah"
+  },
+  {
+    "id": "historia",
+    "spanish": "historia",
+    "english": "history/story",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "ees-toh-ryah"
+  },
+  {
+    "id": "palabra",
+    "spanish": "palabra",
+    "english": "word",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "pah-lah-brah"
+  },
+  {
+    "id": "numero",
+    "spanish": "número",
+    "english": "number",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "noo-meh-roh"
+  },
+  {
+    "id": "sistema",
+    "spanish": "sistema",
+    "english": "system",
+    "category": "Nouns (Abstract)",
+    "pronunciation": "sees-teh-mah"
+  },
+  {
+    "id": "hora",
+    "spanish": "hora",
+    "english": "hour",
+    "category": "Time",
+    "pronunciation": "oh-rah"
+  },
+  {
+    "id": "minuto",
+    "spanish": "minuto",
+    "english": "minute",
+    "category": "Time",
+    "pronunciation": "mee-noo-toh"
+  },
+  {
+    "id": "mes",
+    "spanish": "mes",
+    "english": "month",
+    "category": "Time",
+    "pronunciation": "mehs"
+  },
+  {
+    "id": "luz",
+    "spanish": "luz",
+    "english": "light",
+    "category": "Nouns (General)",
+    "pronunciation": "loos"
+  },
+  {
+    "id": "comer",
+    "spanish": "comer",
+    "english": "to eat",
+    "category": "Food/Drink",
+    "pronunciation": "koh-mehr"
+  },
+  {
+    "id": "beber",
+    "spanish": "beber",
+    "english": "to drink",
+    "category": "Food/Drink",
+    "pronunciation": "beh-behr"
+  },
+  {
+    "id": "desayuno",
+    "spanish": "desayuno",
+    "english": "breakfast",
+    "category": "Food/Drink",
+    "pronunciation": "deh-sah-yoo-noh"
+  },
+  {
+    "id": "almuerzo",
+    "spanish": "almuerzo",
+    "english": "lunch",
+    "category": "Food/Drink",
+    "pronunciation": "ahl-mwehr-soh"
+  },
+  {
+    "id": "cena",
+    "spanish": "cena",
+    "english": "dinner",
+    "category": "Food/Drink",
+    "pronunciation": "seh-nah"
+  },
+  {
+    "id": "pan",
+    "spanish": "pan",
+    "english": "bread",
+    "category": "Food/Drink",
+    "pronunciation": "pahn"
+  },
+  {
+    "id": "carne",
+    "spanish": "carne",
+    "english": "meat",
+    "category": "Food/Drink",
+    "pronunciation": "kahr-neh"
+  },
+  {
+    "id": "pollo",
+    "spanish": "pollo",
+    "english": "chicken",
+    "category": "Food/Drink",
+    "pronunciation": "poh-yoh"
+  },
+  {
+    "id": "pescado",
+    "spanish": "pescado",
+    "english": "fish (food)",
+    "category": "Food/Drink",
+    "pronunciation": "pes-kah-doh"
+  },
+  {
+    "id": "fruta",
+    "spanish": "fruta",
+    "english": "fruit",
+    "category": "Food/Drink",
+    "pronunciation": "froo-tah"
+  },
+  {
+    "id": "verduras",
+    "spanish": "verduras",
+    "english": "vegetables",
+    "category": "Food/Drink",
+    "pronunciation": "vehr-doo-rahs"
+  },
+  {
+    "id": "cerveza",
+    "spanish": "cerveza",
+    "english": "beer",
+    "category": "Food/Drink",
+    "pronunciation": "sehr-veh-sah"
+  },
+  {
+    "id": "vino",
+    "spanish": "vino",
+    "english": "wine",
+    "category": "Food/Drink",
+    "pronunciation": "vee-noh"
+  },
+  {
+    "id": "leche",
+    "spanish": "leche",
+    "english": "milk",
+    "category": "Food/Drink",
+    "pronunciation": "leh-cheh"
+  },
+  {
+    "id": "cafe",
+    "spanish": "café",
+    "english": "coffee",
+    "category": "Food/Drink",
+    "pronunciation": "kah-feh"
+  },
+  {
+    "id": "cuenta",
+    "spanish": "cuenta",
+    "english": "bill/check",
+    "category": "Dining",
+    "pronunciation": "kwen-tah"
+  },
+  {
+    "id": "hambre",
+    "spanish": "hambre",
+    "english": "hunger",
+    "category": "Feelings",
+    "pronunciation": "ahm-breh"
+  },
+  {
+    "id": "sed",
+    "spanish": "sed",
+    "english": "thirst",
+    "category": "Feelings",
+    "pronunciation": "sed"
+  },
+  {
+    "id": "delicioso",
+    "spanish": "delicioso",
+    "english": "delicious",
+    "category": "Adjectives",
+    "pronunciation": "deh-lee-syoh-soh"
+  },
+  {
+    "id": "cocina",
+    "spanish": "cocina",
+    "english": "kitchen",
+    "category": "House",
+    "pronunciation": "koh-see-nah"
+  },
+  {
+    "id": "viajar",
+    "spanish": "viajar",
+    "english": "to travel",
+    "category": "Travel",
+    "pronunciation": "vyah-hahr"
+  },
+  {
+    "id": "avion",
+    "spanish": "avión",
+    "english": "airplane",
+    "category": "Travel",
+    "pronunciation": "ah-vyohn"
+  },
+  {
+    "id": "aeropuerto",
+    "spanish": "aeropuerto",
+    "english": "airport",
+    "category": "Travel",
+    "pronunciation": "ah-eh-roh-pwehr-toh"
+  },
+  {
+    "id": "tren",
+    "spanish": "tren",
+    "english": "train",
+    "category": "Travel",
+    "pronunciation": "trehn"
+  },
+  {
+    "id": "autobus",
+    "spanish": "autobús",
+    "english": "bus",
+    "category": "Travel",
+    "pronunciation": "ow-toh-boos"
+  },
+  {
+    "id": "boleto",
+    "spanish": "boleto",
+    "english": "ticket",
+    "category": "Travel",
+    "pronunciation": "boh-leh-toh"
+  },
+  {
+    "id": "pasaporte",
+    "spanish": "pasaporte",
+    "english": "passport",
+    "category": "Travel",
+    "pronunciation": "pah-sah-por-teh"
+  },
+  {
+    "id": "maleta",
+    "spanish": "maleta",
+    "english": "suitcase",
+    "category": "Travel",
+    "pronunciation": "mah-leh-tah"
+  },
+  {
+    "id": "mapa",
+    "spanish": "mapa",
+    "english": "map",
+    "category": "Travel",
+    "pronunciation": "mah-pah"
+  },
+  {
+    "id": "izquierda",
+    "spanish": "izquierda",
+    "english": "left",
+    "category": "Directions",
+    "pronunciation": "ees-kyehr-dah"
+  },
+  {
+    "id": "derecha",
+    "spanish": "derecha",
+    "english": "right",
+    "category": "Directions",
+    "pronunciation": "deh-reh-chah"
+  },
+  {
+    "id": "derecho",
+    "spanish": "derecho",
+    "english": "straight ahead",
+    "category": "Directions",
+    "pronunciation": "deh-reh-choh"
+  },
+  {
+    "id": "cerca",
+    "spanish": "cerca",
+    "english": "near",
+    "category": "Directions",
+    "pronunciation": "sehr-kah"
+  },
+  {
+    "id": "lejos",
+    "spanish": "lejos",
+    "english": "far",
+    "category": "Directions",
+    "pronunciation": "leh-hos"
+  },
+  {
+    "id": "entrada",
+    "spanish": "entrada",
+    "english": "entrance",
+    "category": "Directions",
+    "pronunciation": "ehn-trah-dah"
+  },
+  {
+    "id": "salida",
+    "spanish": "salida",
+    "english": "exit",
+    "category": "Directions",
+    "pronunciation": "sah-lee-dah"
+  },
+  {
+    "id": "arriba",
+    "spanish": "arriba",
+    "english": "up/above",
+    "category": "Directions",
+    "pronunciation": "ah-rree-bah"
+  },
+  {
+    "id": "abajo",
+    "spanish": "abajo",
+    "english": "down/below",
+    "category": "Directions",
+    "pronunciation": "ah-bah-hoh"
+  },
+  {
+    "id": "estacion",
+    "spanish": "estación",
+    "english": "station",
+    "category": "Travel",
+    "pronunciation": "ehs-ta-syohn"
+  },
+  {
+    "id": "hotel",
+    "spanish": "hotel",
+    "english": "hotel",
+    "category": "Travel",
+    "pronunciation": "oh-tel"
+  },
+  {
+    "id": "comprar",
+    "spanish": "comprar",
+    "english": "to buy",
+    "category": "Shopping",
+    "pronunciation": "kohm-prahr"
+  },
+  {
+    "id": "vender",
+    "spanish": "vender",
+    "english": "to sell",
+    "category": "Shopping",
+    "pronunciation": "ven-dehr"
+  },
+  {
+    "id": "pagar",
+    "spanish": "pagar",
+    "english": "to pay",
+    "category": "Shopping",
+    "pronunciation": "pah-gahr"
+  },
+  {
+    "id": "precio",
+    "spanish": "precio",
+    "english": "price",
+    "category": "Shopping",
+    "pronunciation": "preh-syoh"
+  },
+  {
+    "id": "barato",
+    "spanish": "barato",
+    "english": "cheap",
+    "category": "Adjectives",
+    "pronunciation": "bah-rah-toh"
+  },
+  {
+    "id": "caro",
+    "spanish": "caro",
+    "english": "expensive",
+    "category": "Adjectives",
+    "pronunciation": "kah-roh"
+  },
+  {
+    "id": "tienda",
+    "spanish": "tienda",
+    "english": "store",
+    "category": "Shopping",
+    "pronunciation": "tyen-dah"
+  },
+  {
+    "id": "mercado",
+    "spanish": "mercado",
+    "english": "market",
+    "category": "Shopping",
+    "pronunciation": "mehr-kah-doh"
+  },
+  {
+    "id": "abierto",
+    "spanish": "abierto",
+    "english": "open",
+    "category": "Adjectives",
+    "pronunciation": "ah-byehr-toh"
+  },
+  {
+    "id": "cerrado",
+    "spanish": "cerrado",
+    "english": "closed",
+    "category": "Adjectives",
+    "pronunciation": "seh-rrah-doh"
+  },
+  {
+    "id": "ropa",
+    "spanish": "ropa",
+    "english": "clothes",
+    "category": "Clothing",
+    "pronunciation": "rroh-pah"
+  },
+  {
+    "id": "camisa",
+    "spanish": "camisa",
+    "english": "shirt",
+    "category": "Clothing",
+    "pronunciation": "kah-mee-sah"
+  },
+  {
+    "id": "pantalones",
+    "spanish": "pantalones",
+    "english": "pants",
+    "category": "Clothing",
+    "pronunciation": "pahn-tah-loh-nes"
+  },
+  {
+    "id": "zapatos",
+    "spanish": "zapatos",
+    "english": "shoes",
+    "category": "Clothing",
+    "pronunciation": "sah-pah-tohs"
+  },
+  {
+    "id": "vestido",
+    "spanish": "vestido",
+    "english": "dress",
+    "category": "Clothing",
+    "pronunciation": "ves-tee-doh"
+  },
+  {
+    "id": "bolsa",
+    "spanish": "bolsa",
+    "english": "bag",
+    "category": "Clothing",
+    "pronunciation": "bohl-sah"
+  },
+  {
+    "id": "tarjeta",
+    "spanish": "tarjeta",
+    "english": "card",
+    "category": "Shopping",
+    "pronunciation": "tahr-heh-tah"
+  },
+  {
+    "id": "regalo",
+    "spanish": "regalo",
+    "english": "gift",
+    "category": "Shopping",
+    "pronunciation": "reh-gah-loh"
+  },
+  {
+    "id": "efectivo",
+    "spanish": "efectivo",
+    "english": "cash",
+    "category": "Shopping",
+    "pronunciation": "eh-fek-tee-voh"
+  },
+  {
+    "id": "color",
+    "spanish": "color",
+    "english": "color",
+    "category": "Colors",
+    "pronunciation": "koh-lohr"
+  },
+  {
+    "id": "rojo",
+    "spanish": "rojo",
+    "english": "red",
+    "category": "Colors",
+    "pronunciation": "rroh-hoh"
+  },
+  {
+    "id": "azul",
+    "spanish": "azul",
+    "english": "blue",
+    "category": "Colors",
+    "pronunciation": "ah-sool"
+  },
+  {
+    "id": "verde",
+    "spanish": "verde",
+    "english": "green",
+    "category": "Colors",
+    "pronunciation": "vehr-deh"
+  },
+  {
+    "id": "blanco",
+    "spanish": "blanco",
+    "english": "white",
+    "category": "Colors",
+    "pronunciation": "blahn-koh"
+  },
+  {
+    "id": "negro",
+    "spanish": "negro",
+    "english": "black",
+    "category": "Colors",
+    "pronunciation": "neh-groh"
+  },
+  {
+    "id": "amarillo",
+    "spanish": "amarillo",
+    "english": "yellow",
+    "category": "Colors",
+    "pronunciation": "ah-mah-ree-yoh"
+  },
+  {
+    "id": "sucio",
+    "spanish": "sucio",
+    "english": "dirty",
+    "category": "Adjectives",
+    "pronunciation": "soo-syoh"
+  },
+  {
+    "id": "limpio",
+    "spanish": "limpio",
+    "english": "clean",
+    "category": "Adjectives",
+    "pronunciation": "leem-pyoh"
+  },
+  {
+    "id": "caliente",
+    "spanish": "caliente",
+    "english": "hot",
+    "category": "Adjectives",
+    "pronunciation": "kah-lyen-teh"
+  },
+  {
+    "id": "frio",
+    "spanish": "frío",
+    "english": "cold",
+    "category": "Adjectives",
+    "pronunciation": "free-oh"
+  },
+  {
+    "id": "lleno",
+    "spanish": "lleno",
+    "english": "full",
+    "category": "Adjectives",
+    "pronunciation": "yeh-noh"
+  },
+  {
+    "id": "vacio",
+    "spanish": "vacío",
+    "english": "empty",
+    "category": "Adjectives",
+    "pronunciation": "vah-see-oh"
+  },
+  {
+    "id": "listo",
+    "spanish": "listo",
+    "english": "ready/smart",
+    "category": "Adjectives",
+    "pronunciation": "lees-toh"
+  },
+  {
+    "id": "rapido",
+    "spanish": "rápido",
+    "english": "fast",
+    "category": "Adjectives",
+    "pronunciation": "rrah-pee-doh"
+  },
+  {
+    "id": "lento",
+    "spanish": "lento",
+    "english": "slow",
+    "category": "Adjectives",
+    "pronunciation": "len-toh"
+  },
+  {
+    "id": "sentir",
+    "spanish": "sentir",
+    "english": "to feel",
+    "category": "Health",
+    "pronunciation": "sen-teer"
+  },
+  {
+    "id": "doler",
+    "spanish": "doler",
+    "english": "to hurt",
+    "category": "Health",
+    "pronunciation": "doh-lehr"
+  },
+  {
+    "id": "dolor",
+    "spanish": "dolor",
+    "english": "pain",
+    "category": "Health",
+    "pronunciation": "doh-lohr"
+  },
+  {
+    "id": "enfermo",
+    "spanish": "enfermo",
+    "english": "sick",
+    "category": "Health",
+    "pronunciation": "ehn-fehr-moh"
+  },
+  {
+    "id": "cansado",
+    "spanish": "cansado",
+    "english": "tired",
+    "category": "Health",
+    "pronunciation": "kahn-sah-doh"
+  },
+  {
+    "id": "feliz",
+    "spanish": "feliz",
+    "english": "happy",
+    "category": "Health",
+    "pronunciation": "feh-lees"
+  },
+  {
+    "id": "triste",
+    "spanish": "triste",
+    "english": "sad",
+    "category": "Health",
+    "pronunciation": "trees-teh"
+  },
+  {
+    "id": "enojado",
+    "spanish": "enojado",
+    "english": "angry",
+    "category": "Health",
+    "pronunciation": "eh-noh-hah-doh"
+  },
+  {
+    "id": "miedo",
+    "spanish": "miedo",
+    "english": "fear",
+    "category": "Health",
+    "pronunciation": "myeh-doh"
+  },
+  {
+    "id": "cabeza",
+    "spanish": "cabeza",
+    "english": "head",
+    "category": "Body",
+    "pronunciation": "kah-beh-sah"
+  },
+  {
+    "id": "estomago",
+    "spanish": "estómago",
+    "english": "stomach",
+    "category": "Body",
+    "pronunciation": "ehs-toh-mah-goh"
+  },
+  {
+    "id": "medico",
+    "spanish": "médico",
+    "english": "doctor",
+    "category": "Health",
+    "pronunciation": "meh-dee-koh"
+  },
+  {
+    "id": "medicina",
+    "spanish": "medicina",
+    "english": "medicine",
+    "category": "Health",
+    "pronunciation": "meh-dee-see-nah"
+  },
+  {
+    "id": "ayuda",
+    "spanish": "ayuda",
+    "english": "help",
+    "category": "Health",
+    "pronunciation": "ah-yoo-dah"
+  },
+  {
+    "id": "amor",
+    "spanish": "amor",
+    "english": "love",
+    "category": "Abstract",
+    "pronunciation": "ah-mohr"
+  },
+  {
+    "id": "salud",
+    "spanish": "salud",
+    "english": "health",
+    "category": "Health",
+    "pronunciation": "sah-lood"
+  },
+  {
+    "id": "celular",
+    "spanish": "celular",
+    "english": "cell phone",
+    "category": "Tech",
+    "pronunciation": "seh-loo-lahr"
+  },
+  {
+    "id": "computadora",
+    "spanish": "computadora",
+    "english": "computer",
+    "category": "Tech",
+    "pronunciation": "kom-poo-tah-doh-rah"
+  },
+  {
+    "id": "internet",
+    "spanish": "internet",
+    "english": "internet",
+    "category": "Tech",
+    "pronunciation": "een-tehr-net"
+  },
+  {
+    "id": "mensaje",
+    "spanish": "mensaje",
+    "english": "message",
+    "category": "Tech",
+    "pronunciation": "men-sah-heh"
+  },
+  {
+    "id": "llamada",
+    "spanish": "llamada",
+    "english": "call",
+    "category": "Tech",
+    "pronunciation": "yah-mah-dah"
+  },
+  {
+    "id": "correo",
+    "spanish": "correo",
+    "english": "email/mail",
+    "category": "Tech",
+    "pronunciation": "koh-rreh-oh"
+  },
+  {
+    "id": "foto",
+    "spanish": "foto",
+    "english": "photo",
+    "category": "Tech",
+    "pronunciation": "foh-toh"
+  },
+  {
+    "id": "video",
+    "spanish": "video",
+    "english": "video",
+    "category": "Tech",
+    "pronunciation": "bee-deh-oh"
+  },
+  {
+    "id": "noticia",
+    "spanish": "noticia",
+    "english": "news",
+    "category": "Tech",
+    "pronunciation": "noh-tee-syah"
+  },
+  {
+    "id": "cancion",
+    "spanish": "canción",
+    "english": "song",
+    "category": "Media",
+    "pronunciation": "kahn-syohn"
+  },
+  {
+    "id": "pelicula",
+    "spanish": "película",
+    "english": "movie",
+    "category": "Media",
+    "pronunciation": "peh-lee-koo-lah"
+  },
+  {
+    "id": "juego",
+    "spanish": "juego",
+    "english": "game",
+    "category": "Media",
+    "pronunciation": "hweh-goh"
+  },
+  {
+    "id": "pantalla",
+    "spanish": "pantalla",
+    "english": "screen",
+    "category": "Tech",
+    "pronunciation": "pahn-tah-yah"
+  },
+  {
+    "id": "funcionar",
+    "spanish": "funcionar",
+    "english": "to work/function",
+    "category": "Tech",
+    "pronunciation": "foon-syo-nahr"
+  },
+  {
+    "id": "sol",
+    "spanish": "sol",
+    "english": "sun",
+    "category": "Nature",
+    "pronunciation": "sohl"
+  },
+  {
+    "id": "luna",
+    "spanish": "luna",
+    "english": "moon",
+    "category": "Nature",
+    "pronunciation": "loo-nah"
+  },
+  {
+    "id": "cielo",
+    "spanish": "cielo",
+    "english": "sky",
+    "category": "Nature",
+    "pronunciation": "syeh-loh"
+  },
+  {
+    "id": "tierra",
+    "spanish": "tierra",
+    "english": "earth/ground",
+    "category": "Nature",
+    "pronunciation": "tyeh-rrah"
+  },
+  {
+    "id": "mar",
+    "spanish": "mar",
+    "english": "sea",
+    "category": "Nature",
+    "pronunciation": "mahr"
+  },
+  {
+    "id": "playa",
+    "spanish": "playa",
+    "english": "beach",
+    "category": "Nature",
+    "pronunciation": "plah-yah"
+  },
+  {
+    "id": "aire",
+    "spanish": "aire",
+    "english": "air",
+    "category": "Nature",
+    "pronunciation": "ay-reh"
+  },
+  {
+    "id": "fuego",
+    "spanish": "fuego",
+    "english": "fire",
+    "category": "Nature",
+    "pronunciation": "fweh-goh"
+  },
+  {
+    "id": "viento",
+    "spanish": "viento",
+    "english": "wind",
+    "category": "Nature",
+    "pronunciation": "byen-toh"
+  },
+  {
+    "id": "lluvia",
+    "spanish": "lluvia",
+    "english": "rain",
+    "category": "Nature",
+    "pronunciation": "yoo-byah"
+  },
+  {
+    "id": "arbol",
+    "spanish": "árbol",
+    "english": "tree",
+    "category": "Nature",
+    "pronunciation": "ahr-bohl"
+  },
+  {
+    "id": "flor",
+    "spanish": "flor",
+    "english": "flower",
+    "category": "Nature",
+    "pronunciation": "flohr"
+  },
+  {
+    "id": "animal",
+    "spanish": "animal",
+    "english": "animal",
+    "category": "Nature",
+    "pronunciation": "ah-nee-mahl"
+  },
+  {
+    "id": "perro",
+    "spanish": "perro",
+    "english": "dog",
+    "category": "Nature",
+    "pronunciation": "peh-rroh"
+  },
+  {
+    "id": "gato",
+    "spanish": "gato",
+    "english": "cat",
+    "category": "Nature",
+    "pronunciation": "gah-toh"
+  },
+  {
+    "id": "pajaro",
+    "spanish": "pájaro",
+    "english": "bird",
+    "category": "Nature",
+    "pronunciation": "pah-hah-roh"
+  },
+  {
+    "id": "pez",
+    "spanish": "pez",
+    "english": "fish (alive)",
+    "category": "Nature",
+    "pronunciation": "pes"
+  },
+  {
+    "id": "campo",
+    "spanish": "campo",
+    "english": "countryside",
+    "category": "Nature",
+    "pronunciation": "kahm-poh"
+  },
+  {
+    "id": "montana",
+    "spanish": "montaña",
+    "english": "mountain",
+    "category": "Nature",
+    "pronunciation": "mohn-tah-nyah"
+  },
+  {
+    "id": "rio",
+    "spanish": "río",
+    "english": "river",
+    "category": "Nature",
+    "pronunciation": "ree-oh"
+  },
+  {
+    "id": "gustar",
+    "spanish": "gustar",
+    "english": "to like",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "goos-tahr"
+  },
+  {
+    "id": "quedar",
+    "spanish": "quedar",
+    "english": "to stay/remain",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "keh-dahr"
+  },
+  {
+    "id": "parecer",
+    "spanish": "parecer",
+    "english": "to seem",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "pah-reh-sehr"
+  },
+  {
+    "id": "dejar",
+    "spanish": "dejar",
+    "english": "to leave/let",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "deh-hahr"
+  },
+  {
+    "id": "volver",
+    "spanish": "volver",
+    "english": "to return",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "bohl-vehr"
+  },
+  {
+    "id": "salir",
+    "spanish": "salir",
+    "english": "to go out",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "sah-leer"
+  },
+  {
+    "id": "jugar",
+    "spanish": "jugar",
+    "english": "to play",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "hoo-gahr"
+  },
+  {
+    "id": "oir",
+    "spanish": "oír",
+    "english": "to hear",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "oh-eer"
+  },
+  {
+    "id": "tocar",
+    "spanish": "tocar",
+    "english": "to touch/play",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "toh-kahr"
+  },
+  {
+    "id": "correr",
+    "spanish": "correr",
+    "english": "to run",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "koh-rreh"
+  },
+  {
+    "id": "caminar",
+    "spanish": "caminar",
+    "english": "to walk",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "kah-mee-nahr"
+  },
+  {
+    "id": "sentar",
+    "spanish": "sentar",
+    "english": "to sit",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "sen-tahr"
+  },
+  {
+    "id": "levantar",
+    "spanish": "levantar",
+    "english": "to lift/get up",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "leh-bahn-tahr"
+  },
+  {
+    "id": "dormir",
+    "spanish": "dormir",
+    "english": "to sleep",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "dor-meer"
+  },
+  {
+    "id": "morir",
+    "spanish": "morir",
+    "english": "to die",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "moh-reer"
+  },
+  {
+    "id": "nacer",
+    "spanish": "nacer",
+    "english": "to be born",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "nah-sehr"
+  },
+  {
+    "id": "abrir",
+    "spanish": "abrir",
+    "english": "to open",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "ah-breer"
+  },
+  {
+    "id": "cerrar",
+    "spanish": "cerrar",
+    "english": "to close",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "seh-rrahr"
+  },
+  {
+    "id": "ganar",
+    "spanish": "ganar",
+    "english": "to win/earn",
+    "category": "Verbs (Advanced)",
+    "pronunciation": "gah-nahr"
+  },
+  {
+    "id": "idea",
+    "spanish": "idea",
+    "english": "idea",
+    "category": "Abstract",
+    "pronunciation": "ee-deh-ah"
+  },
+  {
+    "id": "razon",
+    "spanish": "razón",
+    "english": "reason",
+    "category": "Abstract",
+    "pronunciation": "rah-sohn"
+  },
+  {
+    "id": "manera",
+    "spanish": "manera",
+    "english": "way/manner",
+    "category": "Abstract",
+    "pronunciation": "mah-neh-rah"
+  },
+  {
+    "id": "tipo",
+    "spanish": "tipo",
+    "english": "type/guy",
+    "category": "Abstract",
+    "pronunciation": "tee-poh"
+  },
+  {
+    "id": "parte",
+    "spanish": "parte",
+    "english": "part",
+    "category": "Abstract",
+    "pronunciation": "pahr-teh"
+  },
+  {
+    "id": "ejemplo",
+    "spanish": "ejemplo",
+    "english": "example",
+    "category": "Abstract",
+    "pronunciation": "eh-hem-ploh"
+  },
+  {
+    "id": "hecho",
+    "spanish": "hecho",
+    "english": "fact/done",
+    "category": "Abstract",
+    "pronunciation": "eh-choh"
+  },
+  {
+    "id": "caso",
+    "spanish": "caso",
+    "english": "case",
+    "category": "Abstract",
+    "pronunciation": "kah-soh"
+  },
+  {
+    "id": "punto",
+    "spanish": "punto",
+    "english": "point",
+    "category": "Abstract",
+    "pronunciation": "poon-toh"
+  },
+  {
+    "id": "fin",
+    "spanish": "fin",
+    "english": "end",
+    "category": "Abstract",
+    "pronunciation": "feen"
+  },
+  {
+    "id": "lado",
+    "spanish": "lado",
+    "english": "side",
+    "category": "Abstract",
+    "pronunciation": "lah-doh"
+  },
+  {
+    "id": "nivel",
+    "spanish": "nivel",
+    "english": "level",
+    "category": "Abstract",
+    "pronunciation": "nee-vel"
+  },
+  {
+    "id": "ley",
+    "spanish": "ley",
+    "english": "law",
+    "category": "Abstract",
+    "pronunciation": "ley"
+  },
+  {
+    "id": "guerra",
+    "spanish": "guerra",
+    "english": "war",
+    "category": "Abstract",
+    "pronunciation": "geh-rrah"
+  },
+  {
+    "id": "paz",
+    "spanish": "paz",
+    "english": "peace",
+    "category": "Abstract",
+    "pronunciation": "pahs"
+  },
+  {
+    "id": "gobierno",
+    "spanish": "gobierno",
+    "english": "government",
+    "category": "Abstract",
+    "pronunciation": "goh-byehr-noh"
+  },
+  {
+    "id": "empresa",
+    "spanish": "empresa",
+    "english": "company",
+    "category": "Business",
+    "pronunciation": "ehm-preh-sah"
+  },
+  {
+    "id": "oficina",
+    "spanish": "oficina",
+    "english": "office",
+    "category": "Business",
+    "pronunciation": "oh-fee-see-nah"
+  },
+  {
+    "id": "exito",
+    "spanish": "éxito",
+    "english": "success",
+    "category": "Abstract",
+    "pronunciation": "ehk-see-toh"
+  },
+  {
+    "id": "suerte",
+    "spanish": "suerte",
+    "english": "luck",
+    "category": "Abstract",
+    "pronunciation": "swehr-teh"
+  },
+  {
+    "id": "entre",
+    "spanish": "entre",
+    "english": "between",
+    "category": "Connectors (Adv)",
+    "pronunciation": "ehn-treh"
+  },
+  {
+    "id": "sin",
+    "spanish": "sin",
+    "english": "without",
+    "category": "Connectors (Adv)",
+    "pronunciation": "seen"
+  },
+  {
+    "id": "hasta",
+    "spanish": "hasta",
+    "english": "until",
+    "category": "Connectors (Adv)",
+    "pronunciation": "ahs-tah"
+  },
+  {
+    "id": "desde",
+    "spanish": "desde",
+    "english": "from/since",
+    "category": "Connectors (Adv)",
+    "pronunciation": "des-deh"
+  },
+  {
+    "id": "durante",
+    "spanish": "durante",
+    "english": "during",
+    "category": "Connectors (Adv)",
+    "pronunciation": "doo-rahn-teh"
+  },
+  {
+    "id": "hacia",
+    "spanish": "hacia",
+    "english": "toward",
+    "category": "Connectors (Adv)",
+    "pronunciation": "ah-syah"
+  },
+  {
+    "id": "segun",
+    "spanish": "según",
+    "english": "according to",
+    "category": "Connectors (Adv)",
+    "pronunciation": "seh-goon"
+  },
+  {
+    "id": "sobre",
+    "spanish": "sobre",
+    "english": "about/over",
+    "category": "Connectors (Adv)",
+    "pronunciation": "soh-breh"
+  },
+  {
+    "id": "tras",
+    "spanish": "tras",
+    "english": "after/behind",
+    "category": "Connectors (Adv)",
+    "pronunciation": "trahs"
+  },
+  {
+    "id": "quizas",
+    "spanish": "quizás",
+    "english": "perhaps",
+    "category": "Connectors (Adv)",
+    "pronunciation": "kee-sahs"
+  },
+  {
+    "id": "apenas",
+    "spanish": "apenas",
+    "english": "barely",
+    "category": "Connectors (Adv)",
+    "pronunciation": "ah-peh-nahs"
+  },
+  {
+    "id": "mientras",
+    "spanish": "mientras",
+    "english": "while",
+    "category": "Connectors (Adv)",
+    "pronunciation": "myen-trahs"
+  },
+  {
+    "id": "a-veces",
+    "spanish": "a veces",
+    "english": "sometimes",
+    "category": "Frequency",
+    "pronunciation": "ah veh-ses"
+  },
+  {
+    "id": "a-menudo",
+    "spanish": "a menudo",
+    "english": "often",
+    "category": "Frequency",
+    "pronunciation": "ah meh-noo-doh"
+  },
+  {
+    "id": "temprano",
+    "spanish": "temprano",
+    "english": "early",
+    "category": "Time",
+    "pronunciation": "tem-prah-noh"
+  },
+  {
+    "id": "tarde",
+    "spanish": "tarde",
+    "english": "late",
+    "category": "Time",
+    "pronunciation": "tahr-deh"
+  },
+  {
+    "id": "jamas",
+    "spanish": "jamás",
+    "english": "never",
+    "category": "Frequency",
+    "pronunciation": "hah-mahs"
+  },
+  {
+    "id": "anoche",
+    "spanish": "anoche",
+    "english": "last night",
+    "category": "Time",
+    "pronunciation": "ah-noh-cheh"
+  },
+  {
+    "id": "proximo",
+    "spanish": "próximo",
+    "english": "next",
+    "category": "Time",
+    "pronunciation": "prohk-see-moh"
+  },
+  {
+    "id": "cumpleanos",
+    "spanish": "cumpleaños",
+    "english": "birthday",
+    "category": "Time",
+    "pronunciation": "koom-pleh-ah-nyohs"
+  },
+  {
+    "id": "edad",
+    "spanish": "edad",
+    "english": "age",
+    "category": "Nouns (General)",
+    "pronunciation": "eh-dahd"
+  },
+  {
+    "id": "uno",
+    "spanish": "uno",
+    "english": "one",
+    "category": "Numbers",
+    "pronunciation": "oo-noh"
+  },
+  {
+    "id": "dos",
+    "spanish": "dos",
+    "english": "two",
+    "category": "Numbers",
+    "pronunciation": "dohs"
+  },
+  {
+    "id": "tres",
+    "spanish": "tres",
+    "english": "three",
+    "category": "Numbers",
+    "pronunciation": "trehs"
+  },
+  {
+    "id": "cuatro",
+    "spanish": "cuatro",
+    "english": "four",
+    "category": "Numbers",
+    "pronunciation": "kwah-troh"
+  },
+  {
+    "id": "cinco",
+    "spanish": "cinco",
+    "english": "five",
+    "category": "Numbers",
+    "pronunciation": "seen-koh"
+  },
+  {
+    "id": "seis",
+    "spanish": "seis",
+    "english": "six",
+    "category": "Numbers",
+    "pronunciation": "says"
+  },
+  {
+    "id": "siete",
+    "spanish": "siete",
+    "english": "seven",
+    "category": "Numbers",
+    "pronunciation": "syeh-teh"
+  },
+  {
+    "id": "ocho",
+    "spanish": "ocho",
+    "english": "eight",
+    "category": "Numbers",
+    "pronunciation": "oh-choh"
+  },
+  {
+    "id": "nueve",
+    "spanish": "nueve",
+    "english": "nine",
+    "category": "Numbers",
+    "pronunciation": "nweh-veh"
+  },
+  {
+    "id": "diez",
+    "spanish": "diez",
+    "english": "ten",
+    "category": "Numbers",
+    "pronunciation": "dyehs"
+  },
+  {
+    "id": "veinte",
+    "spanish": "veinte",
+    "english": "twenty",
+    "category": "Numbers",
+    "pronunciation": "vayn-teh"
+  },
+  {
+    "id": "cincuenta",
+    "spanish": "cincuenta",
+    "english": "fifty",
+    "category": "Numbers",
+    "pronunciation": "seen-kwen-tah"
+  },
+  {
+    "id": "cien",
+    "spanish": "cien",
+    "english": "one hundred",
+    "category": "Numbers",
+    "pronunciation": "syen"
+  },
+  {
+    "id": "mil",
+    "spanish": "mil",
+    "english": "one thousand",
+    "category": "Numbers",
+    "pronunciation": "meel"
+  },
+  {
+    "id": "lunes",
+    "spanish": "lunes",
+    "english": "Monday",
+    "category": "Days",
+    "pronunciation": "loo-nes"
+  },
+  {
+    "id": "martes",
+    "spanish": "martes",
+    "english": "Tuesday",
+    "category": "Days",
+    "pronunciation": "mahr-tes"
+  },
+  {
+    "id": "miercoles",
+    "spanish": "miércoles",
+    "english": "Wednesday",
+    "category": "Days",
+    "pronunciation": "myer-koh-les"
+  },
+  {
+    "id": "jueves",
+    "spanish": "jueves",
+    "english": "Thursday",
+    "category": "Days",
+    "pronunciation": "hweh-ves"
+  },
+  {
+    "id": "viernes",
+    "spanish": "viernes",
+    "english": "Friday",
+    "category": "Days",
+    "pronunciation": "vyehr-nes"
+  },
+  {
+    "id": "sabado",
+    "spanish": "sábado",
+    "english": "Saturday",
+    "category": "Days",
+    "pronunciation": "sah-bah-doh"
+  },
+  {
+    "id": "domingo",
+    "spanish": "domingo",
+    "english": "Sunday",
+    "category": "Days",
+    "pronunciation": "doh-meen-goh"
+  },
+  {
+    "id": "enero",
+    "spanish": "enero",
+    "english": "January",
+    "category": "Months",
+    "pronunciation": "eh-neh-roh"
+  },
+  {
+    "id": "febrero",
+    "spanish": "febrero",
+    "english": "February",
+    "category": "Months",
+    "pronunciation": "feh-breh-roh"
+  },
+  {
+    "id": "marzo",
+    "spanish": "marzo",
+    "english": "March",
+    "category": "Months",
+    "pronunciation": "mahr-soh"
+  },
+  {
+    "id": "abril",
+    "spanish": "abril",
+    "english": "April",
+    "category": "Months",
+    "pronunciation": "ah-breel"
+  },
+  {
+    "id": "mayo",
+    "spanish": "mayo",
+    "english": "May",
+    "category": "Months",
+    "pronunciation": "mah-yoh"
+  },
+  {
+    "id": "junio",
+    "spanish": "junio",
+    "english": "June",
+    "category": "Months",
+    "pronunciation": "hoo-nyoh"
+  },
+  {
+    "id": "julio",
+    "spanish": "julio",
+    "english": "July",
+    "category": "Months",
+    "pronunciation": "hoo-lyoh"
+  },
+  {
+    "id": "agosto",
+    "spanish": "agosto",
+    "english": "August",
+    "category": "Months",
+    "pronunciation": "ah-gohs-toh"
+  },
+  {
+    "id": "septiembre",
+    "spanish": "septiembre",
+    "english": "September",
+    "category": "Months",
+    "pronunciation": "sep-tyem-breh"
+  },
+  {
+    "id": "octubre",
+    "spanish": "octubre",
+    "english": "October",
+    "category": "Months",
+    "pronunciation": "ok-too-breh"
+  },
+  {
+    "id": "noviembre",
+    "spanish": "noviembre",
+    "english": "November",
+    "category": "Months",
+    "pronunciation": "noh-vyem-breh"
+  },
+  {
+    "id": "diciembre",
+    "spanish": "diciembre",
+    "english": "December",
+    "category": "Months",
+    "pronunciation": "dee-syem-breh"
+  },
+  {
+    "id": "vivir",
+    "spanish": "vivir",
+    "english": "to live",
+    "category": "Verbs (Core)",
+    "pronunciation": "vee-veer"
+  },
+  {
+    "id": "aprender",
+    "spanish": "aprender",
+    "english": "to learn",
+    "category": "Verbs (Core)",
+    "pronunciation": "ah-pren-dehr"
+  },
+  {
+    "id": "ensenar",
+    "spanish": "enseñar",
+    "english": "to teach",
+    "category": "Verbs (Core)",
+    "pronunciation": "ehn-seh-nyahr"
+  },
+  {
+    "id": "preguntar",
+    "spanish": "preguntar",
+    "english": "to ask",
+    "category": "Verbs (Core)",
+    "pronunciation": "preh-goon-tahr"
+  },
+  {
+    "id": "responder",
+    "spanish": "responder",
+    "english": "to answer",
+    "category": "Verbs (Core)",
+    "pronunciation": "res-pohn-dehr"
+  },
+  {
+    "id": "ayudar",
+    "spanish": "ayudar",
+    "english": "to help",
+    "category": "Verbs (Core)",
+    "pronunciation": "ah-yoo-dahr"
+  },
+  {
+    "id": "bailar",
+    "spanish": "bailar",
+    "english": "to dance",
+    "category": "Verbs (Activity)",
+    "pronunciation": "by-lahr"
+  },
+  {
+    "id": "cantar",
+    "spanish": "cantar",
+    "english": "to sing",
+    "category": "Verbs (Activity)",
+    "pronunciation": "kahn-tahr"
+  },
+  {
+    "id": "cocinar",
+    "spanish": "cocinar",
+    "english": "to cook",
+    "category": "Verbs (Activity)",
+    "pronunciation": "koh-see-nahr"
+  },
+  {
+    "id": "limpiar",
+    "spanish": "limpiar",
+    "english": "to clean",
+    "category": "Verbs (Activity)",
+    "pronunciation": "leem-pyahr"
+  },
+  {
+    "id": "lavar",
+    "spanish": "lavar",
+    "english": "to wash",
+    "category": "Verbs (Activity)",
+    "pronunciation": "lah-vahr"
+  },
+  {
+    "id": "bajar",
+    "spanish": "bajar",
+    "english": "to go down",
+    "category": "Verbs (Movement)",
+    "pronunciation": "bah-hahr"
+  },
+  {
+    "id": "subir",
+    "spanish": "subir",
+    "english": "to go up",
+    "category": "Verbs (Movement)",
+    "pronunciation": "soo-beer"
+  },
+  {
+    "id": "parar",
+    "spanish": "parar",
+    "english": "to stop",
+    "category": "Verbs (Movement)",
+    "pronunciation": "pah-rahr"
+  },
+  {
+    "id": "romper",
+    "spanish": "romper",
+    "english": "to break",
+    "category": "Verbs (Action)",
+    "pronunciation": "rrom-pehr"
+  },
+  {
+    "id": "odiar",
+    "spanish": "odiar",
+    "english": "to hate",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "oh-dyahr"
+  },
+  {
+    "id": "amar",
+    "spanish": "amar",
+    "english": "to love",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "ah-mahr"
+  },
+  {
+    "id": "beso",
+    "spanish": "beso",
+    "english": "kiss",
+    "category": "Relationships",
+    "pronunciation": "beh-soh"
+  },
+  {
+    "id": "abrazo",
+    "spanish": "abrazo",
+    "english": "hug",
+    "category": "Relationships",
+    "pronunciation": "ah-brah-soh"
+  },
+  {
+    "id": "novio",
+    "spanish": "novio",
+    "english": "boyfriend",
+    "category": "Relationships",
+    "pronunciation": "noh-vyoh"
+  },
+  {
+    "id": "novia",
+    "spanish": "novia",
+    "english": "girlfriend",
+    "category": "Relationships",
+    "pronunciation": "noh-vyah"
+  },
+  {
+    "id": "esposo",
+    "spanish": "esposo",
+    "english": "husband",
+    "category": "Relationships",
+    "pronunciation": "es-poh-soh"
+  },
+  {
+    "id": "esposa",
+    "spanish": "esposa",
+    "english": "wife",
+    "category": "Relationships",
+    "pronunciation": "es-poh-sah"
+  },
+  {
+    "id": "jefe",
+    "spanish": "jefe",
+    "english": "boss",
+    "category": "Work",
+    "pronunciation": "heh-feh"
+  },
+  {
+    "id": "empleado",
+    "spanish": "empleado",
+    "english": "employee",
+    "category": "Work",
+    "pronunciation": "em-pleh-ah-doh"
+  },
+  {
+    "id": "companero",
+    "spanish": "compañero",
+    "english": "partner/colleague",
+    "category": "Work",
+    "pronunciation": "kom-pah-nyeh-roh"
+  },
+  {
+    "id": "cliente",
+    "spanish": "cliente",
+    "english": "client",
+    "category": "Work",
+    "pronunciation": "klyen-teh"
+  },
+  {
+    "id": "escritorio",
+    "spanish": "escritorio",
+    "english": "desk",
+    "category": "Objects",
+    "pronunciation": "es-kree-toh-ryoh"
+  },
+  {
+    "id": "silla",
+    "spanish": "silla",
+    "english": "chair",
+    "category": "Objects",
+    "pronunciation": "see-yah"
+  },
+  {
+    "id": "papel",
+    "spanish": "papel",
+    "english": "paper",
+    "category": "Objects",
+    "pronunciation": "pah-pel"
+  },
+  {
+    "id": "boligrafo",
+    "spanish": "bolígrafo",
+    "english": "pen",
+    "category": "Objects",
+    "pronunciation": "boh-lee-grah-foh"
+  },
+  {
+    "id": "lapiz",
+    "spanish": "lápiz",
+    "english": "pencil",
+    "category": "Objects",
+    "pronunciation": "lah-pees"
+  },
+  {
+    "id": "telefono",
+    "spanish": "teléfono",
+    "english": "telephone",
+    "category": "Objects",
+    "pronunciation": "teh-leh-foh-noh"
+  },
+  {
+    "id": "reloj",
+    "spanish": "reloj",
+    "english": "watch/clock",
+    "category": "Objects",
+    "pronunciation": "reh-loh"
+  },
+  {
+    "id": "llave",
+    "spanish": "llave",
+    "english": "key",
+    "category": "Objects",
+    "pronunciation": "yah-veh"
+  },
+  {
+    "id": "cama",
+    "spanish": "cama",
+    "english": "bed",
+    "category": "Furniture",
+    "pronunciation": "kah-mah"
+  },
+  {
+    "id": "sofa",
+    "spanish": "sofá",
+    "english": "sofa",
+    "category": "Furniture",
+    "pronunciation": "soh-fah"
+  },
+  {
+    "id": "espejo",
+    "spanish": "espejo",
+    "english": "mirror",
+    "category": "Furniture",
+    "pronunciation": "es-peh-hoh"
+  },
+  {
+    "id": "ventana",
+    "spanish": "ventana",
+    "english": "window",
+    "category": "House",
+    "pronunciation": "ven-tah-nah"
+  },
+  {
+    "id": "pared",
+    "spanish": "pared",
+    "english": "wall",
+    "category": "House",
+    "pronunciation": "pah-red"
+  },
+  {
+    "id": "piso",
+    "spanish": "piso",
+    "english": "floor",
+    "category": "House",
+    "pronunciation": "pee-soh"
+  },
+  {
+    "id": "techo",
+    "spanish": "techo",
+    "english": "ceiling/roof",
+    "category": "House",
+    "pronunciation": "teh-choh"
+  },
+  {
+    "id": "jardin",
+    "spanish": "jardín",
+    "english": "garden",
+    "category": "House",
+    "pronunciation": "har-deen"
+  },
+  {
+    "id": "bano",
+    "spanish": "baño",
+    "english": "bathroom",
+    "category": "House",
+    "pronunciation": "bah-nyoh"
+  },
+  {
+    "id": "dormitorio",
+    "spanish": "dormitorio",
+    "english": "bedroom",
+    "category": "House",
+    "pronunciation": "dor-mee-toh-ryoh"
+  },
+  {
+    "id": "sala",
+    "spanish": "sala",
+    "english": "living room",
+    "category": "House",
+    "pronunciation": "sah-lah"
+  },
+  {
+    "id": "vaso",
+    "spanish": "vaso",
+    "english": "glass",
+    "category": "Kitchen",
+    "pronunciation": "vah-soh"
+  },
+  {
+    "id": "plato",
+    "spanish": "plato",
+    "english": "plate",
+    "category": "Kitchen",
+    "pronunciation": "plah-toh"
+  },
+  {
+    "id": "tenedor",
+    "spanish": "tenedor",
+    "english": "fork",
+    "category": "Kitchen",
+    "pronunciation": "teh-neh-dor"
+  },
+  {
+    "id": "cuchillo",
+    "spanish": "cuchillo",
+    "english": "knife",
+    "category": "Kitchen",
+    "pronunciation": "koo-chee-yoh"
+  },
+  {
+    "id": "cuchara",
+    "spanish": "cuchara",
+    "english": "spoon",
+    "category": "Kitchen",
+    "pronunciation": "koo-chah-rah"
+  },
+  {
+    "id": "servilleta",
+    "spanish": "servilleta",
+    "english": "napkin",
+    "category": "Kitchen",
+    "pronunciation": "ser-vee-yeh-tah"
+  },
+  {
+    "id": "botella",
+    "spanish": "botella",
+    "english": "bottle",
+    "category": "Kitchen",
+    "pronunciation": "boh-teh-yah"
+  },
+  {
+    "id": "taza",
+    "spanish": "taza",
+    "english": "cup",
+    "category": "Kitchen",
+    "pronunciation": "tah-sah"
+  },
+  {
+    "id": "arroz",
+    "spanish": "arroz",
+    "english": "rice",
+    "category": "Food",
+    "pronunciation": "ah-rrohs"
+  },
+  {
+    "id": "huevo",
+    "spanish": "huevo",
+    "english": "egg",
+    "category": "Food",
+    "pronunciation": "weh-voh"
+  },
+  {
+    "id": "queso",
+    "spanish": "queso",
+    "english": "cheese",
+    "category": "Food",
+    "pronunciation": "keh-soh"
+  },
+  {
+    "id": "ensalada",
+    "spanish": "ensalada",
+    "english": "salad",
+    "category": "Food",
+    "pronunciation": "en-sah-lah-dah"
+  },
+  {
+    "id": "sopa",
+    "spanish": "sopa",
+    "english": "soup",
+    "category": "Food",
+    "pronunciation": "soh-pah"
+  },
+  {
+    "id": "azucar",
+    "spanish": "azúcar",
+    "english": "sugar",
+    "category": "Food",
+    "pronunciation": "ah-soo-kahr"
+  },
+  {
+    "id": "sal",
+    "spanish": "sal",
+    "english": "salt",
+    "category": "Food",
+    "pronunciation": "sahl"
+  },
+  {
+    "id": "pimienta",
+    "spanish": "pimienta",
+    "english": "pepper",
+    "category": "Food",
+    "pronunciation": "pee-myen-tah"
+  },
+  {
+    "id": "aceite",
+    "spanish": "aceite",
+    "english": "oil",
+    "category": "Food",
+    "pronunciation": "ah-say-teh"
+  },
+  {
+    "id": "mantequilla",
+    "spanish": "mantequilla",
+    "english": "butter",
+    "category": "Food",
+    "pronunciation": "man-teh-kee-yah"
+  },
+  {
+    "id": "postre",
+    "spanish": "postre",
+    "english": "dessert",
+    "category": "Food",
+    "pronunciation": "pohs-treh"
+  },
+  {
+    "id": "hielo",
+    "spanish": "hielo",
+    "english": "ice",
+    "category": "Food",
+    "pronunciation": "yeh-loh"
+  },
+  {
+    "id": "naranja",
+    "spanish": "naranja",
+    "english": "orange",
+    "category": "Food",
+    "pronunciation": "nah-rahn-hah"
+  },
+  {
+    "id": "manzana",
+    "spanish": "manzana",
+    "english": "apple",
+    "category": "Food",
+    "pronunciation": "man-sah-nah"
+  },
+  {
+    "id": "platano",
+    "spanish": "plátano",
+    "english": "banana",
+    "category": "Food",
+    "pronunciation": "plah-tah-noh"
+  },
+  {
+    "id": "tomate",
+    "spanish": "tomate",
+    "english": "tomato",
+    "category": "Food",
+    "pronunciation": "toh-mah-teh"
+  },
+  {
+    "id": "papa",
+    "spanish": "papa",
+    "english": "potato",
+    "category": "Food",
+    "pronunciation": "pah-pah"
+  },
+  {
+    "id": "cebolla",
+    "spanish": "cebolla",
+    "english": "onion",
+    "category": "Food",
+    "pronunciation": "seh-boh-yah"
+  },
+  {
+    "id": "ajo",
+    "spanish": "ajo",
+    "english": "garlic",
+    "category": "Food",
+    "pronunciation": "ah-hoh"
+  },
+  {
+    "id": "chamarra",
+    "spanish": "chamarra",
+    "english": "jacket (Mex)",
+    "category": "Clothing",
+    "pronunciation": "chah-mah-rrah"
+  },
+  {
+    "id": "chaqueta",
+    "spanish": "chaqueta",
+    "english": "jacket",
+    "category": "Clothing",
+    "pronunciation": "chah-keh-tah"
+  },
+  {
+    "id": "abrigo",
+    "spanish": "abrigo",
+    "english": "coat",
+    "category": "Clothing",
+    "pronunciation": "ah-bree-goh"
+  },
+  {
+    "id": "falda",
+    "spanish": "falda",
+    "english": "skirt",
+    "category": "Clothing",
+    "pronunciation": "fahl-dah"
+  },
+  {
+    "id": "sombrero",
+    "spanish": "sombrero",
+    "english": "hat",
+    "category": "Clothing",
+    "pronunciation": "som-breh-roh"
+  },
+  {
+    "id": "gafas",
+    "spanish": "gafas",
+    "english": "glasses",
+    "category": "Clothing",
+    "pronunciation": "gah-fahs"
+  },
+  {
+    "id": "reloj-2",
+    "spanish": "reloj",
+    "english": "watch",
+    "category": "Clothing",
+    "pronunciation": "reh-loh"
+  },
+  {
+    "id": "bolsillo",
+    "spanish": "bolsillo",
+    "english": "pocket",
+    "category": "Clothing",
+    "pronunciation": "bol-see-yoh"
+  },
+  {
+    "id": "botas",
+    "spanish": "botas",
+    "english": "boots",
+    "category": "Clothing",
+    "pronunciation": "boh-tahs"
+  },
+  {
+    "id": "calcetines",
+    "spanish": "calcetines",
+    "english": "socks",
+    "category": "Clothing",
+    "pronunciation": "kal-seh-tee-nes"
+  },
+  {
+    "id": "cinturon",
+    "spanish": "cinturón",
+    "english": "belt",
+    "category": "Clothing",
+    "pronunciation": "seen-too-rohn"
+  },
+  {
+    "id": "oreja",
+    "spanish": "oreja",
+    "english": "ear",
+    "category": "Body",
+    "pronunciation": "oh-reh-hah"
+  },
+  {
+    "id": "nariz",
+    "spanish": "nariz",
+    "english": "nose",
+    "category": "Body",
+    "pronunciation": "nah-rees"
+  },
+  {
+    "id": "boca",
+    "spanish": "boca",
+    "english": "mouth",
+    "category": "Body",
+    "pronunciation": "boh-kah"
+  },
+  {
+    "id": "diente",
+    "spanish": "diente",
+    "english": "tooth",
+    "category": "Body",
+    "pronunciation": "dyen-teh"
+  },
+  {
+    "id": "lengua",
+    "spanish": "lengua",
+    "english": "tongue",
+    "category": "Body",
+    "pronunciation": "len-gwah"
+  },
+  {
+    "id": "cuello",
+    "spanish": "cuello",
+    "english": "neck",
+    "category": "Body",
+    "pronunciation": "kweh-yoh"
+  },
+  {
+    "id": "hombro",
+    "spanish": "hombro",
+    "english": "shoulder",
+    "category": "Body",
+    "pronunciation": "ohm-broh"
+  },
+  {
+    "id": "espalda",
+    "spanish": "espalda",
+    "english": "back",
+    "category": "Body",
+    "pronunciation": "es-pahl-dah"
+  },
+  {
+    "id": "brazo",
+    "spanish": "brazo",
+    "english": "arm",
+    "category": "Body",
+    "pronunciation": "brah-soh"
+  },
+  {
+    "id": "dedo",
+    "spanish": "dedo",
+    "english": "finger",
+    "category": "Body",
+    "pronunciation": "deh-doh"
+  },
+  {
+    "id": "pierna",
+    "spanish": "pierna",
+    "english": "leg",
+    "category": "Body",
+    "pronunciation": "pyer-nah"
+  },
+  {
+    "id": "pie",
+    "spanish": "pie",
+    "english": "foot",
+    "category": "Body",
+    "pronunciation": "pyeh"
+  },
+  {
+    "id": "piel",
+    "spanish": "piel",
+    "english": "skin",
+    "category": "Body",
+    "pronunciation": "pyel"
+  },
+  {
+    "id": "sangre",
+    "spanish": "sangre",
+    "english": "blood",
+    "category": "Body",
+    "pronunciation": "sahn-greh"
+  },
+  {
+    "id": "corazon",
+    "spanish": "corazón",
+    "english": "heart",
+    "category": "Body",
+    "pronunciation": "koh-rah-sohn"
+  },
+  {
+    "id": "cerebro",
+    "spanish": "cerebro",
+    "english": "brain",
+    "category": "Body",
+    "pronunciation": "seh-reh-broh"
+  },
+  {
+    "id": "hueso",
+    "spanish": "hueso",
+    "english": "bone",
+    "category": "Body",
+    "pronunciation": "weh-soh"
+  },
+  {
+    "id": "farmacia",
+    "spanish": "farmacia",
+    "english": "pharmacy",
+    "category": "City",
+    "pronunciation": "far-mah-syah"
+  },
+  {
+    "id": "hospital",
+    "spanish": "hospital",
+    "english": "hospital",
+    "category": "City",
+    "pronunciation": "os-pee-tahl"
+  },
+  {
+    "id": "policia",
+    "spanish": "policía",
+    "english": "police",
+    "category": "City",
+    "pronunciation": "poh-lee-see-ah"
+  },
+  {
+    "id": "banco",
+    "spanish": "banco",
+    "english": "bank",
+    "category": "City",
+    "pronunciation": "bahn-koh"
+  },
+  {
+    "id": "parque",
+    "spanish": "parque",
+    "english": "park",
+    "category": "City",
+    "pronunciation": "pahr-keh"
+  },
+  {
+    "id": "cine",
+    "spanish": "cine",
+    "english": "cinema",
+    "category": "City",
+    "pronunciation": "see-neh"
+  },
+  {
+    "id": "teatro",
+    "spanish": "teatro",
+    "english": "theater",
+    "category": "City",
+    "pronunciation": "teh-ah-troh"
+  },
+  {
+    "id": "biblioteca",
+    "spanish": "biblioteca",
+    "english": "library",
+    "category": "City",
+    "pronunciation": "bee-blyoh-teh-kah"
+  },
+  {
+    "id": "museo",
+    "spanish": "museo",
+    "english": "museum",
+    "category": "City",
+    "pronunciation": "moo-seh-oh"
+  },
+  {
+    "id": "iglesia",
+    "spanish": "iglesia",
+    "english": "church",
+    "category": "City",
+    "pronunciation": "ee-gleh-syah"
+  },
+  {
+    "id": "puente",
+    "spanish": "puente",
+    "english": "bridge",
+    "category": "City",
+    "pronunciation": "pwen-teh"
+  },
+  {
+    "id": "edificio",
+    "spanish": "edificio",
+    "english": "building",
+    "category": "City",
+    "pronunciation": "eh-dee-fee-syoh"
+  },
+  {
+    "id": "norte",
+    "spanish": "norte",
+    "english": "north",
+    "category": "Directions",
+    "pronunciation": "nor-teh"
+  },
+  {
+    "id": "sur",
+    "spanish": "sur",
+    "english": "south",
+    "category": "Directions",
+    "pronunciation": "soor"
+  },
+  {
+    "id": "este",
+    "spanish": "este",
+    "english": "east",
+    "category": "Directions",
+    "pronunciation": "es-teh"
+  },
+  {
+    "id": "oeste",
+    "spanish": "oeste",
+    "english": "west",
+    "category": "Directions",
+    "pronunciation": "oh-es-teh"
+  },
+  {
+    "id": "clima",
+    "spanish": "clima",
+    "english": "weather",
+    "category": "Nature",
+    "pronunciation": "klee-mah"
+  },
+  {
+    "id": "calor",
+    "spanish": "calor",
+    "english": "heat",
+    "category": "Nature",
+    "pronunciation": "kah-lor"
+  },
+  {
+    "id": "nube",
+    "spanish": "nube",
+    "english": "cloud",
+    "category": "Nature",
+    "pronunciation": "noo-beh"
+  },
+  {
+    "id": "nieve",
+    "spanish": "nieve",
+    "english": "snow",
+    "category": "Nature",
+    "pronunciation": "nyeh-veh"
+  },
+  {
+    "id": "estrella",
+    "spanish": "estrella",
+    "english": "star",
+    "category": "Nature",
+    "pronunciation": "es-treh-yah"
+  },
+  {
+    "id": "bosque",
+    "spanish": "bosque",
+    "english": "forest",
+    "category": "Nature",
+    "pronunciation": "bohs-keh"
+  },
+  {
+    "id": "desierto",
+    "spanish": "desierto",
+    "english": "desert",
+    "category": "Nature",
+    "pronunciation": "deh-syer-toh"
+  },
+  {
+    "id": "isla",
+    "spanish": "isla",
+    "english": "island",
+    "category": "Nature",
+    "pronunciation": "ees-lah"
+  },
+  {
+    "id": "piedra",
+    "spanish": "piedra",
+    "english": "stone",
+    "category": "Nature",
+    "pronunciation": "pyeh-drah"
+  },
+  {
+    "id": "planta",
+    "spanish": "planta",
+    "english": "plant",
+    "category": "Nature",
+    "pronunciation": "plahn-tah"
+  },
+  {
+    "id": "raton",
+    "spanish": "ratón",
+    "english": "mouse",
+    "category": "Animals",
+    "pronunciation": "rah-tohn"
+  },
+  {
+    "id": "vaca",
+    "spanish": "vaca",
+    "english": "cow",
+    "category": "Animals",
+    "pronunciation": "vah-kah"
+  },
+  {
+    "id": "cerdo",
+    "spanish": "cerdo",
+    "english": "pig",
+    "category": "Animals",
+    "pronunciation": "ser-doh"
+  },
+  {
+    "id": "caballo",
+    "spanish": "caballo",
+    "english": "horse",
+    "category": "Animals",
+    "pronunciation": "kah-bah-yoh"
+  },
+  {
+    "id": "oveja",
+    "spanish": "oveja",
+    "english": "sheep",
+    "category": "Animals",
+    "pronunciation": "oh-veh-hah"
+  },
+  {
+    "id": "leon",
+    "spanish": "león",
+    "english": "lion",
+    "category": "Animals",
+    "pronunciation": "leh-ohn"
+  },
+  {
+    "id": "oso",
+    "spanish": "oso",
+    "english": "bear",
+    "category": "Animals",
+    "pronunciation": "oh-soh"
+  },
+  {
+    "id": "elefante",
+    "spanish": "elefante",
+    "english": "elephant",
+    "category": "Animals",
+    "pronunciation": "eh-leh-fahn-teh"
+  },
+  {
+    "id": "mosca",
+    "spanish": "mosca",
+    "english": "fly",
+    "category": "Animals",
+    "pronunciation": "mohs-kah"
+  },
+  {
+    "id": "arana",
+    "spanish": "araña",
+    "english": "spider",
+    "category": "Animals",
+    "pronunciation": "ah-rah-nyah"
+  },
+  {
+    "id": "alto",
+    "spanish": "alto",
+    "english": "tall/high",
+    "category": "Adjectives",
+    "pronunciation": "ahl-toh"
+  },
+  {
+    "id": "bajo",
+    "spanish": "bajo",
+    "english": "short/low",
+    "category": "Adjectives",
+    "pronunciation": "bah-hoh"
+  },
+  {
+    "id": "gordo",
+    "spanish": "gordo",
+    "english": "fat",
+    "category": "Adjectives",
+    "pronunciation": "gor-doh"
+  },
+  {
+    "id": "delgado",
+    "spanish": "delgado",
+    "english": "thin",
+    "category": "Adjectives",
+    "pronunciation": "del-gah-doh"
+  },
+  {
+    "id": "bonito",
+    "spanish": "bonito",
+    "english": "pretty",
+    "category": "Adjectives",
+    "pronunciation": "boh-nee-toh"
+  },
+  {
+    "id": "feo",
+    "spanish": "feo",
+    "english": "ugly",
+    "category": "Adjectives",
+    "pronunciation": "feh-oh"
+  },
+  {
+    "id": "rico",
+    "spanish": "rico",
+    "english": "rich/tasty",
+    "category": "Adjectives",
+    "pronunciation": "ree-koh"
+  },
+  {
+    "id": "pobre",
+    "spanish": "pobre",
+    "english": "poor",
+    "category": "Adjectives",
+    "pronunciation": "poh-breh"
+  },
+  {
+    "id": "inteligente",
+    "spanish": "inteligente",
+    "english": "smart",
+    "category": "Adjectives",
+    "pronunciation": "een-teh-lee-hen-teh"
+  },
+  {
+    "id": "tonto",
+    "spanish": "tonto",
+    "english": "stupid",
+    "category": "Adjectives",
+    "pronunciation": "tohn-toh"
+  },
+  {
+    "id": "divertido",
+    "spanish": "divertido",
+    "english": "fun",
+    "category": "Adjectives",
+    "pronunciation": "dee-ver-tee-doh"
+  },
+  {
+    "id": "aburrido",
+    "spanish": "aburrido",
+    "english": "boring",
+    "category": "Adjectives",
+    "pronunciation": "ah-boo-rree-doh"
+  },
+  {
+    "id": "amable",
+    "spanish": "amable",
+    "english": "kind",
+    "category": "Adjectives",
+    "pronunciation": "ah-mah-bleh"
+  },
+  {
+    "id": "duro",
+    "spanish": "duro",
+    "english": "hard",
+    "category": "Adjectives",
+    "pronunciation": "doo-roh"
+  },
+  {
+    "id": "suave",
+    "spanish": "suave",
+    "english": "soft",
+    "category": "Adjectives",
+    "pronunciation": "swah-veh"
+  },
+  {
+    "id": "seco",
+    "spanish": "seco",
+    "english": "dry",
+    "category": "Adjectives",
+    "pronunciation": "seh-koh"
+  },
+  {
+    "id": "mojado",
+    "spanish": "mojado",
+    "english": "wet",
+    "category": "Adjectives",
+    "pronunciation": "moh-hah-doh"
+  },
+  {
+    "id": "dulce",
+    "spanish": "dulce",
+    "english": "sweet",
+    "category": "Adjectives",
+    "pronunciation": "dool-seh"
+  },
+  {
+    "id": "salado",
+    "spanish": "salado",
+    "english": "salty",
+    "category": "Adjectives",
+    "pronunciation": "sah-lah-doh"
+  },
+  {
+    "id": "picante",
+    "spanish": "picante",
+    "english": "spicy",
+    "category": "Adjectives",
+    "pronunciation": "pee-kahn-teh"
+  },
+  {
+    "id": "redondo",
+    "spanish": "redondo",
+    "english": "round",
+    "category": "Adjectives",
+    "pronunciation": "reh-dohn-doh"
+  },
+  {
+    "id": "cuadrado",
+    "spanish": "cuadrado",
+    "english": "square",
+    "category": "Adjectives",
+    "pronunciation": "kwah-drah-doh"
+  },
+  {
+    "id": "peligroso",
+    "spanish": "peligroso",
+    "english": "dangerous",
+    "category": "Adjectives",
+    "pronunciation": "peh-lee-groh-soh"
+  },
+  {
+    "id": "seguro",
+    "spanish": "seguro",
+    "english": "safe/sure",
+    "category": "Adjectives",
+    "pronunciation": "seh-goo-roh"
+  },
+  {
+    "id": "famoso",
+    "spanish": "famoso",
+    "english": "famous",
+    "category": "Adjectives",
+    "pronunciation": "fah-moh-soh"
+  },
+  {
+    "id": "comun",
+    "spanish": "común",
+    "english": "common",
+    "category": "Adjectives",
+    "pronunciation": "koh-moon"
+  },
+  {
+    "id": "extrano",
+    "spanish": "extraño",
+    "english": "strange",
+    "category": "Adjectives",
+    "pronunciation": "ex-trah-nyoh"
+  },
+  {
+    "id": "antiguo",
+    "spanish": "antiguo",
+    "english": "ancient",
+    "category": "Adjectives",
+    "pronunciation": "ahn-tee-gwoh"
+  },
+  {
+    "id": "moderno",
+    "spanish": "moderno",
+    "english": "modern",
+    "category": "Adjectives",
+    "pronunciation": "moh-der-noh"
+  },
+  {
+    "id": "profesor",
+    "spanish": "profesor",
+    "english": "teacher",
+    "category": "Professions",
+    "pronunciation": "proh-feh-sor"
+  },
+  {
+    "id": "maestro",
+    "spanish": "maestro",
+    "english": "teacher (primary)",
+    "category": "Professions",
+    "pronunciation": "mah-es-troh"
+  },
+  {
+    "id": "estudiante",
+    "spanish": "estudiante",
+    "english": "student",
+    "category": "Professions",
+    "pronunciation": "es-too-dyahn-teh"
+  },
+  {
+    "id": "doctor",
+    "spanish": "doctor",
+    "english": "doctor",
+    "category": "Professions",
+    "pronunciation": "dok-tor"
+  },
+  {
+    "id": "enfermero",
+    "spanish": "enfermero",
+    "english": "nurse",
+    "category": "Professions",
+    "pronunciation": "en-fer-meh-roh"
+  },
+  {
+    "id": "abogado",
+    "spanish": "abogado",
+    "english": "lawyer",
+    "category": "Professions",
+    "pronunciation": "ah-boh-gah-doh"
+  },
+  {
+    "id": "ingeniero",
+    "spanish": "ingeniero",
+    "english": "engineer",
+    "category": "Professions",
+    "pronunciation": "een-heh-nyeh-roh"
+  },
+  {
+    "id": "artista",
+    "spanish": "artista",
+    "english": "artist",
+    "category": "Professions",
+    "pronunciation": "ahr-tees-tah"
+  },
+  {
+    "id": "escritor",
+    "spanish": "escritor",
+    "english": "writer",
+    "category": "Professions",
+    "pronunciation": "es-kree-tor"
+  },
+  {
+    "id": "actor",
+    "spanish": "actor",
+    "english": "actor",
+    "category": "Professions",
+    "pronunciation": "ak-tor"
+  },
+  {
+    "id": "cantante",
+    "spanish": "cantante",
+    "english": "singer",
+    "category": "Professions",
+    "pronunciation": "kahn-tahn-teh"
+  },
+  {
+    "id": "cocinero",
+    "spanish": "cocinero",
+    "english": "chef",
+    "category": "Professions",
+    "pronunciation": "koh-see-neh-roh"
+  },
+  {
+    "id": "mesero",
+    "spanish": "mesero",
+    "english": "waiter",
+    "category": "Professions",
+    "pronunciation": "meh-seh-roh"
+  },
+  {
+    "id": "politico",
+    "spanish": "político",
+    "english": "politician",
+    "category": "Professions",
+    "pronunciation": "poh-lee-tee-koh"
+  },
+  {
+    "id": "soldado",
+    "spanish": "soldado",
+    "english": "soldier",
+    "category": "Professions",
+    "pronunciation": "sol-dah-doh"
+  },
+  {
+    "id": "periodista",
+    "spanish": "periodista",
+    "english": "journalist",
+    "category": "Professions",
+    "pronunciation": "peh-ryoh-dees-tah"
+  },
+  {
+    "id": "ciencia",
+    "spanish": "ciencia",
+    "english": "science",
+    "category": "School",
+    "pronunciation": "syen-syah"
+  },
+  {
+    "id": "matematicas",
+    "spanish": "matemáticas",
+    "english": "math",
+    "category": "School",
+    "pronunciation": "mah-teh-mah-tee-kahs"
+  },
+  {
+    "id": "arte",
+    "spanish": "arte",
+    "english": "art",
+    "category": "School",
+    "pronunciation": "ahr-teh"
+  },
+  {
+    "id": "musica",
+    "spanish": "música",
+    "english": "music",
+    "category": "School",
+    "pronunciation": "moo-see-kah"
+  },
+  {
+    "id": "examen",
+    "spanish": "examen",
+    "english": "exam",
+    "category": "School",
+    "pronunciation": "ek-sah-men"
+  },
+  {
+    "id": "clase",
+    "spanish": "clase",
+    "english": "class",
+    "category": "School",
+    "pronunciation": "klah-seh"
+  },
+  {
+    "id": "tarea",
+    "spanish": "tarea",
+    "english": "homework",
+    "category": "School",
+    "pronunciation": "tah-reh-ah"
+  },
+  {
+    "id": "pregunta",
+    "spanish": "pregunta",
+    "english": "question",
+    "category": "School",
+    "pronunciation": "preh-goon-tah"
+  },
+  {
+    "id": "respuesta",
+    "spanish": "respuesta",
+    "english": "answer",
+    "category": "School",
+    "pronunciation": "res-pwes-tah"
+  },
+  {
+    "id": "regla",
+    "spanish": "regla",
+    "english": "rule/ruler",
+    "category": "School",
+    "pronunciation": "reh-glah"
+  },
+  {
+    "id": "diccionario",
+    "spanish": "diccionario",
+    "english": "dictionary",
+    "category": "School",
+    "pronunciation": "deek-syo-nah-ryoh"
+  },
+  {
+    "id": "mapa-2",
+    "spanish": "mapa",
+    "english": "map",
+    "category": "School",
+    "pronunciation": "mah-pah"
+  },
+  {
+    "id": "bandera",
+    "spanish": "bandera",
+    "english": "flag",
+    "category": "School",
+    "pronunciation": "bahn-deh-rah"
+  },
+  {
+    "id": "error",
+    "spanish": "error",
+    "english": "mistake",
+    "category": "Abstract",
+    "pronunciation": "eh-rror"
+  },
+  {
+    "id": "verdad-2",
+    "spanish": "verdad",
+    "english": "truth",
+    "category": "Abstract",
+    "pronunciation": "ver-dahd"
+  },
+  {
+    "id": "mentira",
+    "spanish": "mentira",
+    "english": "lie",
+    "category": "Abstract",
+    "pronunciation": "men-tee-rah"
+  },
+  {
+    "id": "sueno",
+    "spanish": "sueño",
+    "english": "dream/sleepiness",
+    "category": "Abstract",
+    "pronunciation": "sweh-nyoh"
+  },
+  {
+    "id": "voz",
+    "spanish": "voz",
+    "english": "voice",
+    "category": "Abstract",
+    "pronunciation": "vohs"
+  },
+  {
+    "id": "ruido",
+    "spanish": "ruido",
+    "english": "noise",
+    "category": "Abstract",
+    "pronunciation": "rwee-doh"
+  },
+  {
+    "id": "olor",
+    "spanish": "olor",
+    "english": "smell",
+    "category": "Abstract",
+    "pronunciation": "oh-lor"
+  },
+  {
+    "id": "sabor",
+    "spanish": "sabor",
+    "english": "taste",
+    "category": "Abstract",
+    "pronunciation": "sah-bor"
+  },
+  {
+    "id": "fuerza",
+    "spanish": "fuerza",
+    "english": "strength",
+    "category": "Abstract",
+    "pronunciation": "fwer-sah"
+  },
+  {
+    "id": "energia",
+    "spanish": "energía",
+    "english": "energy",
+    "category": "Abstract",
+    "pronunciation": "eh-ner-hee-ah"
+  },
+  {
+    "id": "libertad",
+    "spanish": "libertad",
+    "english": "freedom",
+    "category": "Abstract",
+    "pronunciation": "lee-ber-tahd"
+  },
+  {
+    "id": "justicia",
+    "spanish": "justicia",
+    "english": "justice",
+    "category": "Abstract",
+    "pronunciation": "hoos-tee-syah"
+  },
+  {
+    "id": "cultura",
+    "spanish": "cultura",
+    "english": "culture",
+    "category": "Abstract",
+    "pronunciation": "kool-too-rah"
+  },
+  {
+    "id": "religion",
+    "spanish": "religión",
+    "english": "religion",
+    "category": "Abstract",
+    "pronunciation": "reh-lee-hyohn"
+  },
+  {
+    "id": "dios",
+    "spanish": "dios",
+    "english": "god",
+    "category": "Abstract",
+    "pronunciation": "dyohs"
+  },
+  {
+    "id": "muerte",
+    "spanish": "muerte",
+    "english": "death",
+    "category": "Abstract",
+    "pronunciation": "mwer-teh"
+  },
+  {
+    "id": "nacimiento",
+    "spanish": "nacimiento",
+    "english": "birth",
+    "category": "Abstract",
+    "pronunciation": "nah-see-myen-toh"
+  },
+  {
+    "id": "boda",
+    "spanish": "boda",
+    "english": "wedding",
+    "category": "Abstract",
+    "pronunciation": "boh-dah"
+  },
+  {
+    "id": "fiesta",
+    "spanish": "fiesta",
+    "english": "party",
+    "category": "Abstract",
+    "pronunciation": "fyes-tah"
+  },
+  {
+    "id": "viaje",
+    "spanish": "viaje",
+    "english": "trip",
+    "category": "Abstract",
+    "pronunciation": "vyah-heh"
+  },
+  {
+    "id": "vacaciones",
+    "spanish": "vacaciones",
+    "english": "vacation",
+    "category": "Abstract",
+    "pronunciation": "vah-kah-syo-nes"
+  },
+  {
+    "id": "accidente",
+    "spanish": "accidente",
+    "english": "accident",
+    "category": "Abstract",
+    "pronunciation": "ak-see-den-teh"
+  },
+  {
+    "id": "emergencia",
+    "spanish": "emergencia",
+    "english": "emergency",
+    "category": "Abstract",
+    "pronunciation": "eh-mer-hen-syah"
+  },
+  {
+    "id": "fuego-2",
+    "spanish": "fuego",
+    "english": "fire",
+    "category": "Abstract",
+    "pronunciation": "fweh-goh"
+  },
+  {
+    "id": "policia-2",
+    "spanish": "policía",
+    "english": "police",
+    "category": "Abstract",
+    "pronunciation": "poh-lee-syah"
+  },
+  {
+    "id": "ambulancia",
+    "spanish": "ambulancia",
+    "english": "ambulance",
+    "category": "Abstract",
+    "pronunciation": "ahm-boo-lahn-syah"
+  },
+  {
+    "id": "peligro",
+    "spanish": "peligro",
+    "english": "danger",
+    "category": "Abstract",
+    "pronunciation": "peh-lee-groh"
+  },
+  {
+    "id": "cuidado",
+    "spanish": "cuidado",
+    "english": "care/caution",
+    "category": "Abstract",
+    "pronunciation": "kwee-dah-doh"
+  },
+  {
+    "id": "atencion",
+    "spanish": "atención",
+    "english": "attention",
+    "category": "Abstract",
+    "pronunciation": "ah-ten-syohn"
+  },
+  {
+    "id": "respeto",
+    "spanish": "respeto",
+    "english": "respect",
+    "category": "Abstract",
+    "pronunciation": "res-peh-toh"
+  },
+  {
+    "id": "miedo-2",
+    "spanish": "miedo",
+    "english": "fear",
+    "category": "Abstract",
+    "pronunciation": "myeh-doh"
+  },
+  {
+    "id": "sorpresa",
+    "spanish": "sorpresa",
+    "english": "surprise",
+    "category": "Abstract",
+    "pronunciation": "sor-preh-sah"
+  },
+  {
+    "id": "risa",
+    "spanish": "risa",
+    "english": "laughter",
+    "category": "Abstract",
+    "pronunciation": "ree-sah"
+  },
+  {
+    "id": "llanto",
+    "spanish": "llanto",
+    "english": "crying",
+    "category": "Abstract",
+    "pronunciation": "yahn-toh"
+  },
+  {
+    "id": "grito",
+    "spanish": "grito",
+    "english": "scream/shout",
+    "category": "Abstract",
+    "pronunciation": "gree-toh"
+  },
+  {
+    "id": "silencio",
+    "spanish": "silencio",
+    "english": "silence",
+    "category": "Abstract",
+    "pronunciation": "see-len-syoh"
+  },
+  {
+    "id": "oscuridad",
+    "spanish": "oscuridad",
+    "english": "darkness",
+    "category": "Abstract",
+    "pronunciation": "os-koo-ree-dahd"
+  },
+  {
+    "id": "sombra",
+    "spanish": "sombra",
+    "english": "shadow",
+    "category": "Abstract",
+    "pronunciation": "sohm-brah"
+  },
+  {
+    "id": "espacio",
+    "spanish": "espacio",
+    "english": "space",
+    "category": "Abstract",
+    "pronunciation": "es-pah-syoh"
+  },
+  {
+    "id": "forma",
+    "spanish": "forma",
+    "english": "shape",
+    "category": "Abstract",
+    "pronunciation": "for-mah"
+  },
+  {
+    "id": "tamano",
+    "spanish": "tamaño",
+    "english": "size",
+    "category": "Abstract",
+    "pronunciation": "tah-mah-nyoh"
+  },
+  {
+    "id": "peso",
+    "spanish": "peso",
+    "english": "weight",
+    "category": "Abstract",
+    "pronunciation": "peh-soh"
+  },
+  {
+    "id": "velocidad",
+    "spanish": "velocidad",
+    "english": "speed",
+    "category": "Abstract",
+    "pronunciation": "veh-loh-see-dahd"
+  },
+  {
+    "id": "direccion",
+    "spanish": "dirección",
+    "english": "address/direction",
+    "category": "Abstract",
+    "pronunciation": "dee-rek-syohn"
+  },
+  {
+    "id": "distancia",
+    "spanish": "distancia",
+    "english": "distance",
+    "category": "Abstract",
+    "pronunciation": "dees-tahn-syah"
+  },
+  {
+    "id": "calidad",
+    "spanish": "calidad",
+    "english": "quality",
+    "category": "Abstract",
+    "pronunciation": "kah-lee-dahd"
+  },
+  {
+    "id": "cantidad",
+    "spanish": "cantidad",
+    "english": "quantity",
+    "category": "Abstract",
+    "pronunciation": "kahn-tee-dahd"
+  },
+  {
+    "id": "precio-2",
+    "spanish": "precio",
+    "english": "price",
+    "category": "Abstract",
+    "pronunciation": "preh-syoh"
+  },
+  {
+    "id": "valor",
+    "spanish": "valor",
+    "english": "value",
+    "category": "Abstract",
+    "pronunciation": "vah-lor"
+  },
+  {
+    "id": "costo",
+    "spanish": "costo",
+    "english": "cost",
+    "category": "Abstract",
+    "pronunciation": "kohs-toh"
+  },
+  {
+    "id": "impuesto",
+    "spanish": "impuesto",
+    "english": "tax",
+    "category": "Abstract",
+    "pronunciation": "eem-pwes-toh"
+  },
+  {
+    "id": "economia",
+    "spanish": "economía",
+    "english": "economy",
+    "category": "Abstract",
+    "pronunciation": "eh-koh-noh-mee-ah"
+  },
+  {
+    "id": "sociedad",
+    "spanish": "sociedad",
+    "english": "society",
+    "category": "Abstract",
+    "pronunciation": "soh-syeh-dahd"
+  },
+  {
+    "id": "comunidad",
+    "spanish": "comunidad",
+    "english": "community",
+    "category": "Abstract",
+    "pronunciation": "koh-moo-nee-dahd"
+  },
+  {
+    "id": "poblacion",
+    "spanish": "población",
+    "english": "population",
+    "category": "Abstract",
+    "pronunciation": "poh-blah-syohn"
+  },
+  {
+    "id": "gobierno-2",
+    "spanish": "gobierno",
+    "english": "government",
+    "category": "Abstract",
+    "pronunciation": "goh-byer-noh"
+  },
+  {
+    "id": "voto",
+    "spanish": "voto",
+    "english": "vote",
+    "category": "Abstract",
+    "pronunciation": "voh-toh"
+  },
+  {
+    "id": "eleccion",
+    "spanish": "elección",
+    "english": "election",
+    "category": "Abstract",
+    "pronunciation": "eh-lek-syohn"
+  },
+  {
+    "id": "presidente",
+    "spanish": "presidente",
+    "english": "president",
+    "category": "Abstract",
+    "pronunciation": "preh-see-den-teh"
+  },
+  {
+    "id": "rey",
+    "spanish": "rey",
+    "english": "king",
+    "category": "Abstract",
+    "pronunciation": "rrey"
+  },
+  {
+    "id": "reina",
+    "spanish": "reina",
+    "english": "queen",
+    "category": "Abstract",
+    "pronunciation": "rray-nah"
+  },
+  {
+    "id": "pais-2",
+    "spanish": "país",
+    "english": "country",
+    "category": "Abstract",
+    "pronunciation": "pah-ees"
+  },
+  {
+    "id": "nacion",
+    "spanish": "nación",
+    "english": "nation",
+    "category": "Abstract",
+    "pronunciation": "nah-syohn"
+  },
+  {
+    "id": "estado",
+    "spanish": "estado",
+    "english": "state",
+    "category": "Abstract",
+    "pronunciation": "es-tah-doh"
+  },
+  {
+    "id": "capital",
+    "spanish": "capital",
+    "english": "capital",
+    "category": "Abstract",
+    "pronunciation": "kah-pee-tahl"
+  },
+  {
+    "id": "frontera",
+    "spanish": "frontera",
+    "english": "border",
+    "category": "Abstract",
+    "pronunciation": "fron-teh-rah"
+  },
+  {
+    "id": "guerra-2",
+    "spanish": "guerra",
+    "english": "war",
+    "category": "Abstract",
+    "pronunciation": "geh-rrah"
+  },
+  {
+    "id": "paz-2",
+    "spanish": "paz",
+    "english": "peace",
+    "category": "Abstract",
+    "pronunciation": "pahs"
+  },
+  {
+    "id": "ejercito",
+    "spanish": "ejército",
+    "english": "army",
+    "category": "Abstract",
+    "pronunciation": "eh-her-see-toh"
+  },
+  {
+    "id": "arma",
+    "spanish": "arma",
+    "english": "weapon",
+    "category": "Abstract",
+    "pronunciation": "ahr-mah"
+  },
+  {
+    "id": "disparo",
+    "spanish": "disparo",
+    "english": "shot",
+    "category": "Abstract",
+    "pronunciation": "dees-pah-roh"
+  },
+  {
+    "id": "ataque",
+    "spanish": "ataque",
+    "english": "attack",
+    "category": "Abstract",
+    "pronunciation": "ah-tah-keh"
+  },
+  {
+    "id": "defensa",
+    "spanish": "defensa",
+    "english": "defense",
+    "category": "Abstract",
+    "pronunciation": "deh-fen-sah"
+  },
+  {
+    "id": "victoria",
+    "spanish": "victoria",
+    "english": "victory",
+    "category": "Abstract",
+    "pronunciation": "veek-toh-ryah"
+  },
+  {
+    "id": "derrota",
+    "spanish": "derrota",
+    "english": "defeat",
+    "category": "Abstract",
+    "pronunciation": "deh-rroh-tah"
+  },
+  {
+    "id": "historia-2",
+    "spanish": "historia",
+    "english": "history",
+    "category": "Abstract",
+    "pronunciation": "ees-toh-ryah"
+  },
+  {
+    "id": "futuro",
+    "spanish": "futuro",
+    "english": "future",
+    "category": "Abstract",
+    "pronunciation": "foo-too-roh"
+  },
+  {
+    "id": "pasado",
+    "spanish": "pasado",
+    "english": "past",
+    "category": "Abstract",
+    "pronunciation": "pah-sah-doh"
+  },
+  {
+    "id": "presente",
+    "spanish": "presente",
+    "english": "present",
+    "category": "Abstract",
+    "pronunciation": "preh-sen-teh"
+  },
+  {
+    "id": "siglo",
+    "spanish": "siglo",
+    "english": "century",
+    "category": "Abstract",
+    "pronunciation": "see-gloh"
+  },
+  {
+    "id": "decada",
+    "spanish": "década",
+    "english": "decade",
+    "category": "Abstract",
+    "pronunciation": "deh-kah-dah"
+  },
+  {
+    "id": "era",
+    "spanish": "era",
+    "english": "era",
+    "category": "Abstract",
+    "pronunciation": "eh-rah"
+  },
+  {
+    "id": "fecha",
+    "spanish": "fecha",
+    "english": "date",
+    "category": "Abstract",
+    "pronunciation": "feh-chah"
+  },
+  {
+    "id": "calendario",
+    "spanish": "calendario",
+    "english": "calendar",
+    "category": "Abstract",
+    "pronunciation": "kah-len-dah-ryoh"
+  },
+  {
+    "id": "reunion",
+    "spanish": "reunión",
+    "english": "meeting",
+    "category": "Abstract",
+    "pronunciation": "rreh-oo-nyohn"
+  },
+  {
+    "id": "cita",
+    "spanish": "cita",
+    "english": "appointment/date",
+    "category": "Abstract",
+    "pronunciation": "see-tah"
+  },
+  {
+    "id": "contrato",
+    "spanish": "contrato",
+    "english": "contract",
+    "category": "Abstract",
+    "pronunciation": "kon-trah-toh"
+  },
+  {
+    "id": "firma",
+    "spanish": "firma",
+    "english": "signature",
+    "category": "Abstract",
+    "pronunciation": "feer-mah"
+  },
+  {
+    "id": "documento",
+    "spanish": "documento",
+    "english": "document",
+    "category": "Abstract",
+    "pronunciation": "doh-koo-men-toh"
+  },
+  {
+    "id": "informacion",
+    "spanish": "información",
+    "english": "information",
+    "category": "Abstract",
+    "pronunciation": "een-for-mah-syohn"
+  },
+  {
+    "id": "dato",
+    "spanish": "dato",
+    "english": "data",
+    "category": "Abstract",
+    "pronunciation": "dah-toh"
+  },
+  {
+    "id": "conocimiento",
+    "spanish": "conocimiento",
+    "english": "knowledge",
+    "category": "Abstract",
+    "pronunciation": "koh-noh-see-myen-toh"
+  },
+  {
+    "id": "educacion",
+    "spanish": "educación",
+    "english": "education",
+    "category": "Abstract",
+    "pronunciation": "eh-doo-kah-syohn"
+  },
+  {
+    "id": "universidad",
+    "spanish": "universidad",
+    "english": "university",
+    "category": "Abstract",
+    "pronunciation": "oo-nee-ver-see-dahd"
+  },
+  {
+    "id": "titulo",
+    "spanish": "título",
+    "english": "degree/title",
+    "category": "Abstract",
+    "pronunciation": "tee-too-loh"
+  },
+  {
+    "id": "curso",
+    "spanish": "curso",
+    "english": "course",
+    "category": "Abstract",
+    "pronunciation": "koor-soh"
+  },
+  {
+    "id": "leccion",
+    "spanish": "lección",
+    "english": "lesson",
+    "category": "Abstract",
+    "pronunciation": "lek-syohn"
+  },
+  {
+    "id": "grado",
+    "spanish": "grado",
+    "english": "grade/degree",
+    "category": "Abstract",
+    "pronunciation": "grah-doh"
+  },
+  {
+    "id": "nivel-2",
+    "spanish": "nivel",
+    "english": "level",
+    "category": "Abstract",
+    "pronunciation": "nee-vel"
+  },
+  {
+    "id": "prueba",
+    "spanish": "prueba",
+    "english": "test/proof",
+    "category": "Abstract",
+    "pronunciation": "prweh-bah"
+  },
+  {
+    "id": "resultado",
+    "spanish": "resultado",
+    "english": "result",
+    "category": "Abstract",
+    "pronunciation": "reh-sool-tah-doh"
+  },
+  {
+    "id": "exito-2",
+    "spanish": "éxito",
+    "english": "success",
+    "category": "Abstract",
+    "pronunciation": "ek-see-toh"
+  },
+  {
+    "id": "fracaso",
+    "spanish": "fracaso",
+    "english": "failure",
+    "category": "Abstract",
+    "pronunciation": "frah-kah-soh"
+  },
+  {
+    "id": "meta",
+    "spanish": "meta",
+    "english": "goal",
+    "category": "Abstract",
+    "pronunciation": "meh-tah"
+  },
+  {
+    "id": "plan",
+    "spanish": "plan",
+    "english": "plan",
+    "category": "Abstract",
+    "pronunciation": "plahn"
+  },
+  {
+    "id": "proyecto",
+    "spanish": "proyecto",
+    "english": "project",
+    "category": "Abstract",
+    "pronunciation": "proh-yek-toh"
+  },
+  {
+    "id": "oportunidad",
+    "spanish": "oportunidad",
+    "english": "opportunity",
+    "category": "Abstract",
+    "pronunciation": "oh-por-too-nee-dahd"
+  },
+  {
+    "id": "riesgo",
+    "spanish": "riesgo",
+    "english": "risk",
+    "category": "Abstract",
+    "pronunciation": "ryes-goh"
+  },
+  {
+    "id": "solucion",
+    "spanish": "solución",
+    "english": "solution",
+    "category": "Abstract",
+    "pronunciation": "soh-loo-syohn"
+  },
+  {
+    "id": "decision",
+    "spanish": "decisión",
+    "english": "decision",
+    "category": "Abstract",
+    "pronunciation": "deh-see-syohn"
+  },
+  {
+    "id": "eleccion-2",
+    "spanish": "elección",
+    "english": "choice",
+    "category": "Abstract",
+    "pronunciation": "eh-lek-syohn"
+  },
+  {
+    "id": "opinion",
+    "spanish": "opinión",
+    "english": "opinion",
+    "category": "Abstract",
+    "pronunciation": "oh-pee-nyohn"
+  },
+  {
+    "id": "consejo",
+    "spanish": "consejo",
+    "english": "advice",
+    "category": "Abstract",
+    "pronunciation": "kon-seh-hoh"
+  },
+  {
+    "id": "acuerdo",
+    "spanish": "acuerdo",
+    "english": "agreement",
+    "category": "Abstract",
+    "pronunciation": "ah-kwer-doh"
+  },
+  {
+    "id": "desacuerdo",
+    "spanish": "desacuerdo",
+    "english": "disagreement",
+    "category": "Abstract",
+    "pronunciation": "des-ah-kwer-doh"
+  },
+  {
+    "id": "promesa",
+    "spanish": "promesa",
+    "english": "promise",
+    "category": "Abstract",
+    "pronunciation": "proh-meh-sah"
+  },
+  {
+    "id": "secreto",
+    "spanish": "secreto",
+    "english": "secret",
+    "category": "Abstract",
+    "pronunciation": "seh-kreh-toh"
+  },
+  {
+    "id": "noticia-2",
+    "spanish": "noticia",
+    "english": "news",
+    "category": "Abstract",
+    "pronunciation": "noh-tee-syah"
+  },
+  {
+    "id": "mensaje-2",
+    "spanish": "mensaje",
+    "english": "message",
+    "category": "Abstract",
+    "pronunciation": "men-sah-heh"
+  },
+  {
+    "id": "carta",
+    "spanish": "carta",
+    "english": "letter",
+    "category": "Abstract",
+    "pronunciation": "kahr-tah"
+  },
+  {
+    "id": "idioma",
+    "spanish": "idioma",
+    "english": "language",
+    "category": "Abstract",
+    "pronunciation": "ee-dyoh-mah"
+  },
+  {
+    "id": "lengua-2",
+    "spanish": "lengua",
+    "english": "tongue/language",
+    "category": "Abstract",
+    "pronunciation": "len-gwah"
+  },
+  {
+    "id": "traduccion",
+    "spanish": "traducción",
+    "english": "translation",
+    "category": "Abstract",
+    "pronunciation": "trah-dook-syohn"
+  },
+  {
+    "id": "significado",
+    "spanish": "significado",
+    "english": "meaning",
+    "category": "Abstract",
+    "pronunciation": "seeg-nee-fee-kah-doh"
+  },
+  {
+    "id": "estilo",
+    "spanish": "estilo",
+    "english": "style",
+    "category": "Abstract",
+    "pronunciation": "es-tee-loh"
+  },
+  {
+    "id": "diseno",
+    "spanish": "diseño",
+    "english": "design",
+    "category": "Abstract",
+    "pronunciation": "dee-seh-nyoh"
+  },
+  {
+    "id": "modelo",
+    "spanish": "modelo",
+    "english": "model",
+    "category": "Abstract",
+    "pronunciation": "moh-deh-loh"
+  },
+  {
+    "id": "imagen",
+    "spanish": "imagen",
+    "english": "image",
+    "category": "Abstract",
+    "pronunciation": "ee-mah-hen"
+  },
+  {
+    "id": "foto-2",
+    "spanish": "foto",
+    "english": "photo",
+    "category": "Abstract",
+    "pronunciation": "foh-toh"
+  },
+  {
+    "id": "pintura",
+    "spanish": "pintura",
+    "english": "painting",
+    "category": "Abstract",
+    "pronunciation": "peen-too-rah"
+  },
+  {
+    "id": "cancion-2",
+    "spanish": "canción",
+    "english": "song",
+    "category": "Abstract",
+    "pronunciation": "kahn-syohn"
+  },
+  {
+    "id": "baile",
+    "spanish": "baile",
+    "english": "dance",
+    "category": "Abstract",
+    "pronunciation": "by-leh"
+  },
+  {
+    "id": "deporte",
+    "spanish": "deporte",
+    "english": "sport",
+    "category": "Abstract",
+    "pronunciation": "deh-por-teh"
+  },
+  {
+    "id": "futbol",
+    "spanish": "fútbol",
+    "english": "soccer",
+    "category": "Abstract",
+    "pronunciation": "foot-bol"
+  },
+  {
+    "id": "pelota",
+    "spanish": "pelota",
+    "english": "ball",
+    "category": "Abstract",
+    "pronunciation": "peh-loh-tah"
+  },
+  {
+    "id": "equipo",
+    "spanish": "equipo",
+    "english": "team",
+    "category": "Abstract",
+    "pronunciation": "eh-kee-poh"
+  },
+  {
+    "id": "juego-2",
+    "spanish": "juego",
+    "english": "game",
+    "category": "Abstract",
+    "pronunciation": "hweh-goh"
+  },
+  {
+    "id": "jugador",
+    "spanish": "jugador",
+    "english": "player",
+    "category": "Abstract",
+    "pronunciation": "hoo-gah-dor"
+  },
+  {
+    "id": "campeon",
+    "spanish": "campeón",
+    "english": "champion",
+    "category": "Abstract",
+    "pronunciation": "kahm-peh-ohn"
+  },
+  {
+    "id": "competencia",
+    "spanish": "competencia",
+    "english": "competition",
+    "category": "Abstract",
+    "pronunciation": "kom-peh-ten-syah"
+  },
+  {
+    "id": "premio",
+    "spanish": "premio",
+    "english": "prize",
+    "category": "Abstract",
+    "pronunciation": "preh-myoh"
+  },
+  {
+    "id": "medalla",
+    "spanish": "medalla",
+    "english": "medal",
+    "category": "Abstract",
+    "pronunciation": "meh-dah-yah"
+  },
+  {
+    "id": "trofeo",
+    "spanish": "trofeo",
+    "english": "trophy",
+    "category": "Abstract",
+    "pronunciation": "troh-feh-oh"
+  },
+  {
+    "id": "regla-2",
+    "spanish": "regla",
+    "english": "rule",
+    "category": "Abstract",
+    "pronunciation": "reh-glah"
+  },
+  {
+    "id": "falta",
+    "spanish": "falta",
+    "english": "lack/foul",
+    "category": "Abstract",
+    "pronunciation": "fahl-tah"
+  },
+  {
+    "id": "punto-2",
+    "spanish": "punto",
+    "english": "point",
+    "category": "Abstract",
+    "pronunciation": "poon-toh"
+  },
+  {
+    "id": "linea",
+    "spanish": "línea",
+    "english": "line",
+    "category": "Abstract",
+    "pronunciation": "lee-neh-ah"
+  },
+  {
+    "id": "circulo",
+    "spanish": "círculo",
+    "english": "circle",
+    "category": "Abstract",
+    "pronunciation": "seer-koo-loh"
+  },
+  {
+    "id": "centro",
+    "spanish": "centro",
+    "english": "center",
+    "category": "Abstract",
+    "pronunciation": "sen-troh"
+  },
+  {
+    "id": "esquina",
+    "spanish": "esquina",
+    "english": "corner",
+    "category": "Abstract",
+    "pronunciation": "es-kee-nah"
+  },
+  {
+    "id": "fondo",
+    "spanish": "fondo",
+    "english": "bottom/background",
+    "category": "Abstract",
+    "pronunciation": "fon-doh"
+  },
+  {
+    "id": "superficie",
+    "spanish": "superficie",
+    "english": "surface",
+    "category": "Abstract",
+    "pronunciation": "soo-per-fee-syeh"
+  },
+  {
+    "id": "interior",
+    "spanish": "interior",
+    "english": "interior",
+    "category": "Abstract",
+    "pronunciation": "een-teh-ryor"
+  },
+  {
+    "id": "exterior",
+    "spanish": "exterior",
+    "english": "exterior",
+    "category": "Abstract",
+    "pronunciation": "ex-teh-ryor"
+  },
+  {
+    "id": "principio",
+    "spanish": "principio",
+    "english": "beginning/principle",
+    "category": "Abstract",
+    "pronunciation": "preen-see-pyoh"
+  },
+  {
+    "id": "final",
+    "spanish": "final",
+    "english": "final/end",
+    "category": "Abstract",
+    "pronunciation": "fee-nahl"
+  },
+  {
+    "id": "mitad",
+    "spanish": "mitad",
+    "english": "half",
+    "category": "Abstract",
+    "pronunciation": "mee-tahd"
+  },
+  {
+    "id": "cuarto",
+    "spanish": "cuarto",
+    "english": "quarter/room",
+    "category": "Abstract",
+    "pronunciation": "kwar-toh"
+  },
+  {
+    "id": "doble",
+    "spanish": "doble",
+    "english": "double",
+    "category": "Abstract",
+    "pronunciation": "doh-bleh"
+  },
+  {
+    "id": "par",
+    "spanish": "par",
+    "english": "pair",
+    "category": "Abstract",
+    "pronunciation": "pahr"
+  },
+  {
+    "id": "docena",
+    "spanish": "docena",
+    "english": "dozen",
+    "category": "Abstract",
+    "pronunciation": "doh-seh-nah"
+  },
+  {
+    "id": "mayoria",
+    "spanish": "mayoría",
+    "english": "majority",
+    "category": "Abstract",
+    "pronunciation": "mah-yoh-ree-ah"
+  },
+  {
+    "id": "minoria",
+    "spanish": "minoría",
+    "english": "minority",
+    "category": "Abstract",
+    "pronunciation": "mee-noh-ree-ah"
+  },
+  {
+    "id": "resto",
+    "spanish": "resto",
+    "english": "rest/remainder",
+    "category": "Abstract",
+    "pronunciation": "res-toh"
+  },
+  {
+    "id": "total",
+    "spanish": "total",
+    "english": "total",
+    "category": "Abstract",
+    "pronunciation": "toh-tahl"
+  },
+  {
+    "id": "promedio",
+    "spanish": "promedio",
+    "english": "average",
+    "category": "Abstract",
+    "pronunciation": "proh-meh-dyoh"
+  },
+  {
+    "id": "minimo",
+    "spanish": "mínimo",
+    "english": "minimum",
+    "category": "Abstract",
+    "pronunciation": "mee-nee-moh"
+  },
+  {
+    "id": "maximo",
+    "spanish": "máximo",
+    "english": "maximum",
+    "category": "Abstract",
+    "pronunciation": "mak-see-moh"
+  },
+  {
+    "id": "aumento",
+    "spanish": "aumento",
+    "english": "increase",
+    "category": "Abstract",
+    "pronunciation": "ow-men-toh"
+  },
+  {
+    "id": "caida",
+    "spanish": "caída",
+    "english": "fall/drop",
+    "category": "Abstract",
+    "pronunciation": "kah-ee-dah"
+  },
+  {
+    "id": "cambio",
+    "spanish": "cambio",
+    "english": "change",
+    "category": "Abstract",
+    "pronunciation": "kahm-byoh"
+  },
+  {
+    "id": "crecimiento",
+    "spanish": "crecimiento",
+    "english": "growth",
+    "category": "Abstract",
+    "pronunciation": "kreh-see-myen-toh"
+  },
+  {
+    "id": "desarrollo",
+    "spanish": "desarrollo",
+    "english": "development",
+    "category": "Abstract",
+    "pronunciation": "deh-sah-rroh-yoh"
+  },
+  {
+    "id": "progreso",
+    "spanish": "progreso",
+    "english": "progress",
+    "category": "Abstract",
+    "pronunciation": "proh-greh-soh"
+  },
+  {
+    "id": "proceso",
+    "spanish": "proceso",
+    "english": "process",
+    "category": "Abstract",
+    "pronunciation": "proh-seh-soh"
+  },
+  {
+    "id": "accion",
+    "spanish": "acción",
+    "english": "action",
+    "category": "Abstract",
+    "pronunciation": "ak-syohn"
+  },
+  {
+    "id": "actividad",
+    "spanish": "actividad",
+    "english": "activity",
+    "category": "Abstract",
+    "pronunciation": "ak-tee-vee-dahd"
+  },
+  {
+    "id": "movimiento",
+    "spanish": "movimiento",
+    "english": "movement",
+    "category": "Abstract",
+    "pronunciation": "moh-vee-myen-toh"
+  },
+  {
+    "id": "direccion-2",
+    "spanish": "dirección",
+    "english": "direction",
+    "category": "Abstract",
+    "pronunciation": "dee-rek-syohn"
+  },
+  {
+    "id": "oro",
+    "spanish": "oro",
+    "english": "gold",
+    "category": "Materials",
+    "pronunciation": "oh-roh"
+  },
+  {
+    "id": "plata",
+    "spanish": "plata",
+    "english": "silver",
+    "category": "Materials",
+    "pronunciation": "plah-tah"
+  },
+  {
+    "id": "hierro",
+    "spanish": "hierro",
+    "english": "iron",
+    "category": "Materials",
+    "pronunciation": "yeh-rroh"
+  },
+  {
+    "id": "madera",
+    "spanish": "madera",
+    "english": "wood",
+    "category": "Materials",
+    "pronunciation": "mah-deh-rah"
+  },
+  {
+    "id": "vidrio",
+    "spanish": "vidrio",
+    "english": "glass",
+    "category": "Materials",
+    "pronunciation": "vee-dryoh"
+  },
+  {
+    "id": "plastico",
+    "spanish": "plástico",
+    "english": "plastic",
+    "category": "Materials",
+    "pronunciation": "plahs-tee-koh"
+  },
+  {
+    "id": "papel-2",
+    "spanish": "papel",
+    "english": "paper",
+    "category": "Materials",
+    "pronunciation": "pah-pel"
+  },
+  {
+    "id": "piedra-2",
+    "spanish": "piedra",
+    "english": "stone",
+    "category": "Materials",
+    "pronunciation": "pyeh-drah"
+  },
+  {
+    "id": "arena",
+    "spanish": "arena",
+    "english": "sand",
+    "category": "Materials",
+    "pronunciation": "ah-reh-nah"
+  },
+  {
+    "id": "tierra-2",
+    "spanish": "tierra",
+    "english": "earth/soil",
+    "category": "Materials",
+    "pronunciation": "tyeh-rrah"
+  },
+  {
+    "id": "acero",
+    "spanish": "acero",
+    "english": "steel",
+    "category": "Materials",
+    "pronunciation": "ah-seh-roh"
+  },
+  {
+    "id": "algodon",
+    "spanish": "algodón",
+    "english": "cotton",
+    "category": "Materials",
+    "pronunciation": "ahl-goh-dohn"
+  },
+  {
+    "id": "lana",
+    "spanish": "lana",
+    "english": "wool",
+    "category": "Materials",
+    "pronunciation": "lah-nah"
+  },
+  {
+    "id": "piel-2",
+    "spanish": "piel",
+    "english": "leather/skin",
+    "category": "Materials",
+    "pronunciation": "pyel"
+  },
+  {
+    "id": "gas",
+    "spanish": "gas",
+    "english": "gas",
+    "category": "Materials",
+    "pronunciation": "gahs"
+  },
+  {
+    "id": "electricidad",
+    "spanish": "electricidad",
+    "english": "electricity",
+    "category": "Materials",
+    "pronunciation": "eh-lek-tree-see-dahd"
+  },
+  {
+    "id": "energia-2",
+    "spanish": "energía",
+    "english": "energy",
+    "category": "Materials",
+    "pronunciation": "eh-ner-hee-ah"
+  },
+  {
+    "id": "bateria",
+    "spanish": "batería",
+    "english": "battery",
+    "category": "Objects",
+    "pronunciation": "bah-teh-ree-ah"
+  },
+  {
+    "id": "cuerda",
+    "spanish": "cuerda",
+    "english": "rope",
+    "category": "Objects",
+    "pronunciation": "kwer-dah"
+  },
+  {
+    "id": "hilo",
+    "spanish": "hilo",
+    "english": "thread",
+    "category": "Objects",
+    "pronunciation": "ee-loh"
+  },
+  {
+    "id": "aguja",
+    "spanish": "aguja",
+    "english": "needle",
+    "category": "Objects",
+    "pronunciation": "ah-goo-hah"
+  },
+  {
+    "id": "tijeras",
+    "spanish": "tijeras",
+    "english": "scissors",
+    "category": "Objects",
+    "pronunciation": "tee-heh-rahs"
+  },
+  {
+    "id": "herramienta",
+    "spanish": "herramienta",
+    "english": "tool",
+    "category": "Objects",
+    "pronunciation": "eh-rrah-myen-tah"
+  },
+  {
+    "id": "martillo",
+    "spanish": "martillo",
+    "english": "hammer",
+    "category": "Objects",
+    "pronunciation": "mar-tee-yoh"
+  },
+  {
+    "id": "clavo",
+    "spanish": "clavo",
+    "english": "nail",
+    "category": "Objects",
+    "pronunciation": "klah-voh"
+  },
+  {
+    "id": "tornillo",
+    "spanish": "tornillo",
+    "english": "screw",
+    "category": "Objects",
+    "pronunciation": "tor-nee-yoh"
+  },
+  {
+    "id": "maquina",
+    "spanish": "máquina",
+    "english": "machine",
+    "category": "Objects",
+    "pronunciation": "mah-kee-nah"
+  },
+  {
+    "id": "motor",
+    "spanish": "motor",
+    "english": "motor/engine",
+    "category": "Objects",
+    "pronunciation": "moh-tor"
+  },
+  {
+    "id": "rueda",
+    "spanish": "rueda",
+    "english": "wheel",
+    "category": "Objects",
+    "pronunciation": "rweh-dah"
+  },
+  {
+    "id": "llanta",
+    "spanish": "llanta",
+    "english": "tire",
+    "category": "Objects",
+    "pronunciation": "yahn-tah"
+  },
+  {
+    "id": "freno",
+    "spanish": "freno",
+    "english": "brake",
+    "category": "Objects",
+    "pronunciation": "freh-noh"
+  },
+  {
+    "id": "gasolina",
+    "spanish": "gasolina",
+    "english": "gasoline",
+    "category": "Objects",
+    "pronunciation": "gah-soh-lee-nah"
+  },
+  {
+    "id": "teclado",
+    "spanish": "teclado",
+    "english": "keyboard",
+    "category": "Tech",
+    "pronunciation": "teh-klah-doh"
+  },
+  {
+    "id": "raton-2",
+    "spanish": "ratón",
+    "english": "mouse (computer)",
+    "category": "Tech",
+    "pronunciation": "rah-tohn"
+  },
+  {
+    "id": "pantalla-2",
+    "spanish": "pantalla",
+    "english": "screen",
+    "category": "Tech",
+    "pronunciation": "pahn-tah-yah"
+  },
+  {
+    "id": "archivo",
+    "spanish": "archivo",
+    "english": "file",
+    "category": "Tech",
+    "pronunciation": "ahr-chee-voh"
+  },
+  {
+    "id": "carpeta",
+    "spanish": "carpeta",
+    "english": "folder",
+    "category": "Tech",
+    "pronunciation": "kar-peh-tah"
+  },
+  {
+    "id": "enlace",
+    "spanish": "enlace",
+    "english": "link",
+    "category": "Tech",
+    "pronunciation": "en-lah-seh"
+  },
+  {
+    "id": "red",
+    "spanish": "red",
+    "english": "network",
+    "category": "Tech",
+    "pronunciation": "red"
+  },
+  {
+    "id": "senal",
+    "spanish": "señal",
+    "english": "signal",
+    "category": "Tech",
+    "pronunciation": "seh-nyahl"
+  },
+  {
+    "id": "codigo",
+    "spanish": "código",
+    "english": "code",
+    "category": "Tech",
+    "pronunciation": "koh-dee-goh"
+  },
+  {
+    "id": "contrasena",
+    "spanish": "contraseña",
+    "english": "password",
+    "category": "Tech",
+    "pronunciation": "kon-trah-seh-nyah"
+  },
+  {
+    "id": "usuario",
+    "spanish": "usuario",
+    "english": "user",
+    "category": "Tech",
+    "pronunciation": "oo-swah-ryoh"
+  },
+  {
+    "id": "programa",
+    "spanish": "programa",
+    "english": "program",
+    "category": "Tech",
+    "pronunciation": "proh-grah-mah"
+  },
+  {
+    "id": "aplicacion",
+    "spanish": "aplicación",
+    "english": "application (app)",
+    "category": "Tech",
+    "pronunciation": "ah-plee-kah-syohn"
+  },
+  {
+    "id": "memoria",
+    "spanish": "memoria",
+    "english": "memory",
+    "category": "Tech",
+    "pronunciation": "meh-moh-ryah"
+  },
+  {
+    "id": "camara",
+    "spanish": "cámara",
+    "english": "camera",
+    "category": "Tech",
+    "pronunciation": "kah-mah-rah"
+  },
+  {
+    "id": "radio",
+    "spanish": "radio",
+    "english": "radio",
+    "category": "Tech",
+    "pronunciation": "rah-dyoh"
+  },
+  {
+    "id": "television",
+    "spanish": "televisión",
+    "english": "television",
+    "category": "Tech",
+    "pronunciation": "teh-leh-vee-syohn"
+  },
+  {
+    "id": "control",
+    "spanish": "control",
+    "english": "control/remote",
+    "category": "Tech",
+    "pronunciation": "kon-trol"
+  },
+  {
+    "id": "boton",
+    "spanish": "botón",
+    "english": "button",
+    "category": "Objects",
+    "pronunciation": "boh-tohn"
+  },
+  {
+    "id": "llave-2",
+    "spanish": "llave",
+    "english": "key",
+    "category": "Objects",
+    "pronunciation": "yah-veh"
+  },
+  {
+    "id": "candado",
+    "spanish": "candado",
+    "english": "padlock",
+    "category": "Objects",
+    "pronunciation": "kahn-dah-doh"
+  },
+  {
+    "id": "caja",
+    "spanish": "caja",
+    "english": "box",
+    "category": "Objects",
+    "pronunciation": "kah-hah"
+  },
+  {
+    "id": "paquete",
+    "spanish": "paquete",
+    "english": "package",
+    "category": "Objects",
+    "pronunciation": "pah-keh-teh"
+  },
+  {
+    "id": "bolsa-2",
+    "spanish": "bolsa",
+    "english": "bag",
+    "category": "Objects",
+    "pronunciation": "bol-sah"
+  },
+  {
+    "id": "maleta-2",
+    "spanish": "maleta",
+    "english": "suitcase",
+    "category": "Objects",
+    "pronunciation": "mah-leh-tah"
+  },
+  {
+    "id": "mochila",
+    "spanish": "mochila",
+    "english": "backpack",
+    "category": "Objects",
+    "pronunciation": "moh-chee-lah"
+  },
+  {
+    "id": "cartera",
+    "spanish": "cartera",
+    "english": "wallet",
+    "category": "Objects",
+    "pronunciation": "kar-teh-rah"
+  },
+  {
+    "id": "moneda",
+    "spanish": "moneda",
+    "english": "coin",
+    "category": "Objects",
+    "pronunciation": "moh-neh-dah"
+  },
+  {
+    "id": "billete",
+    "spanish": "billete",
+    "english": "bill (money)",
+    "category": "Objects",
+    "pronunciation": "bee-yeh-teh"
+  },
+  {
+    "id": "tarjeta-2",
+    "spanish": "tarjeta",
+    "english": "card",
+    "category": "Objects",
+    "pronunciation": "tar-heh-tah"
+  },
+  {
+    "id": "firma-2",
+    "spanish": "firma",
+    "english": "signature",
+    "category": "Objects",
+    "pronunciation": "feer-mah"
+  },
+  {
+    "id": "contrato-2",
+    "spanish": "contrato",
+    "english": "contract",
+    "category": "Objects",
+    "pronunciation": "kon-trah-toh"
+  },
+  {
+    "id": "seguro-2",
+    "spanish": "seguro",
+    "english": "insurance",
+    "category": "Objects",
+    "pronunciation": "seh-goo-roh"
+  },
+  {
+    "id": "policia-3",
+    "spanish": "policía",
+    "english": "police",
+    "category": "City",
+    "pronunciation": "poh-lee-syah"
+  },
+  {
+    "id": "bombero",
+    "spanish": "bombero",
+    "english": "firefighter",
+    "category": "City",
+    "pronunciation": "bom-beh-roh"
+  },
+  {
+    "id": "correo-2",
+    "spanish": "correo",
+    "english": "mail/post office",
+    "category": "City",
+    "pronunciation": "koh-rreh-oh"
+  },
+  {
+    "id": "parque-2",
+    "spanish": "parque",
+    "english": "park",
+    "category": "City",
+    "pronunciation": "pahr-keh"
+  },
+  {
+    "id": "plaza",
+    "spanish": "plaza",
+    "english": "square (city)",
+    "category": "City",
+    "pronunciation": "plah-sah"
+  },
+  {
+    "id": "mercado-2",
+    "spanish": "mercado",
+    "english": "market",
+    "category": "City",
+    "pronunciation": "mer-kah-doh"
+  },
+  {
+    "id": "tienda-2",
+    "spanish": "tienda",
+    "english": "store",
+    "category": "City",
+    "pronunciation": "tyen-dah"
+  },
+  {
+    "id": "restaurante",
+    "spanish": "restaurante",
+    "english": "restaurant",
+    "category": "City",
+    "pronunciation": "res-tow-rahn-teh"
+  },
+  {
+    "id": "cafeteria",
+    "spanish": "cafetería",
+    "english": "cafeteria/cafe",
+    "category": "City",
+    "pronunciation": "kah-feh-teh-ree-ah"
+  },
+  {
+    "id": "bar",
+    "spanish": "bar",
+    "english": "bar",
+    "category": "City",
+    "pronunciation": "bahr"
+  },
+  {
+    "id": "hotel-2",
+    "spanish": "hotel",
+    "english": "hotel",
+    "category": "City",
+    "pronunciation": "oh-tel"
+  },
+  {
+    "id": "museo-2",
+    "spanish": "museo",
+    "english": "museum",
+    "category": "City",
+    "pronunciation": "moo-seh-oh"
+  },
+  {
+    "id": "aeropuerto-2",
+    "spanish": "aeropuerto",
+    "english": "airport",
+    "category": "City",
+    "pronunciation": "ah-eh-roh-pwer-toh"
+  },
+  {
+    "id": "estacion-2",
+    "spanish": "estación",
+    "english": "station",
+    "category": "City",
+    "pronunciation": "es-tah-syohn"
+  },
+  {
+    "id": "parada",
+    "spanish": "parada",
+    "english": "stop (bus)",
+    "category": "City",
+    "pronunciation": "pah-rah-dah"
+  },
+  {
+    "id": "semaforo",
+    "spanish": "semáforo",
+    "english": "traffic light",
+    "category": "City",
+    "pronunciation": "seh-mah-foh-roh"
+  },
+  {
+    "id": "trafico",
+    "spanish": "tráfico",
+    "english": "traffic",
+    "category": "City",
+    "pronunciation": "trah-fee-koh"
+  },
+  {
+    "id": "calle-2",
+    "spanish": "calle",
+    "english": "street",
+    "category": "City",
+    "pronunciation": "kah-yeh"
+  },
+  {
+    "id": "avenida",
+    "spanish": "avenida",
+    "english": "avenue",
+    "category": "City",
+    "pronunciation": "ah-veh-nee-dah"
+  },
+  {
+    "id": "esquina-2",
+    "spanish": "esquina",
+    "english": "corner",
+    "category": "City",
+    "pronunciation": "es-kee-nah"
+  },
+  {
+    "id": "cuadra",
+    "spanish": "cuadra",
+    "english": "block (city)",
+    "category": "City",
+    "pronunciation": "kwah-drah"
+  },
+  {
+    "id": "barrio",
+    "spanish": "barrio",
+    "english": "neighborhood",
+    "category": "City",
+    "pronunciation": "bah-rryoh"
+  },
+  {
+    "id": "vecino",
+    "spanish": "vecino",
+    "english": "neighbor",
+    "category": "People",
+    "pronunciation": "veh-see-noh"
+  },
+  {
+    "id": "invitado",
+    "spanish": "invitado",
+    "english": "guest",
+    "category": "People",
+    "pronunciation": "een-vee-tah-doh"
+  },
+  {
+    "id": "visitante",
+    "spanish": "visitante",
+    "english": "visitor",
+    "category": "People",
+    "pronunciation": "vee-see-tahn-teh"
+  },
+  {
+    "id": "turista",
+    "spanish": "turista",
+    "english": "tourist",
+    "category": "People",
+    "pronunciation": "too-rees-tah"
+  },
+  {
+    "id": "extranjero",
+    "spanish": "extranjero",
+    "english": "foreigner",
+    "category": "People",
+    "pronunciation": "ex-trahn-heh-roh"
+  },
+  {
+    "id": "enemigo",
+    "spanish": "enemigo",
+    "english": "enemy",
+    "category": "People",
+    "pronunciation": "eh-neh-mee-goh"
+  },
+  {
+    "id": "prisionero",
+    "spanish": "prisionero",
+    "english": "prisoner",
+    "category": "People",
+    "pronunciation": "pree-syo-neh-roh"
+  },
+  {
+    "id": "ladron",
+    "spanish": "ladrón",
+    "english": "thief",
+    "category": "People",
+    "pronunciation": "lah-drohn"
+  },
+  {
+    "id": "asesino",
+    "spanish": "asesino",
+    "english": "killer",
+    "category": "People",
+    "pronunciation": "ah-seh-see-noh"
+  },
+  {
+    "id": "victima",
+    "spanish": "víctima",
+    "english": "victim",
+    "category": "People",
+    "pronunciation": "veek-tee-mah"
+  },
+  {
+    "id": "testigo",
+    "spanish": "testigo",
+    "english": "witness",
+    "category": "People",
+    "pronunciation": "tes-tee-goh"
+  },
+  {
+    "id": "juez",
+    "spanish": "juez",
+    "english": "judge",
+    "category": "People",
+    "pronunciation": "hwehs"
+  },
+  {
+    "id": "abogado-2",
+    "spanish": "abogado",
+    "english": "lawyer",
+    "category": "People",
+    "pronunciation": "ah-boh-gah-doh"
+  },
+  {
+    "id": "presidente-2",
+    "spanish": "presidente",
+    "english": "president",
+    "category": "People",
+    "pronunciation": "preh-see-den-teh"
+  },
+  {
+    "id": "ministro",
+    "spanish": "ministro",
+    "english": "minister",
+    "category": "People",
+    "pronunciation": "mee-nees-troh"
+  },
+  {
+    "id": "alcalde",
+    "spanish": "alcalde",
+    "english": "mayor",
+    "category": "People",
+    "pronunciation": "ahl-kahl-deh"
+  },
+  {
+    "id": "lider",
+    "spanish": "líder",
+    "english": "leader",
+    "category": "People",
+    "pronunciation": "lee-der"
+  },
+  {
+    "id": "miembro",
+    "spanish": "miembro",
+    "english": "member",
+    "category": "People",
+    "pronunciation": "myem-broh"
+  },
+  {
+    "id": "socio",
+    "spanish": "socio",
+    "english": "partner/member",
+    "category": "People",
+    "pronunciation": "soh-syoh"
+  },
+  {
+    "id": "adulto",
+    "spanish": "adulto",
+    "english": "adult",
+    "category": "People",
+    "pronunciation": "ah-dool-toh"
+  },
+  {
+    "id": "bebe",
+    "spanish": "bebé",
+    "english": "baby",
+    "category": "People",
+    "pronunciation": "beh-beh"
+  },
+  {
+    "id": "anciano",
+    "spanish": "anciano",
+    "english": "elderly person",
+    "category": "People",
+    "pronunciation": "ahn-syah-noh"
+  },
+  {
+    "id": "humano",
+    "spanish": "humano",
+    "english": "human",
+    "category": "People",
+    "pronunciation": "oo-mah-noh"
+  },
+  {
+    "id": "caballero",
+    "spanish": "caballero",
+    "english": "gentleman/knight",
+    "category": "People",
+    "pronunciation": "kah-bah-yeh-roh"
+  },
+  {
+    "id": "dama",
+    "spanish": "dama",
+    "english": "lady",
+    "category": "People",
+    "pronunciation": "dah-mah"
+  },
+  {
+    "id": "rey-2",
+    "spanish": "rey",
+    "english": "king",
+    "category": "People",
+    "pronunciation": "rrey"
+  },
+  {
+    "id": "reina-2",
+    "spanish": "reina",
+    "english": "queen",
+    "category": "People",
+    "pronunciation": "rray-nah"
+  },
+  {
+    "id": "principe",
+    "spanish": "príncipe",
+    "english": "prince",
+    "category": "People",
+    "pronunciation": "preen-see-peh"
+  },
+  {
+    "id": "princesa",
+    "spanish": "princesa",
+    "english": "princess",
+    "category": "People",
+    "pronunciation": "preen-seh-sah"
+  },
+  {
+    "id": "explicar",
+    "spanish": "explicar",
+    "english": "to explain",
+    "category": "Verbs (Comms)",
+    "pronunciation": "ex-plee-kahr"
+  },
+  {
+    "id": "ofrecer",
+    "spanish": "ofrecer",
+    "english": "to offer",
+    "category": "Verbs (Social)",
+    "pronunciation": "oh-freh-ser"
+  },
+  {
+    "id": "aceptar",
+    "spanish": "aceptar",
+    "english": "to accept",
+    "category": "Verbs (Social)",
+    "pronunciation": "ah-sep-tahr"
+  },
+  {
+    "id": "rechazar",
+    "spanish": "rechazar",
+    "english": "to reject",
+    "category": "Verbs (Social)",
+    "pronunciation": "reh-chah-sahr"
+  },
+  {
+    "id": "compartir",
+    "spanish": "compartir",
+    "english": "to share",
+    "category": "Verbs (Social)",
+    "pronunciation": "kom-par-teer"
+  },
+  {
+    "id": "elegir",
+    "spanish": "elegir",
+    "english": "to choose",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "eh-leh-heer"
+  },
+  {
+    "id": "decidir",
+    "spanish": "decidir",
+    "english": "to decide",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "deh-see-deer"
+  },
+  {
+    "id": "preferir",
+    "spanish": "preferir",
+    "english": "to prefer",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "preh-feh-reer"
+  },
+  {
+    "id": "olvidar",
+    "spanish": "olvidar",
+    "english": "to forget",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "ol-vee-dahr"
+  },
+  {
+    "id": "imaginar",
+    "spanish": "imaginar",
+    "english": "to imagine",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "ee-mah-hee-nahr"
+  },
+  {
+    "id": "preocupar",
+    "spanish": "preocupar",
+    "english": "to worry",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "preh-oh-koo-pahr"
+  },
+  {
+    "id": "esperar-2",
+    "spanish": "esperar",
+    "english": "to wait/hope",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "es-peh-rahr"
+  },
+  {
+    "id": "desear",
+    "spanish": "desear",
+    "english": "to wish",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "deh-seh-ahr"
+  },
+  {
+    "id": "disfrutar",
+    "spanish": "disfrutar",
+    "english": "to enjoy",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "dees-froo-tahr"
+  },
+  {
+    "id": "sufrir",
+    "spanish": "sufrir",
+    "english": "to suffer",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "soo-freer"
+  },
+  {
+    "id": "llorar",
+    "spanish": "llorar",
+    "english": "to cry",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "yoh-rahr"
+  },
+  {
+    "id": "reir",
+    "spanish": "reír",
+    "english": "to laugh",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "rreh-eer"
+  },
+  {
+    "id": "sonreir",
+    "spanish": "sonreír",
+    "english": "to smile",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "son-rreh-eer"
+  },
+  {
+    "id": "besar",
+    "spanish": "besar",
+    "english": "to kiss",
+    "category": "Verbs (Action)",
+    "pronunciation": "beh-sahr"
+  },
+  {
+    "id": "abrazar",
+    "spanish": "abrazar",
+    "english": "to hug",
+    "category": "Verbs (Action)",
+    "pronunciation": "ah-brah-sahr"
+  },
+  {
+    "id": "tocar-2",
+    "spanish": "tocar",
+    "english": "to touch/play",
+    "category": "Verbs (Action)",
+    "pronunciation": "toh-kahr"
+  },
+  {
+    "id": "empujar",
+    "spanish": "empujar",
+    "english": "to push",
+    "category": "Verbs (Action)",
+    "pronunciation": "em-poo-hahr"
+  },
+  {
+    "id": "tirar",
+    "spanish": "tirar",
+    "english": "to pull/throw",
+    "category": "Verbs (Action)",
+    "pronunciation": "tee-rahr"
+  },
+  {
+    "id": "levantar-2",
+    "spanish": "levantar",
+    "english": "to lift",
+    "category": "Verbs (Action)",
+    "pronunciation": "leh-vahn-tahr"
+  },
+  {
+    "id": "caer-2",
+    "spanish": "caer",
+    "english": "to fall",
+    "category": "Verbs (Action)",
+    "pronunciation": "kah-er"
+  },
+  {
+    "id": "romper-2",
+    "spanish": "romper",
+    "english": "to break",
+    "category": "Verbs (Action)",
+    "pronunciation": "rrom-per"
+  },
+  {
+    "id": "cortar",
+    "spanish": "cortar",
+    "english": "to cut",
+    "category": "Verbs (Action)",
+    "pronunciation": "kor-tahr"
+  },
+  {
+    "id": "pegar",
+    "spanish": "pegar",
+    "english": "to hit/glue",
+    "category": "Verbs (Action)",
+    "pronunciation": "peh-gahr"
+  },
+  {
+    "id": "luchar",
+    "spanish": "luchar",
+    "english": "to fight",
+    "category": "Verbs (Action)",
+    "pronunciation": "loo-chahr"
+  },
+  {
+    "id": "matar",
+    "spanish": "matar",
+    "english": "to kill",
+    "category": "Verbs (Action)",
+    "pronunciation": "mah-tahr"
+  },
+  {
+    "id": "salvar",
+    "spanish": "salvar",
+    "english": "to save",
+    "category": "Verbs (Action)",
+    "pronunciation": "sahl-vahr"
+  },
+  {
+    "id": "proteger",
+    "spanish": "proteger",
+    "english": "to protect",
+    "category": "Verbs (Action)",
+    "pronunciation": "proh-teh-her"
+  },
+  {
+    "id": "cuidar",
+    "spanish": "cuidar",
+    "english": "to take care of",
+    "category": "Verbs (Action)",
+    "pronunciation": "kwee-dahr"
+  },
+  {
+    "id": "crecer",
+    "spanish": "crecer",
+    "english": "to grow",
+    "category": "Verbs (State)",
+    "pronunciation": "kreh-ser"
+  },
+  {
+    "id": "nacer-2",
+    "spanish": "nacer",
+    "english": "to be born",
+    "category": "Verbs (State)",
+    "pronunciation": "nah-ser"
+  },
+  {
+    "id": "morir-2",
+    "spanish": "morir",
+    "english": "to die",
+    "category": "Verbs (State)",
+    "pronunciation": "moh-reer"
+  },
+  {
+    "id": "casar",
+    "spanish": "casar",
+    "english": "to marry",
+    "category": "Verbs (State)",
+    "pronunciation": "kah-sahr"
+  },
+  {
+    "id": "divorciar",
+    "spanish": "divorciar",
+    "english": "to divorce",
+    "category": "Verbs (State)",
+    "pronunciation": "dee-vor-syahr"
+  },
+  {
+    "id": "viajar-2",
+    "spanish": "viajar",
+    "english": "to travel",
+    "category": "Verbs (Motion)",
+    "pronunciation": "vyah-hahr"
+  },
+  {
+    "id": "volar",
+    "spanish": "volar",
+    "english": "to fly",
+    "category": "Verbs (Motion)",
+    "pronunciation": "voh-lahr"
+  },
+  {
+    "id": "nadar",
+    "spanish": "nadar",
+    "english": "to swim",
+    "category": "Verbs (Motion)",
+    "pronunciation": "nah-dahr"
+  },
+  {
+    "id": "correr-2",
+    "spanish": "correr",
+    "english": "to run",
+    "category": "Verbs (Motion)",
+    "pronunciation": "koh-rreh"
+  },
+  {
+    "id": "saltar",
+    "spanish": "saltar",
+    "english": "to jump",
+    "category": "Verbs (Motion)",
+    "pronunciation": "sahl-tahr"
+  },
+  {
+    "id": "bailar-2",
+    "spanish": "bailar",
+    "english": "to dance",
+    "category": "Verbs (Motion)",
+    "pronunciation": "by-lahr"
+  },
+  {
+    "id": "manejar",
+    "spanish": "manejar",
+    "english": "to drive (LatAm)",
+    "category": "Verbs (Motion)",
+    "pronunciation": "mah-neh-hahr"
+  },
+  {
+    "id": "conducir",
+    "spanish": "conducir",
+    "english": "to drive (Spain)",
+    "category": "Verbs (Motion)",
+    "pronunciation": "kon-doo-seer"
+  },
+  {
+    "id": "cruzar",
+    "spanish": "cruzar",
+    "english": "to cross",
+    "category": "Verbs (Motion)",
+    "pronunciation": "kroo-sahr"
+  },
+  {
+    "id": "girar",
+    "spanish": "girar",
+    "english": "to turn",
+    "category": "Verbs (Motion)",
+    "pronunciation": "hee-rahr"
+  },
+  {
+    "id": "regresar",
+    "spanish": "regresar",
+    "english": "to return",
+    "category": "Verbs (Motion)",
+    "pronunciation": "reh-greh-sahr"
+  },
+  {
+    "id": "llegar",
+    "spanish": "llegar",
+    "english": "to arrive",
+    "category": "Verbs (Motion)",
+    "pronunciation": "yeh-gahr"
+  },
+  {
+    "id": "salir-2",
+    "spanish": "salir",
+    "english": "to leave",
+    "category": "Verbs (Motion)",
+    "pronunciation": "sah-leer"
+  },
+  {
+    "id": "entrar-2",
+    "spanish": "entrar",
+    "english": "to enter",
+    "category": "Verbs (Motion)",
+    "pronunciation": "en-trahr"
+  },
+  {
+    "id": "meter",
+    "spanish": "meter",
+    "english": "to put in",
+    "category": "Verbs (Motion)",
+    "pronunciation": "meh-ter"
+  },
+  {
+    "id": "sacar-2",
+    "spanish": "sacar",
+    "english": "to take out",
+    "category": "Verbs (Motion)",
+    "pronunciation": "sah-kahr"
+  },
+  {
+    "id": "llenar",
+    "spanish": "llenar",
+    "english": "to fill",
+    "category": "Verbs (Motion)",
+    "pronunciation": "yeh-nahr"
+  },
+  {
+    "id": "vaciar",
+    "spanish": "vaciar",
+    "english": "to empty",
+    "category": "Verbs (Motion)",
+    "pronunciation": "vah-syahr"
+  },
+  {
+    "id": "cubrir",
+    "spanish": "cubrir",
+    "english": "to cover",
+    "category": "Verbs (Motion)",
+    "pronunciation": "koo-breer"
+  },
+  {
+    "id": "descubrir",
+    "spanish": "descubrir",
+    "english": "to discover",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "des-koo-breer"
+  },
+  {
+    "id": "mostrar",
+    "spanish": "mostrar",
+    "english": "to show",
+    "category": "Verbs (Social)",
+    "pronunciation": "mohs-trahr"
+  },
+  {
+    "id": "esconder",
+    "spanish": "esconder",
+    "english": "to hide",
+    "category": "Verbs (Action)",
+    "pronunciation": "es-kon-der"
+  },
+  {
+    "id": "buscar-2",
+    "spanish": "buscar",
+    "english": "to look for",
+    "category": "Verbs (Action)",
+    "pronunciation": "boos-kahr"
+  },
+  {
+    "id": "encontrar-2",
+    "spanish": "encontrar",
+    "english": "to find",
+    "category": "Verbs (Action)",
+    "pronunciation": "en-kon-trahr"
+  },
+  {
+    "id": "perder-2",
+    "spanish": "perder",
+    "english": "to lose",
+    "category": "Verbs (Action)",
+    "pronunciation": "per-der"
+  },
+  {
+    "id": "ganar-2",
+    "spanish": "ganar",
+    "english": "to win",
+    "category": "Verbs (Action)",
+    "pronunciation": "gah-nahr"
+  },
+  {
+    "id": "intentar",
+    "spanish": "intentar",
+    "english": "to try",
+    "category": "Verbs (Action)",
+    "pronunciation": "een-ten-tahr"
+  },
+  {
+    "id": "lograr",
+    "spanish": "lograr",
+    "english": "to achieve",
+    "category": "Verbs (Action)",
+    "pronunciation": "loh-grahr"
+  },
+  {
+    "id": "fallar",
+    "spanish": "fallar",
+    "english": "to fail",
+    "category": "Verbs (Action)",
+    "pronunciation": "fah-yahr"
+  },
+  {
+    "id": "cometer",
+    "spanish": "cometer",
+    "english": "to commit",
+    "category": "Verbs (Action)",
+    "pronunciation": "koh-meh-ter"
+  },
+  {
+    "id": "resolver",
+    "spanish": "resolver",
+    "english": "to solve",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "reh-sol-ver"
+  },
+  {
+    "id": "dudar",
+    "spanish": "dudar",
+    "english": "to doubt",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "doo-dahr"
+  },
+  {
+    "id": "creer-2",
+    "spanish": "creer",
+    "english": "to believe",
+    "category": "Verbs (Cognitive)",
+    "pronunciation": "kreh-er"
+  },
+  {
+    "id": "negar",
+    "spanish": "negar",
+    "english": "to deny",
+    "category": "Verbs (Comms)",
+    "pronunciation": "neh-gahr"
+  },
+  {
+    "id": "admitir",
+    "spanish": "admitir",
+    "english": "to admit",
+    "category": "Verbs (Comms)",
+    "pronunciation": "ahd-mee-teer"
+  },
+  {
+    "id": "prometer",
+    "spanish": "prometer",
+    "english": "to promise",
+    "category": "Verbs (Comms)",
+    "pronunciation": "proh-meh-ter"
+  },
+  {
+    "id": "jurar",
+    "spanish": "jurar",
+    "english": "to swear",
+    "category": "Verbs (Comms)",
+    "pronunciation": "hoo-rahr"
+  },
+  {
+    "id": "gritar",
+    "spanish": "gritar",
+    "english": "to shout",
+    "category": "Verbs (Comms)",
+    "pronunciation": "gree-tahr"
+  },
+  {
+    "id": "susurrar",
+    "spanish": "susurrar",
+    "english": "to whisper",
+    "category": "Verbs (Comms)",
+    "pronunciation": "soo-soo-rrahr"
+  },
+  {
+    "id": "callar",
+    "spanish": "callar",
+    "english": "to silence",
+    "category": "Verbs (Comms)",
+    "pronunciation": "kah-yahr"
+  },
+  {
+    "id": "escuchar",
+    "spanish": "escuchar",
+    "english": "to listen",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "es-koo-chahr"
+  },
+  {
+    "id": "ver-2",
+    "spanish": "ver",
+    "english": "to see",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "ver"
+  },
+  {
+    "id": "mirar-2",
+    "spanish": "mirar",
+    "english": "to look",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "mee-rahr"
+  },
+  {
+    "id": "observar",
+    "spanish": "observar",
+    "english": "to observe",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "ob-ser-vahr"
+  },
+  {
+    "id": "oler",
+    "spanish": "oler",
+    "english": "to smell",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "oh-ler"
+  },
+  {
+    "id": "saber-2",
+    "spanish": "saber",
+    "english": "to taste/know",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "sah-ber"
+  },
+  {
+    "id": "parecer-2",
+    "spanish": "parecer",
+    "english": "to seem",
+    "category": "Verbs (State)",
+    "pronunciation": "pah-reh-ser"
+  },
+  {
+    "id": "sonar",
+    "spanish": "sonar",
+    "english": "to sound/ring",
+    "category": "Verbs (Sensory)",
+    "pronunciation": "soh-nahr"
+  },
+  {
+    "id": "brillar",
+    "spanish": "brillar",
+    "english": "to shine",
+    "category": "Verbs (State)",
+    "pronunciation": "bree-yahr"
+  },
+  {
+    "id": "quemar",
+    "spanish": "quemar",
+    "english": "to burn",
+    "category": "Verbs (State)",
+    "pronunciation": "keh-mahr"
+  },
+  {
+    "id": "congelar",
+    "spanish": "congelar",
+    "english": "to freeze",
+    "category": "Verbs (State)",
+    "pronunciation": "kon-heh-lahr"
+  },
+  {
+    "id": "hervir",
+    "spanish": "hervir",
+    "english": "to boil",
+    "category": "Verbs (State)",
+    "pronunciation": "er-veer"
+  },
+  {
+    "id": "fumar",
+    "spanish": "fumar",
+    "english": "to smoke",
+    "category": "Verbs (Action)",
+    "pronunciation": "foo-mahr"
+  },
+  {
+    "id": "respirar",
+    "spanish": "respirar",
+    "english": "to breathe",
+    "category": "Verbs (Body)",
+    "pronunciation": "res-pee-rahr"
+  },
+  {
+    "id": "toser",
+    "spanish": "toser",
+    "english": "to cough",
+    "category": "Verbs (Body)",
+    "pronunciation": "toh-ser"
+  },
+  {
+    "id": "estornudar",
+    "spanish": "estornudar",
+    "english": "to sneeze",
+    "category": "Verbs (Body)",
+    "pronunciation": "es-tor-noo-dahr"
+  },
+  {
+    "id": "vomitar",
+    "spanish": "vomitar",
+    "english": "to vomit",
+    "category": "Verbs (Body)",
+    "pronunciation": "voh-mee-tahr"
+  },
+  {
+    "id": "sangrar",
+    "spanish": "sangrar",
+    "english": "to bleed",
+    "category": "Verbs (Body)",
+    "pronunciation": "sahn-grahr"
+  },
+  {
+    "id": "curar",
+    "spanish": "curar",
+    "english": "to cure",
+    "category": "Verbs (Body)",
+    "pronunciation": "koo-rahr"
+  },
+  {
+    "id": "doler-2",
+    "spanish": "doler",
+    "english": "to hurt",
+    "category": "Verbs (Body)",
+    "pronunciation": "doh-ler"
+  },
+  {
+    "id": "pesar",
+    "spanish": "pesar",
+    "english": "to weigh",
+    "category": "Verbs (Measure)",
+    "pronunciation": "peh-sahr"
+  },
+  {
+    "id": "medir",
+    "spanish": "medir",
+    "english": "to measure",
+    "category": "Verbs (Measure)",
+    "pronunciation": "meh-deer"
+  },
+  {
+    "id": "costar",
+    "spanish": "costar",
+    "english": "to cost",
+    "category": "Verbs (Measure)",
+    "pronunciation": "kohs-tahr"
+  },
+  {
+    "id": "valer",
+    "spanish": "valer",
+    "english": "to be worth",
+    "category": "Verbs (Measure)",
+    "pronunciation": "vah-ler"
+  },
+  {
+    "id": "bastar",
+    "spanish": "bastar",
+    "english": "to be enough",
+    "category": "Verbs (State)",
+    "pronunciation": "bahs-tahr"
+  },
+  {
+    "id": "sobrar",
+    "spanish": "sobrar",
+    "english": "to be left over",
+    "category": "Verbs (State)",
+    "pronunciation": "soh-brahr"
+  },
+  {
+    "id": "faltar",
+    "spanish": "faltar",
+    "english": "to lack/be missing",
+    "category": "Verbs (State)",
+    "pronunciation": "fahl-tahr"
+  },
+  {
+    "id": "pertenecer",
+    "spanish": "pertenecer",
+    "english": "to belong",
+    "category": "Verbs (State)",
+    "pronunciation": "per-teh-neh-ser"
+  },
+  {
+    "id": "depender",
+    "spanish": "depender",
+    "english": "to depend",
+    "category": "Verbs (State)",
+    "pronunciation": "deh-pen-der"
+  },
+  {
+    "id": "importar",
+    "spanish": "importar",
+    "english": "to matter",
+    "category": "Verbs (State)",
+    "pronunciation": "eem-por-tahr"
+  },
+  {
+    "id": "interesar",
+    "spanish": "interesar",
+    "english": "to interest",
+    "category": "Verbs (State)",
+    "pronunciation": "een-teh-reh-sahr"
+  },
+  {
+    "id": "molestar",
+    "spanish": "molestar",
+    "english": "to bother",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "moh-les-tahr"
+  },
+  {
+    "id": "sorprender",
+    "spanish": "sorprender",
+    "english": "to surprise",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "sor-pren-der"
+  },
+  {
+    "id": "asustar",
+    "spanish": "asustar",
+    "english": "to scare",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "ah-soos-tahr"
+  },
+  {
+    "id": "aburrir",
+    "spanish": "aburrir",
+    "english": "to bore",
+    "category": "Verbs (Emotion)",
+    "pronunciation": "ah-boo-rreer"
+  },
+  {
+    "id": "cansar",
+    "spanish": "cansar",
+    "english": "to tire",
+    "category": "Verbs (Body)",
+    "pronunciation": "kahn-sahr"
+  },
+  {
+    "id": "relajar",
+    "spanish": "relajar",
+    "english": "to relax",
+    "category": "Verbs (Body)",
+    "pronunciation": "reh-lah-hahr"
+  },
+  {
+    "id": "descansar",
+    "spanish": "descansar",
+    "english": "to rest",
+    "category": "Verbs (Body)",
+    "pronunciation": "des-kahn-sahr"
+  },
+  {
+    "id": "despertar",
+    "spanish": "despertar",
+    "english": "to wake up",
+    "category": "Verbs (Body)",
+    "pronunciation": "des-per-tahr"
+  },
+  {
+    "id": "levantar-3",
+    "spanish": "levantar",
+    "english": "to get up",
+    "category": "Verbs (Body)",
+    "pronunciation": "leh-vahn-tahr"
+  },
+  {
+    "id": "vestir",
+    "spanish": "vestir",
+    "english": "to dress",
+    "category": "Verbs (Body)",
+    "pronunciation": "ves-teer"
+  },
+  {
+    "id": "peinar",
+    "spanish": "peinar",
+    "english": "to comb",
+    "category": "Verbs (Body)",
+    "pronunciation": "pay-nahr"
+  },
+  {
+    "id": "cepillar",
+    "spanish": "cepillar",
+    "english": "to brush",
+    "category": "Verbs (Body)",
+    "pronunciation": "seh-pee-yahr"
+  },
+  {
+    "id": "banar",
+    "spanish": "bañar",
+    "english": "to bathe",
+    "category": "Verbs (Body)",
+    "pronunciation": "bah-nyahr"
+  },
+  {
+    "id": "afeitar",
+    "spanish": "afeitar",
+    "english": "to shave",
+    "category": "Verbs (Body)",
+    "pronunciation": "ah-fay-tahr"
+  },
+  {
+    "id": "maquillar",
+    "spanish": "maquillar",
+    "english": "to put on makeup",
+    "category": "Verbs (Body)",
+    "pronunciation": "mah-kee-yahr"
+  },
+  {
+    "id": "pronto",
+    "spanish": "pronto",
+    "english": "soon",
+    "category": "Adverbs",
+    "pronunciation": "prohn-toh"
+  },
+  {
+    "id": "temprano-2",
+    "spanish": "temprano",
+    "english": "early",
+    "category": "Adverbs",
+    "pronunciation": "tem-prah-noh"
+  },
+  {
+    "id": "tarde-2",
+    "spanish": "tarde",
+    "english": "late",
+    "category": "Adverbs",
+    "pronunciation": "tahr-deh"
+  },
+  {
+    "id": "ahora-2",
+    "spanish": "ahora",
+    "english": "now",
+    "category": "Adverbs",
+    "pronunciation": "ah-oh-rah"
+  },
+  {
+    "id": "luego",
+    "spanish": "luego",
+    "english": "later",
+    "category": "Adverbs",
+    "pronunciation": "lweh-goh"
+  },
+  {
+    "id": "entonces",
+    "spanish": "entonces",
+    "english": "then",
+    "category": "Adverbs",
+    "pronunciation": "en-tohn-ses"
+  },
+  {
+    "id": "despues",
+    "spanish": "después",
+    "english": "after",
+    "category": "Adverbs",
+    "pronunciation": "des-pwes"
+  },
+  {
+    "id": "antes",
+    "spanish": "antes",
+    "english": "before",
+    "category": "Adverbs",
+    "pronunciation": "ahn-tes"
+  },
+  {
+    "id": "mientras-2",
+    "spanish": "mientras",
+    "english": "while",
+    "category": "Adverbs",
+    "pronunciation": "myen-trahs"
+  },
+  {
+    "id": "siempre",
+    "spanish": "siempre",
+    "english": "always",
+    "category": "Adverbs",
+    "pronunciation": "syem-preh"
+  },
+  {
+    "id": "nunca",
+    "spanish": "nunca",
+    "english": "never",
+    "category": "Adverbs",
+    "pronunciation": "noon-kah"
+  },
+  {
+    "id": "jamas-2",
+    "spanish": "jamás",
+    "english": "never (emphatic)",
+    "category": "Adverbs",
+    "pronunciation": "hah-mahs"
+  },
+  {
+    "id": "a-veces-2",
+    "spanish": "a veces",
+    "english": "sometimes",
+    "category": "Adverbs",
+    "pronunciation": "ah veh-ses"
+  },
+  {
+    "id": "quizas-2",
+    "spanish": "quizás",
+    "english": "maybe",
+    "category": "Adverbs",
+    "pronunciation": "kee-sahs"
+  },
+  {
+    "id": "tal-vez",
+    "spanish": "tal vez",
+    "english": "perhaps",
+    "category": "Adverbs",
+    "pronunciation": "tahl ves"
+  },
+  {
+    "id": "probablemente",
+    "spanish": "probablemente",
+    "english": "probably",
+    "category": "Adverbs",
+    "pronunciation": "proh-bah-bleh-men-teh"
+  },
+  {
+    "id": "seguramente",
+    "spanish": "seguramente",
+    "english": "surely",
+    "category": "Adverbs",
+    "pronunciation": "seh-goo-rah-men-teh"
+  },
+  {
+    "id": "realmente",
+    "spanish": "realmente",
+    "english": "really",
+    "category": "Adverbs",
+    "pronunciation": "reh-ahl-men-teh"
+  },
+  {
+    "id": "verdaderamente",
+    "spanish": "verdaderamente",
+    "english": "truly",
+    "category": "Adverbs",
+    "pronunciation": "ver-dah-deh-rah-men-teh"
+  },
+  {
+    "id": "simplemente",
+    "spanish": "simplemente",
+    "english": "simply",
+    "category": "Adverbs",
+    "pronunciation": "seem-pleh-men-teh"
+  },
+  {
+    "id": "solamente",
+    "spanish": "solamente",
+    "english": "only",
+    "category": "Adverbs",
+    "pronunciation": "soh-lah-men-teh"
+  },
+  {
+    "id": "apenas-2",
+    "spanish": "apenas",
+    "english": "barely",
+    "category": "Adverbs",
+    "pronunciation": "ah-peh-nahs"
+  },
+  {
+    "id": "casi",
+    "spanish": "casi",
+    "english": "almost",
+    "category": "Adverbs",
+    "pronunciation": "kah-see"
+  },
+  {
+    "id": "bastante",
+    "spanish": "bastante",
+    "english": "enough/quite",
+    "category": "Adverbs",
+    "pronunciation": "bahs-tahn-teh"
+  },
+  {
+    "id": "demasiado",
+    "spanish": "demasiado",
+    "english": "too much",
+    "category": "Adverbs",
+    "pronunciation": "deh-mah-syah-doh"
+  },
+  {
+    "id": "muy-2",
+    "spanish": "muy",
+    "english": "very",
+    "category": "Adverbs",
+    "pronunciation": "mwee"
+  },
+  {
+    "id": "tan",
+    "spanish": "tan",
+    "english": "so",
+    "category": "Adverbs",
+    "pronunciation": "tahn"
+  },
+  {
+    "id": "mas",
+    "spanish": "más",
+    "english": "more",
+    "category": "Adverbs",
+    "pronunciation": "mahs"
+  },
+  {
+    "id": "menos",
+    "spanish": "menos",
+    "english": "less",
+    "category": "Adverbs",
+    "pronunciation": "meh-nohs"
+  },
+  {
+    "id": "mejor",
+    "spanish": "mejor",
+    "english": "better",
+    "category": "Adverbs",
+    "pronunciation": "meh-hor"
+  },
+  {
+    "id": "peor",
+    "spanish": "peor",
+    "english": "worse",
+    "category": "Adverbs",
+    "pronunciation": "peh-or"
+  },
+  {
+    "id": "bien",
+    "spanish": "bien",
+    "english": "well",
+    "category": "Adverbs",
+    "pronunciation": "byen"
+  },
+  {
+    "id": "mal",
+    "spanish": "mal",
+    "english": "badly",
+    "category": "Adverbs",
+    "pronunciation": "mahl"
+  },
+  {
+    "id": "asi",
+    "spanish": "así",
+    "english": "like this/so",
+    "category": "Adverbs",
+    "pronunciation": "ah-see"
+  },
+  {
+    "id": "despacio",
+    "spanish": "despacio",
+    "english": "slowly",
+    "category": "Adverbs",
+    "pronunciation": "des-pah-syoh"
+  },
+  {
+    "id": "rapido-2",
+    "spanish": "rápido",
+    "english": "fast",
+    "category": "Adverbs",
+    "pronunciation": "rrah-pee-doh"
+  },
+  {
+    "id": "alto-2",
+    "spanish": "alto",
+    "english": "loudly/high",
+    "category": "Adverbs",
+    "pronunciation": "ahl-toh"
+  },
+  {
+    "id": "bajo-2",
+    "spanish": "bajo",
+    "english": "quietly/low",
+    "category": "Adverbs",
+    "pronunciation": "bah-hoh"
+  },
+  {
+    "id": "juntos",
+    "spanish": "juntos",
+    "english": "together",
+    "category": "Adverbs",
+    "pronunciation": "hoon-tohs"
+  },
+  {
+    "id": "solos",
+    "spanish": "solos",
+    "english": "alone",
+    "category": "Adverbs",
+    "pronunciation": "soh-lohs"
+  },
+  {
+    "id": "claro",
+    "spanish": "claro",
+    "english": "clearly/of course",
+    "category": "Adverbs",
+    "pronunciation": "klah-roh"
+  },
+  {
+    "id": "arriba-2",
+    "spanish": "arriba",
+    "english": "up",
+    "category": "Prepositions",
+    "pronunciation": "ah-rree-bah"
+  },
+  {
+    "id": "abajo-2",
+    "spanish": "abajo",
+    "english": "down",
+    "category": "Prepositions",
+    "pronunciation": "ah-bah-hoh"
+  },
+  {
+    "id": "dentro",
+    "spanish": "dentro",
+    "english": "inside",
+    "category": "Prepositions",
+    "pronunciation": "den-troh"
+  },
+  {
+    "id": "fuera",
+    "spanish": "fuera",
+    "english": "outside",
+    "category": "Prepositions",
+    "pronunciation": "fweh-rah"
+  },
+  {
+    "id": "encima",
+    "spanish": "encima",
+    "english": "on top",
+    "category": "Prepositions",
+    "pronunciation": "en-see-mah"
+  },
+  {
+    "id": "debajo",
+    "spanish": "debajo",
+    "english": "underneath",
+    "category": "Prepositions",
+    "pronunciation": "deh-bah-hoh"
+  },
+  {
+    "id": "delante",
+    "spanish": "delante",
+    "english": "in front",
+    "category": "Prepositions",
+    "pronunciation": "deh-lahn-teh"
+  },
+  {
+    "id": "detras",
+    "spanish": "detrás",
+    "english": "behind",
+    "category": "Prepositions",
+    "pronunciation": "deh-trahs"
+  },
+  {
+    "id": "cerca-2",
+    "spanish": "cerca",
+    "english": "near",
+    "category": "Prepositions",
+    "pronunciation": "ser-kah"
+  },
+  {
+    "id": "lejos-2",
+    "spanish": "lejos",
+    "english": "far",
+    "category": "Prepositions",
+    "pronunciation": "leh-hos"
+  },
+  {
+    "id": "aqui-2",
+    "spanish": "aquí",
+    "english": "here",
+    "category": "Prepositions",
+    "pronunciation": "ah-kee"
+  },
+  {
+    "id": "alli-2",
+    "spanish": "allí",
+    "english": "there",
+    "category": "Prepositions",
+    "pronunciation": "ah-yee"
+  },
+  {
+    "id": "alla",
+    "spanish": "allá",
+    "english": "over there",
+    "category": "Prepositions",
+    "pronunciation": "ah-yah"
+  },
+  {
+    "id": "donde-2",
+    "spanish": "donde",
+    "english": "where",
+    "category": "Prepositions",
+    "pronunciation": "dohn-deh"
+  },
+  {
+    "id": "adonde",
+    "spanish": "adonde",
+    "english": "to where",
+    "category": "Prepositions",
+    "pronunciation": "ah-dohn-deh"
+  },
+  {
+    "id": "de-donde",
+    "spanish": "de donde",
+    "english": "from where",
+    "category": "Prepositions",
+    "pronunciation": "deh dohn-deh"
+  },
+  {
+    "id": "porque-2",
+    "spanish": "porque",
+    "english": "because",
+    "category": "Conjunctions",
+    "pronunciation": "por-keh"
+  },
+  {
+    "id": "como-2",
+    "spanish": "como",
+    "english": "like/as",
+    "category": "Conjunctions",
+    "pronunciation": "koh-moh"
+  },
+  {
+    "id": "si-3",
+    "spanish": "si",
+    "english": "if",
+    "category": "Conjunctions",
+    "pronunciation": "see"
+  },
+  {
+    "id": "aunque",
+    "spanish": "aunque",
+    "english": "although",
+    "category": "Conjunctions",
+    "pronunciation": "own-keh"
+  },
+  {
+    "id": "pero-2",
+    "spanish": "pero",
+    "english": "but",
+    "category": "Conjunctions",
+    "pronunciation": "peh-roh"
+  },
+  {
+    "id": "sino",
+    "spanish": "sino",
+    "english": "but rather",
+    "category": "Conjunctions",
+    "pronunciation": "see-noh"
+  },
+  {
+    "id": "o-2",
+    "spanish": "o",
+    "english": "or",
+    "category": "Conjunctions",
+    "pronunciation": "oh"
+  },
+  {
+    "id": "y-2",
+    "spanish": "y",
+    "english": "and",
+    "category": "Conjunctions",
+    "pronunciation": "ee"
+  },
+  {
+    "id": "ni",
+    "spanish": "ni",
+    "english": "nor",
+    "category": "Conjunctions",
+    "pronunciation": "nee"
+  },
+  {
+    "id": "que-3",
+    "spanish": "que",
+    "english": "that",
+    "category": "Conjunctions",
+    "pronunciation": "keh"
+  },
+  {
+    "id": "quien-2",
+    "spanish": "quien",
+    "english": "who",
+    "category": "Conjunctions",
+    "pronunciation": "kyen"
+  },
+  {
+    "id": "cual",
+    "spanish": "cual",
+    "english": "which",
+    "category": "Conjunctions",
+    "pronunciation": "kwahl"
+  },
+  {
+    "id": "cuyo",
+    "spanish": "cuyo",
+    "english": "whose",
+    "category": "Conjunctions",
+    "pronunciation": "koo-yoh"
+  },
+  {
+    "id": "cuando-3",
+    "spanish": "cuando",
+    "english": "when",
+    "category": "Conjunctions",
+    "pronunciation": "kwahn-doh"
+  },
+  {
+    "id": "mientras-3",
+    "spanish": "mientras",
+    "english": "while",
+    "category": "Conjunctions",
+    "pronunciation": "myen-trahs"
+  },
+  {
+    "id": "hasta-2",
+    "spanish": "hasta",
+    "english": "until",
+    "category": "Conjunctions",
+    "pronunciation": "ahs-tah"
+  },
+  {
+    "id": "desde-2",
+    "spanish": "desde",
+    "english": "since",
+    "category": "Conjunctions",
+    "pronunciation": "des-deh"
+  },
+  {
+    "id": "para",
+    "spanish": "para",
+    "english": "for (purpose)",
+    "category": "Prepositions",
+    "pronunciation": "pah-rah"
+  },
+  {
+    "id": "por-2",
+    "spanish": "por",
+    "english": "for (cause)",
+    "category": "Prepositions",
+    "pronunciation": "por"
+  },
+  {
+    "id": "con-2",
+    "spanish": "con",
+    "english": "with",
+    "category": "Prepositions",
+    "pronunciation": "kon"
+  },
+  {
+    "id": "sin-2",
+    "spanish": "sin",
+    "english": "without",
+    "category": "Prepositions",
+    "pronunciation": "seen"
+  },
+  {
+    "id": "contra",
+    "spanish": "contra",
+    "english": "against",
+    "category": "Prepositions",
+    "pronunciation": "kon-trah"
+  },
+  {
+    "id": "entre-2",
+    "spanish": "entre",
+    "english": "between",
+    "category": "Prepositions",
+    "pronunciation": "en-treh"
+  },
+  {
+    "id": "sobre-2",
+    "spanish": "sobre",
+    "english": "about/on",
+    "category": "Prepositions",
+    "pronunciation": "soh-breh"
+  },
+  {
+    "id": "de-2",
+    "spanish": "de",
+    "english": "of/from",
+    "category": "Prepositions",
+    "pronunciation": "deh"
+  },
+  {
+    "id": "a-2",
+    "spanish": "a",
+    "english": "to",
+    "category": "Prepositions",
+    "pronunciation": "ah"
+  },
+  {
+    "id": "en-2",
+    "spanish": "en",
+    "english": "in/on",
+    "category": "Prepositions",
+    "pronunciation": "en"
+  },
+  {
+    "id": "durante-2",
+    "spanish": "durante",
+    "english": "during",
+    "category": "Prepositions",
+    "pronunciation": "doo-rahn-teh"
+  },
+  {
+    "id": "hacia-2",
+    "spanish": "hacia",
+    "english": "toward",
+    "category": "Prepositions",
+    "pronunciation": "ah-syah"
+  },
+  {
+    "id": "segun-2",
+    "spanish": "según",
+    "english": "according to",
+    "category": "Prepositions",
+    "pronunciation": "seh-goon"
+  },
+  {
+    "id": "mediante",
+    "spanish": "mediante",
+    "english": "by means of",
+    "category": "Prepositions",
+    "pronunciation": "meh-dyahn-teh"
+  },
+  {
+    "id": "tras-2",
+    "spanish": "tras",
+    "english": "after/behind",
+    "category": "Prepositions",
+    "pronunciation": "trahs"
+  },
+  {
+    "id": "frente-a",
+    "spanish": "frente a",
+    "english": "facing",
+    "category": "Prepositions",
+    "pronunciation": "fren-teh ah"
+  },
+  {
+    "id": "al-lado-de",
+    "spanish": "al lado de",
+    "english": "next to",
+    "category": "Prepositions",
+    "pronunciation": "ahl lah-doh deh"
+  },
+  {
+    "id": "alrededor-de",
+    "spanish": "alrededor de",
+    "english": "around",
+    "category": "Prepositions",
+    "pronunciation": "ahl-reh-deh-dor deh"
+  },
+  {
+    "id": "a-traves-de",
+    "spanish": "a través de",
+    "english": "through",
+    "category": "Prepositions",
+    "pronunciation": "ah trah-ves deh"
+  },
+  {
+    "id": "a-pesar-de",
+    "spanish": "a pesar de",
+    "english": "in spite of",
+    "category": "Prepositions",
+    "pronunciation": "ah peh-sahr deh"
+  },
+  {
+    "id": "en-vez-de",
+    "spanish": "en vez de",
+    "english": "instead of",
+    "category": "Prepositions",
+    "pronunciation": "en ves deh"
+  },
+  {
+    "id": "gracias-a",
+    "spanish": "gracias a",
+    "english": "thanks to",
+    "category": "Prepositions",
+    "pronunciation": "grah-syahs ah"
+  },
+  {
+    "id": "debido-a",
+    "spanish": "debido a",
+    "english": "due to",
+    "category": "Prepositions",
+    "pronunciation": "deh-bee-doh ah"
+  },
+  {
+    "id": "lindo",
+    "spanish": "lindo",
+    "english": "cute/nice",
+    "category": "Adjectives",
+    "pronunciation": "leen-doh"
+  },
+  {
+    "id": "feo-2",
+    "spanish": "feo",
+    "english": "ugly",
+    "category": "Adjectives",
+    "pronunciation": "feh-oh"
+  },
+  {
+    "id": "guapo",
+    "spanish": "guapo",
+    "english": "handsome",
+    "category": "Adjectives",
+    "pronunciation": "gwah-poh"
+  },
+  {
+    "id": "horrible",
+    "spanish": "horrible",
+    "english": "horrible",
+    "category": "Adjectives",
+    "pronunciation": "oh-rree-bleh"
+  },
+  {
+    "id": "maravilloso",
+    "spanish": "maravilloso",
+    "english": "wonderful",
+    "category": "Adjectives",
+    "pronunciation": "mah-rah-vee-yoh-soh"
+  },
+  {
+    "id": "increible",
+    "spanish": "increíble",
+    "english": "incredible",
+    "category": "Adjectives",
+    "pronunciation": "een-kreh-ee-bleh"
+  },
+  {
+    "id": "imposible",
+    "spanish": "imposible",
+    "english": "impossible",
+    "category": "Adjectives",
+    "pronunciation": "eem-po-see-bleh"
+  },
+  {
+    "id": "util",
+    "spanish": "útil",
+    "english": "useful",
+    "category": "Adjectives",
+    "pronunciation": "oo-teel"
+  },
+  {
+    "id": "inutil",
+    "spanish": "inútil",
+    "english": "useless",
+    "category": "Adjectives",
+    "pronunciation": "een-oo-teel"
+  },
+  {
+    "id": "capaz",
+    "spanish": "capaz",
+    "english": "capable",
+    "category": "Adjectives",
+    "pronunciation": "kah-pahs"
+  },
+  {
+    "id": "incapaz",
+    "spanish": "incapaz",
+    "english": "incapable",
+    "category": "Adjectives",
+    "pronunciation": "een-kah-pahs"
+  },
+  {
+    "id": "listo-2",
+    "spanish": "listo",
+    "english": "ready/smart",
+    "category": "Adjectives",
+    "pronunciation": "lees-toh"
+  },
+  {
+    "id": "torpe",
+    "spanish": "torpe",
+    "english": "clumsy",
+    "category": "Adjectives",
+    "pronunciation": "tor-peh"
+  },
+  {
+    "id": "loco",
+    "spanish": "loco",
+    "english": "crazy",
+    "category": "Adjectives",
+    "pronunciation": "loh-koh"
+  },
+  {
+    "id": "cuerdo",
+    "spanish": "cuerdo",
+    "english": "sane",
+    "category": "Adjectives",
+    "pronunciation": "kwer-doh"
+  },
+  {
+    "id": "borracho",
+    "spanish": "borracho",
+    "english": "drunk",
+    "category": "Adjectives",
+    "pronunciation": "boh-rrah-choh"
+  },
+  {
+    "id": "sobrio",
+    "spanish": "sobrio",
+    "english": "sober",
+    "category": "Adjectives",
+    "pronunciation": "soh-bryoh"
+  },
+  {
+    "id": "vivo",
+    "spanish": "vivo",
+    "english": "alive",
+    "category": "Adjectives",
+    "pronunciation": "vee-voh"
+  },
+  {
+    "id": "muerto",
+    "spanish": "muerto",
+    "english": "dead",
+    "category": "Adjectives",
+    "pronunciation": "mwer-toh"
+  },
+  {
+    "id": "desnudo",
+    "spanish": "desnudo",
+    "english": "naked",
+    "category": "Adjectives",
+    "pronunciation": "des-noo-doh"
+  },
+  {
+    "id": "vestido-2",
+    "spanish": "vestido",
+    "english": "dressed",
+    "category": "Adjectives",
+    "pronunciation": "ves-tee-doh"
+  },
+  {
+    "id": "sencillo",
+    "spanish": "sencillo",
+    "english": "simple",
+    "category": "Adjectives",
+    "pronunciation": "sen-see-yoh"
+  },
+  {
+    "id": "complejo",
+    "spanish": "complejo",
+    "english": "complex",
+    "category": "Adjectives",
+    "pronunciation": "kom-pleh-hoh"
+  },
+  {
+    "id": "basico",
+    "spanish": "básico",
+    "english": "basic",
+    "category": "Adjectives",
+    "pronunciation": "bah-see-koh"
+  },
+  {
+    "id": "principal",
+    "spanish": "principal",
+    "english": "main",
+    "category": "Adjectives",
+    "pronunciation": "preen-see-pahl"
+  },
+  {
+    "id": "final-2",
+    "spanish": "final",
+    "english": "final",
+    "category": "Adjectives",
+    "pronunciation": "fee-nahl"
+  },
+  {
+    "id": "inicial",
+    "spanish": "inicial",
+    "english": "initial",
+    "category": "Adjectives",
+    "pronunciation": "ee-nee-syahl"
+  },
+  {
+    "id": "anterior",
+    "spanish": "anterior",
+    "english": "previous",
+    "category": "Adjectives",
+    "pronunciation": "ahn-teh-ryor"
+  },
+  {
+    "id": "posterior",
+    "spanish": "posterior",
+    "english": "posterior/later",
+    "category": "Adjectives",
+    "pronunciation": "pohs-teh-ryor"
+  },
+  {
+    "id": "superior",
+    "spanish": "superior",
+    "english": "superior",
+    "category": "Adjectives",
+    "pronunciation": "soo-peh-ryor"
+  },
+  {
+    "id": "inferior",
+    "spanish": "inferior",
+    "english": "inferior",
+    "category": "Adjectives",
+    "pronunciation": "een-feh-ryor"
+  },
+  {
+    "id": "interior-2",
+    "spanish": "interior",
+    "english": "inner",
+    "category": "Adjectives",
+    "pronunciation": "een-teh-ryor"
+  },
+  {
+    "id": "exterior-2",
+    "spanish": "exterior",
+    "english": "outer",
+    "category": "Adjectives",
+    "pronunciation": "ex-teh-ryor"
+  },
+  {
+    "id": "nacional",
+    "spanish": "nacional",
+    "english": "national",
+    "category": "Adjectives",
+    "pronunciation": "nah-syo-nahl"
+  },
+  {
+    "id": "internacional",
+    "spanish": "internacional",
+    "english": "international",
+    "category": "Adjectives",
+    "pronunciation": "een-ter-nah-syo-nahl"
+  },
+  {
+    "id": "publico",
+    "spanish": "público",
+    "english": "public",
+    "category": "Adjectives",
+    "pronunciation": "poo-blee-koh"
+  },
+  {
+    "id": "privado",
+    "spanish": "privado",
+    "english": "private",
+    "category": "Adjectives",
+    "pronunciation": "pree-vah-doh"
+  },
+  {
+    "id": "social",
+    "spanish": "social",
+    "english": "social",
+    "category": "Adjectives",
+    "pronunciation": "soh-syahl"
+  },
+  {
+    "id": "politico-2",
+    "spanish": "político",
+    "english": "political",
+    "category": "Adjectives",
+    "pronunciation": "poh-lee-tee-koh"
+  },
+  {
+    "id": "economico",
+    "spanish": "económico",
+    "english": "economic",
+    "category": "Adjectives",
+    "pronunciation": "eh-koh-noh-mee-koh"
+  },
+  {
+    "id": "militar",
+    "spanish": "militar",
+    "english": "military",
+    "category": "Adjectives",
+    "pronunciation": "mee-lee-tahr"
+  },
+  {
+    "id": "religioso",
+    "spanish": "religioso",
+    "english": "religious",
+    "category": "Adjectives",
+    "pronunciation": "reh-lee-hyoh-soh"
+  },
+  {
+    "id": "cultural",
+    "spanish": "cultural",
+    "english": "cultural",
+    "category": "Adjectives",
+    "pronunciation": "kool-too-rahl"
+  },
+  {
+    "id": "historico",
+    "spanish": "histórico",
+    "english": "historical",
+    "category": "Adjectives",
+    "pronunciation": "ees-toh-ree-koh"
+  },
+  {
+    "id": "fisico",
+    "spanish": "físico",
+    "english": "physical",
+    "category": "Adjectives",
+    "pronunciation": "fee-see-koh"
+  },
+  {
+    "id": "mental",
+    "spanish": "mental",
+    "english": "mental",
+    "category": "Adjectives",
+    "pronunciation": "men-tahl"
+  },
+  {
+    "id": "emocional",
+    "spanish": "emocional",
+    "english": "emotional",
+    "category": "Adjectives",
+    "pronunciation": "eh-moh-syo-nahl"
+  },
+  {
+    "id": "personal",
+    "spanish": "personal",
+    "english": "personal",
+    "category": "Adjectives",
+    "pronunciation": "per-soh-nahl"
+  },
+  {
+    "id": "profesional",
+    "spanish": "profesional",
+    "english": "professional",
+    "category": "Adjectives",
+    "pronunciation": "proh-feh-syo-nahl"
+  },
+  {
+    "id": "oficial",
+    "spanish": "oficial",
+    "english": "official",
+    "category": "Adjectives",
+    "pronunciation": "oh-fee-syahl"
+  },
+  {
+    "id": "real",
+    "spanish": "real",
+    "english": "royal/real",
+    "category": "Adjectives",
+    "pronunciation": "reh-ahl"
+  },
+  {
+    "id": "falso",
+    "spanish": "falso",
+    "english": "false",
+    "category": "Adjectives",
+    "pronunciation": "fahl-soh"
+  },
+  {
+    "id": "correcto",
+    "spanish": "correcto",
+    "english": "correct",
+    "category": "Adjectives",
+    "pronunciation": "koh-rrek-toh"
+  },
+  {
+    "id": "incorrecto",
+    "spanish": "incorrecto",
+    "english": "incorrect",
+    "category": "Adjectives",
+    "pronunciation": "een-koh-rrek-toh"
+  },
+  {
+    "id": "exacto",
+    "spanish": "exacto",
+    "english": "exact",
+    "category": "Adjectives",
+    "pronunciation": "ek-sahk-toh"
+  },
+  {
+    "id": "justo",
+    "spanish": "justo",
+    "english": "fair/just",
+    "category": "Adjectives",
+    "pronunciation": "hoos-toh"
+  },
+  {
+    "id": "injusto",
+    "spanish": "injusto",
+    "english": "unfair",
+    "category": "Adjectives",
+    "pronunciation": "een-hoos-toh"
+  },
+  {
+    "id": "ilegal",
+    "spanish": "ilegal",
+    "english": "illegal",
+    "category": "Adjectives",
+    "pronunciation": "ee-leh-gahl"
+  },
+  {
+    "id": "legal",
+    "spanish": "legal",
+    "english": "legal",
+    "category": "Adjectives",
+    "pronunciation": "leh-gahl"
+  },
+  {
+    "id": "responsable",
+    "spanish": "responsable",
+    "english": "responsible",
+    "category": "Adjectives",
+    "pronunciation": "res-pohn-sah-bleh"
+  },
+  {
+    "id": "libre",
+    "spanish": "libre",
+    "english": "free",
+    "category": "Adjectives",
+    "pronunciation": "lee-breh"
+  },
+  {
+    "id": "ocupado",
+    "spanish": "ocupado",
+    "english": "busy/occupied",
+    "category": "Adjectives",
+    "pronunciation": "oh-koo-pah-doh"
+  },
+  {
+    "id": "disponible",
+    "spanish": "disponible",
+    "english": "available",
+    "category": "Adjectives",
+    "pronunciation": "dees-poh-nee-bleh"
+  },
+  {
+    "id": "abierto-2",
+    "spanish": "abierto",
+    "english": "open",
+    "category": "Adjectives",
+    "pronunciation": "ah-byer-toh"
+  },
+  {
+    "id": "cerrado-2",
+    "spanish": "cerrado",
+    "english": "closed",
+    "category": "Adjectives",
+    "pronunciation": "seh-rrah-doh"
+  },
+  {
+    "id": "roto",
+    "spanish": "roto",
+    "english": "broken",
+    "category": "Adjectives",
+    "pronunciation": "rroh-toh"
+  },
+  {
+    "id": "arreglado",
+    "spanish": "arreglado",
+    "english": "fixed",
+    "category": "Adjectives",
+    "pronunciation": "ah-rreh-glah-doh"
+  },
+  {
+    "id": "perdido",
+    "spanish": "perdido",
+    "english": "lost",
+    "category": "Adjectives",
+    "pronunciation": "per-dee-doh"
+  }
+]

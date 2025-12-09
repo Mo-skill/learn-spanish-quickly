@@ -1,0 +1,142 @@
+[
+  {
+    "id": "viajes-1",
+    "spanish": "billete",
+    "english": "ticket",
+    "category": "Travel",
+    "example": "Necesito un billete de ida y vuelta."
+  },
+  {
+    "id": "viajes-2",
+    "spanish": "equipaje",
+    "english": "luggage",
+    "category": "Travel",
+    "example": "El equipaje de mano debe ir arriba."
+  },
+  {
+    "id": "viajes-3",
+    "spanish": "retraso",
+    "english": "delay",
+    "category": "Travel",
+    "example": "El vuelo tiene un retraso de treinta minutos."
+  },
+  {
+    "id": "viajes-4",
+    "spanish": "ventanilla",
+    "english": "window seat",
+    "category": "Travel",
+    "example": "Prefiero la ventanilla para ver las nubes."
+  },
+  {
+    "id": "viajes-5",
+    "spanish": "pasaporte",
+    "english": "passport",
+    "category": "Travel",
+    "example": "Guarda el pasaporte en un lugar seguro."
+  },
+  {
+    "id": "comida-1",
+    "spanish": "desayuno",
+    "english": "breakfast",
+    "category": "Food",
+    "example": "El desayuno incluye café y tostadas."
+  },
+  {
+    "id": "comida-2",
+    "spanish": "almuerzo",
+    "english": "lunch",
+    "category": "Food",
+    "example": "Tomamos el almuerzo a las dos."
+  },
+  {
+    "id": "comida-3",
+    "spanish": "cena",
+    "english": "dinner",
+    "category": "Food",
+    "example": "La cena fue ligera y saludable."
+  },
+  {
+    "id": "comida-4",
+    "spanish": "sabor",
+    "english": "flavor",
+    "category": "Food",
+    "example": "Este plato tiene un sabor muy intenso."
+  },
+  {
+    "id": "comida-5",
+    "spanish": "receta",
+    "english": "recipe",
+    "category": "Food",
+    "example": "¿Me compartes la receta de la sopa?"
+  },
+  {
+    "id": "trabajo-1",
+    "spanish": "reunión",
+    "english": "meeting",
+    "category": "Work",
+    "example": "La reunión empieza a las nueve en punto."
+  },
+  {
+    "id": "trabajo-2",
+    "spanish": "informe",
+    "english": "report",
+    "category": "Work",
+    "example": "Debo entregar el informe mañana."
+  },
+  {
+    "id": "trabajo-3",
+    "spanish": "plazo",
+    "english": "deadline",
+    "category": "Work",
+    "example": "El plazo final es el viernes."
+  },
+  {
+    "id": "trabajo-4",
+    "spanish": "jefe",
+    "english": "boss",
+    "category": "Work",
+    "example": "El jefe aprobó el proyecto."
+  },
+  {
+    "id": "trabajo-5",
+    "spanish": "ascenso",
+    "english": "promotion",
+    "category": "Work",
+    "example": "Ella recibió un ascenso este año."
+  },
+  {
+    "id": "social-1",
+    "spanish": "saludo",
+    "english": "greeting",
+    "category": "Social",
+    "example": "Un saludo cordial abre cualquier conversación."
+  },
+  {
+    "id": "social-2",
+    "spanish": "cita",
+    "english": "date/appointment",
+    "category": "Social",
+    "example": "Tengo una cita a las seis."
+  },
+  {
+    "id": "social-3",
+    "spanish": "cumpleaños",
+    "english": "birthday",
+    "category": "Social",
+    "example": "Mi cumpleaños es en marzo."
+  },
+  {
+    "id": "social-4",
+    "spanish": "fiesta",
+    "english": "party",
+    "category": "Social",
+    "example": "La fiesta fue en la terraza."
+  },
+  {
+    "id": "social-5",
+    "spanish": "brindis",
+    "english": "toast",
+    "category": "Social",
+    "example": "Hicimos un brindis por el equipo."
+  }
+]
