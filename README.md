@@ -44,7 +44,7 @@ A beautiful, mobile-first Progressive Web App for learning Spanish vocabulary us
 ### Development
 ```bash
 npm install          # Install dependencies
-npm run dev          # Start dev server → http://localhost:5173
+npm run dev          # Start dev server → http://localhost:.... 
 ```
 
 ### Production Build
