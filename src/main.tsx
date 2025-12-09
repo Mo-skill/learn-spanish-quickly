@@ -13,7 +13,7 @@ if (!rootElement) {
 
 ReactDOM.createRoot(rootElement).render(
   <React.StrictMode>
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <BrowserRouter basename="/learn-spanish-quickly/">
       <ThemeProvider>
         <App />
       </ThemeProvider>
